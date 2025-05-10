@@ -14,7 +14,6 @@ function startDraw(greenOnly) {
 
 const WidthInput = document.getElementById("WidthInput").value;
 const HeightInput = document.getElementById("HeightInput").value;
-console.log(WidthInput, HeightInput)
 
 ctx.clearRect(0, 0, canvas.width, canvas.height);
 
