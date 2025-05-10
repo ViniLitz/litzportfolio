@@ -19,6 +19,13 @@ button {
 }
 
 a {
+    margin-top: 20px;
     color: rgb(201, 201, 201);
     font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(105, 105, 105);
+    text-decoration: underline;
 }

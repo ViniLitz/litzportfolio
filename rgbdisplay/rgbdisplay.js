@@ -1,3 +1,6 @@
+const WidthInput = document.getElementById("WidthInput").value;
+const HeightInput = document.getElementById("HeightInput").value;
+
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 
@@ -13,8 +16,8 @@ return randomHexDigit() + randomHexDigit();
 function startDraw(greenOnly) {
 ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-const cols = 72;
-const rows = 36;
+const cols = WidthInput;
+const rows = HeightInput;
 const rectWidth = canvas.width / cols;
 const rectHeight = canvas.height / (rows * 3); // 3 cores por linha
 
