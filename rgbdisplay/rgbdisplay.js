@@ -1,6 +1,3 @@
-const WidthInput = document.getElementById("WidthInput").value;
-const HeightInput = document.getElementById("HeightInput").value;
-
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 
@@ -14,6 +11,10 @@ return randomHexDigit() + randomHexDigit();
 }
 
 function startDraw(greenOnly) {
+
+const WidthInput = document.getElementById("WidthInput").value;
+const HeightInput = document.getElementById("HeightInput").value;
+
 ctx.clearRect(0, 0, canvas.width, canvas.height);
 
 const cols = 72;
