@@ -24,7 +24,8 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     border-radius: 0px;
-    color: rgb(201, 201, 201);
+    background-color: rgb(201, 201, 201);
+    color: #0000000;
 }
 
 button:hover {
@@ -33,12 +34,14 @@ button:hover {
 
 a {
     margin-top: 20px;
-    color: rgb(201, 201, 201);
+    color: #0000000;
     font-size: 20px;
     text-decoration: none;
+    padding: 5px;
+    background-color: rgb(201, 201, 201);
 }
 
 a:hover {
-    color: rgb(141, 141, 141);
+    background-color: rgb(141, 141, 141);
     text-decoration: underline;
 }
