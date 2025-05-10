@@ -16,8 +16,8 @@ return randomHexDigit() + randomHexDigit();
 function startDraw(greenOnly) {
 ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-const cols = WidthInput;
-const rows = HeightInput;
+const cols = HeightInput;
+const rows = WidthInput;
 const rectWidth = canvas.width / cols;
 const rectHeight = canvas.height / (rows * 3); // 3 cores por linha
 
@@ -34,6 +34,7 @@ for (let row = 0; row < rows; row++) {
         green = getRandomColorComponent();
         blue = "00";
     } else {
+        console.log(WidthInput, HeightInput)
         red = getRandomColorComponent();
         green = getRandomColorComponent();
         blue = getRandomColorComponent();
