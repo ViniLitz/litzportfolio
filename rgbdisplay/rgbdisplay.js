@@ -17,14 +17,14 @@ function ShadesOfOrange(RGB) {
     let RandomOrangeComponent = PossibleColors[Math.floor(Math.random() * 5)]
     switch (RGBColors) {
         case 'Red':
-            const RedOrange = ShadesOfOrange[RandomOrangeComponent];
+            var RedOrange = ShadesOfOrange[RandomOrangeComponent];
             console.log(RedOrange);
             break;
         case 'Green':
-            const GreenOrange = ShadesOfOrange[RandomOrangeComponent += 1];
+            var GreenOrange = ShadesOfOrange[RandomOrangeComponent += 1];
             break;
         case 'Blue':
-            const BlueOrange = ShadesOfOrange[RandomOrangeComponent += 2];
+            var BlueOrange = ShadesOfOrange[RandomOrangeComponent += 2];
             break;
     }
 }
