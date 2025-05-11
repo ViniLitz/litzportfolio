@@ -35,7 +35,6 @@ for (let row = 0; row < rows; row++) {
         green = getRandomColorComponent();
         blue = "00";
     } else {
-        
         red = getRandomColorComponent();
         green = getRandomColorComponent();
         blue = getRandomColorComponent();
