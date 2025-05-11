@@ -11,6 +11,23 @@ document.getElementById('upload').addEventListener('change', function(event) {
 
         // Desenha a imagem no canvas
         ctx.drawImage(img, 0, 0);
+        // Lê os dados de imagem (pixels)
+        const imageData = ctx.getImageData(0, 0, img.width, img.height).data;
+
+        const ImageHexColors = [];
+
+        // Itera sobre os pixels
+        for (let i = 0; i < imageData.length; i += 4) {
+            const r = imageData[i];
+            const g = imageData[i + 1];
+            const b = imageData[i + 2];
+            // const a = imageData[i + 3]; // você pode usar o alfa se quiser
+
+            const ImageHexCodes = `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`;
+            ImageHexColors.push(ImageHexCodes);
+        }
+
+        console.log(ImageHexColorsColors); // Aqui está seu array com cores HEX
     }
 });
 
@@ -46,6 +63,8 @@ function ShadesOfOrange() {
 }
 
 function startDraw(DrawingColors) {
+
+    canvas.width, canvas.height = 1000, 500
 
     let Colors = String(DrawingColors)
 
