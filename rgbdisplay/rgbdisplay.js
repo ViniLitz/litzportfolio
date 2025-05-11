@@ -14,7 +14,9 @@ function ShadesOfOrange() {
     let PossibleColors = [0, 3, 6, 9, 12]
     const ShadesOfOrange = ["#FF", "A5", "00", "FF", "8C", "00", "FF", "7F", "50", "FF", "45", "00", "EC", "58", "00"]
     let RandomOrangeComponent = PossibleColors[Math.floor(Math.random() * 5)]
-    return ShadesOfOrange() ShadesOfOrange[RandomOrangeComponent] + ShadesOfOrange[RandomOrangeComponent += 1] + ShadesOfOrange[RandomOrangeComponent += 2]
+    const RedOrange = ShadesOfOrange[RandomOrangeComponent]
+    const GreenOrange = ShadesOfOrange[RandomOrangeComponent += 1]
+    const BlueOrange = ShadesOfOrange[RandomOrangeComponent += 2]
 }
 
 function startDraw(DrawingColors) {
@@ -51,7 +53,10 @@ for (let row = 0; row < rows; row++) {
             blue = "00";
             break;
         case "OrangeColors":
-
+            ShadesOfOrange;
+            red = RedOrange;
+            green = GreenOrange;
+            blue = BlueOrange;
     }
 
     /*if (DrawingColors) {
