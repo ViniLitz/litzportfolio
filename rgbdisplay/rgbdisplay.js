@@ -16,13 +16,13 @@ function ShadesOfOrange(RGB) {
     let RandomOrangeComponent = PossibleColors[Math.floor(Math.random() * 5)]
     switch (RGB) {
         case 'Red':
-            return ShadesOfOrange[RandomOrangeComponent];
+            const RedOrange = ShadesOfOrange[RandomOrangeComponent];
             break;
         case 'Green':
-            return ShadesOfOrange[RandomOrangeComponent += 1];
+            const GreenOrange = ShadesOfOrange[RandomOrangeComponent += 1];
             break;
         case 'Blue':
-            return ShadesOfOrange[RandomOrangeComponent += 2];
+            const BlueOrange = ShadesOfOrange[RandomOrangeComponent += 2];
             break;
     }
 }
@@ -62,18 +62,12 @@ function startDraw(DrawingColors) {
                 break;
             case "OrangeColors":
                 ShadesOfOrange('Red');
-                red = ShadesOfOrange();
+                red = RedOrange;
                 ShadesOfOrange('Green');
-                green = ShadesOfOrange();
+                green = GreenOrange;
                 ShadesOfOrange('Blue');
-                blue = ShadesOfOrange();
+                blue = BlueOrange;
         }
-
-        /*if (DrawingColors) {
-
-        } else {
-        
-        }*/
 
         // Retângulo vermelho
         ctx.fillStyle = `#${red}0000`;

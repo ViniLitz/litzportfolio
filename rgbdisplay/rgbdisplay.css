@@ -30,7 +30,7 @@ button {
 }
 
 button:hover {
-    color: rgb(141, 141, 141);
+    bacground-color: rgb(141, 141, 141);
 }
 
 a {
@@ -40,6 +40,7 @@ a {
     text-decoration: none;
     padding: 10px;
     background-color: rgb(201, 201, 201);
+    color: #000000;
 }
 
 a:hover {
