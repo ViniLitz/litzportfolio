@@ -64,7 +64,8 @@ function ShadesOfOrange() {
 
 function startDraw(DrawingColors) {
 
-    canvas.width, canvas.height = 1000, 500
+    canvas.width = 1000
+    canvas.height = 500
 
     let Colors = String(DrawingColors)
 

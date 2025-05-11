@@ -12,6 +12,7 @@ input {
     border: 2px solid rgb(141, 141, 141);
     font-size: 20px;
     margin-top: 15px;
+    padding: 10px;
 }
 
 canvas {
