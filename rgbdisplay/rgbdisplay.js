@@ -10,7 +10,7 @@ function getRandomColorComponent() {
 return randomHexDigit() + randomHexDigit();
 }
 
-function startDraw(greenOnly) {
+function startDraw(DrawingColors) {
 
 const WidthInput = document.getElementById("WidthInput").value;
 const HeightInput = document.getElementById("HeightInput").value;
@@ -30,15 +30,24 @@ for (let row = 0; row < rows; row++) {
     // Cores RGB
     let red, green, blue;
 
-    if (greenOnly) {
-        red = "00";
-        green = getRandomColorComponent();
-        blue = "00";
-    } else {
-        red = getRandomColorComponent();
-        green = getRandomColorComponent();
-        blue = getRandomColorComponent();
+    switch (DrawingColors) {
+        case RandomColors:
+            red = getRandomColorComponent();
+            green = getRandomColorComponent();
+            blue = getRandomColorComponent();
+            break;
+        case GreenColors:
+            red = "00";
+            green = getRandomColorComponent();
+            blue = "00";
+            break;
     }
+
+    /*if (DrawingColors) {
+
+    } else {
+        
+    }*/
 
     // Retângulo vermelho
     ctx.fillStyle = `#${red}0000`;
