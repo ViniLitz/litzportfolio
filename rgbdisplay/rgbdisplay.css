@@ -12,13 +12,16 @@ input {
     border: 2px solid rgb(141, 141, 141);
     font-size: 20px;
     margin-top: 15px;
-    padding: 10px;
+    padding: 7px;
+    width: 500px;
 }
 
 canvas {
     border: 2px solid rgb(201, 201, 201);
     display: block;
     margin-top: 20px;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 }
 
 button {
@@ -39,11 +42,19 @@ a {
     color: #000000;
     font-size: 20px;
     text-decoration: none;
-    padding: 10px;
+    padding: 15px;
     background-color: rgb(201, 201, 201);
     color: #000000;
 }
 
 a:hover {
     background-color: rgb(141, 141, 141);
+}
+
+div {
+    display: none;
+    font-weight: bold; 
+    font-size: 20px; 
+    color: white; 
+    margin-top: 20px;
 }

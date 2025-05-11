@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <title>RGB Display</title>
@@ -9,14 +9,18 @@
   </head>
   <body>
     <form id="form">
-      <input onkeydown='handleEnter(event)' id="WidthInput" placeholder="Number of rows" type="number" min="1" > <br>
-      <input id="HeightInput" placeholder="Number of columns" type="number" min="1">
+      <input onkeydown='handleEnter(event)' id="WidthInput" placeholder="Número de pixels nas linhas" type="number" min="1" > <br>
+      <input onkeydown='handleEnter(event)' id="HeightInput" placeholder="Número de pixels nas colunas" type="number" min="1"> <br>
+      <input onkeydown='handleEnter(event)' id="CanvasWidthInput" placeholder="Largura da tela (%)" type="number" min="1">
     </form>
     <input type="file" id="upload" accept="image/*">
-    <button onclick="startDraw('GreenColors')">Green Colors</button>
-    <button onclick="startDraw('RandomColors')">Random Colors</button>
-    <button onclick="startDraw('OrangeColors')">Orange Colors</button>
-    <canvas id="canvas"></canvas>
-    <a href="https://vinilitz.github.io/litzportfolio/">Go back</a>
+    <button onclick="startDraw('GreenColors')">Cores Verdes</button>
+    <button onclick="startDraw('RandomColors')">Cores Aleatórias</button>
+    <button onclick="startDraw('OrangeColors')">Cores Laranjas</button>
+    <div id="loadingIndicator">
+      Carregando imagem...
+    </div>
+    <canvas id="canvas" width="1280" height="720"></canvas>
+    <a href="https://vinilitz.github.io/litzportfolio/">Ir para a página principal</a>
   </body>
 </html>
