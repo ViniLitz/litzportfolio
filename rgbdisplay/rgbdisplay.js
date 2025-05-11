@@ -10,7 +10,16 @@ function getRandomColorComponent() {
 return randomHexDigit() + randomHexDigit();
 }
 
+function ShadesOfOrange() {
+    let PossibleColors = [0, 3, 6, 9, 12]
+    const ShadesOfOrange = ["#FF", "A5", "00", "FF", "8C", "00", "FF", "7F", "50", "FF", "45", "00", "EC", "58", "00"]
+    let RandomOrangeComponent = PossibleColors[Math.floor(Math.random() * 5)]
+    return ShadesOfOrange() ShadesOfOrange[RandomOrangeComponent] + ShadesOfOrange[RandomOrangeComponent += 1] + ShadesOfOrange[RandomOrangeComponent += 2]
+}
+
 function startDraw(DrawingColors) {
+
+let Colors = String(DrawingColors)
 
 const WidthInput = document.getElementById("WidthInput").value;
 const HeightInput = document.getElementById("HeightInput").value;
@@ -30,17 +39,19 @@ for (let row = 0; row < rows; row++) {
     // Cores RGB
     let red, green, blue;
 
-    switch (DrawingColors) {
-        case RandomColors:
+    switch (Colors) {
+        case "RandomColors":
             red = getRandomColorComponent();
             green = getRandomColorComponent();
             blue = getRandomColorComponent();
             break;
-        case GreenColors:
+        case "GreenColors":
             red = "00";
             green = getRandomColorComponent();
             blue = "00";
             break;
+        case "OrangeColors":
+
     }
 
     /*if (DrawingColors) {
