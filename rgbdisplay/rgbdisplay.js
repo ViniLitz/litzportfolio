@@ -53,7 +53,7 @@ for (let row = 0; row < rows; row++) {
             blue = "00";
             break;
         case "OrangeColors":
-            ShadesOfOrange;
+            ShadesOfOrange();
             red = RedOrange;
             green = GreenOrange;
             blue = BlueOrange;
