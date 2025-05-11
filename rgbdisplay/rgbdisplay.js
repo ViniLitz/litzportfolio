@@ -17,6 +17,7 @@ function ShadesOfOrange(RGB) {
     switch (RGB) {
         case 'Red':
             const RedOrange = ShadesOfOrange[RandomOrangeComponent];
+            console.log(RedOrange);
             break;
         case 'Green':
             const GreenOrange = ShadesOfOrange[RandomOrangeComponent += 1];
