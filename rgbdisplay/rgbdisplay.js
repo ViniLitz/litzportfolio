@@ -1,6 +1,19 @@
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 
+document.getElementById('upload').addEventListener('change', function(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+    const img = new Image();
+    img.onload = function() {
+        canvas.width = img.width;
+        canvas.height = img.height;
+
+        // Desenha a imagem no canvas
+        ctx.drawImage(img, 0, 0);
+    }
+});
+
 function randomHexDigit() {
     const chars = "0123456789ABCDEF";
     return chars[Math.floor(Math.random() * 16)];
