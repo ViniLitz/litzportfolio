@@ -11,10 +11,11 @@ function getRandomColorComponent() {
 }
 
 function ShadesOfOrange(RGB) {
+    let RGBColors = String(RGB)
     let PossibleColors = [0, 3, 6, 9, 12]
     const ShadesOfOrange = ["#FF", "A5", "00", "FF", "8C", "00", "FF", "7F", "50", "FF", "45", "00", "EC", "58", "00"]
     let RandomOrangeComponent = PossibleColors[Math.floor(Math.random() * 5)]
-    switch (RGB) {
+    switch (RGBColors) {
         case 'Red':
             const RedOrange = ShadesOfOrange[RandomOrangeComponent];
             console.log(RedOrange);
