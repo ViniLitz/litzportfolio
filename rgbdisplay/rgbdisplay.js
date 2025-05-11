@@ -19,9 +19,9 @@ function handleEnter(event) {
     }
 }
 
-var RedOrange = "0"
-var GreenOrange = "0"
-var BlueOrange = "0"
+var RedOrange
+var GreenOrange
+var BlueOrange
 
 function ShadesOfOrange(RGB) {
     let RGBColors = String(RGB)
