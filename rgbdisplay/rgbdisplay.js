@@ -10,6 +10,10 @@ function getRandomColorComponent() {
     return randomHexDigit() + randomHexDigit();
 }
 
+var RedOrange = "0"
+var GreenOrange = "0"
+var BlueOrange = "0"
+
 function ShadesOfOrange(RGB) {
     let RGBColors = String(RGB)
     let PossibleColors = [0, 3, 6, 9, 12]
@@ -17,14 +21,13 @@ function ShadesOfOrange(RGB) {
     let RandomOrangeComponent = PossibleColors[Math.floor(Math.random() * 5)]
     switch (RGBColors) {
         case 'Red':
-            var RedOrange = ShadesOfOrange[RandomOrangeComponent];
-            console.log(RedOrange);
+            RedOrange = ShadesOfOrange[RandomOrangeComponent];
             break;
         case 'Green':
-            var GreenOrange = ShadesOfOrange[RandomOrangeComponent += 1];
+            GreenOrange = ShadesOfOrange[RandomOrangeComponent += 1];
             break;
         case 'Blue':
-            var BlueOrange = ShadesOfOrange[RandomOrangeComponent += 2];
+            BlueOrange = ShadesOfOrange[RandomOrangeComponent += 2];
             break;
     }
 }
