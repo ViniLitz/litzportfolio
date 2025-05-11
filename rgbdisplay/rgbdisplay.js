@@ -23,21 +23,13 @@ var RedOrange
 var GreenOrange
 var BlueOrange
 
-function ShadesOfOrange(RGB) {
+function ShadesOfOrange() {
     let PossibleColors = [0, 3, 6, 9, 12]
     const ShadesOfOrange = ["#FF", "A5", "00", "FF", "AC", "1C", "F2", "8C", "28", "FF", "5F", "1F", "FF", "5F", "15"]
     let RandomOrangeComponent = PossibleColors[(Math.floor(Math.random() * 5))]
-    switch (RGB) {
-        case 'Red':
-            RedOrange = String(ShadesOfOrange[RandomOrangeComponent]);
-            break;
-        case 'Green':
-            GreenOrange = String(ShadesOfOrange[RandomOrangeComponent += 1]);
-            break;
-        case 'Blue':
-            BlueOrange = String(ShadesOfOrange[RandomOrangeComponent += 2]);
-            break;
-    }
+    RedOrange = String(ShadesOfOrange[RandomOrangeComponent]);
+    GreenOrange = String(ShadesOfOrange[RandomOrangeComponent + 1]);
+    BlueOrange = String(ShadesOfOrange[RandomOrangeComponent + 2]);
 }
 
 function startDraw(DrawingColors) {
@@ -74,11 +66,9 @@ function startDraw(DrawingColors) {
                 blue = "00";
                 break;
             case "OrangeColors":
-                ShadesOfOrange('Red');
+                ShadesOfOrange();
                 red = RedOrange;
-                ShadesOfOrange('Green');
                 green = GreenOrange;
-                ShadesOfOrange('Blue');
                 blue = BlueOrange;
         }
 
