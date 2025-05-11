@@ -17,7 +17,7 @@ var BlueOrange = "0"
 function ShadesOfOrange(RGB) {
     let RGBColors = String(RGB)
     let PossibleColors = [0, 3, 6, 9, 12]
-    const ShadesOfOrange = ["#FF", "A5", "00", "FF", "8C", "00", "FF", "7F", "50", "FF", "45", "00", "EC", "58", "00"]
+    const ShadesOfOrange = ["#FF", "A5", "00", "FF", "AC", "1C", "F2", "8C", "28", "FF", "5F", "1F", "FF", "5F", "15"]
     let RandomOrangeComponent = PossibleColors[Math.floor(Math.random() * 5)]
     switch (RGBColors) {
         case 'Red':
