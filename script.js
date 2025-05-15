@@ -1,3 +1,8 @@
+const userLang = navigator.language || navigator.userLanguage;
+if (userLang.startsWith('pt')) {
+  window.location.href = 'pt-br';
+}
+
 const LanguageSelectorBtn = document.getElementById("LanguageSelector")
 const LanguageSelectorChevron = document.getElementById("ChevronLanguageSelector")
 
