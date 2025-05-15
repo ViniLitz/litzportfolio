@@ -1,0 +1,8 @@
+body {
+    background-color: #6A994E;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    font-family: "Lato", sans-serif;
+    user-select: none;
+}
