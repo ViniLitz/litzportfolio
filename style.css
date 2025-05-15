@@ -8,8 +8,7 @@ body {
 }
 
 .top {
-    padding: 70px 70px ;
-    width: 100%vh;
+    padding: 70px 70px;
     height: 35vh;
     background-color: #F2E8CF;
     color: #6A994E;
@@ -83,4 +82,14 @@ h2 {
 #en {
     right: 40px;
     top: 160px; 
+}
+
+@media only screen and (max-width: 600px) {
+    .top {
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
 }
