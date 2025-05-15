@@ -1,6 +1,6 @@
 const userLang = navigator.language || navigator.userLanguage;
 if (userLang.startsWith('pt')) {
-  window.location.href = 'pt-br';
+  window.location.href = 'indexpt-br.html';
 }
 
 const LanguageSelectorBtn = document.getElementById("LanguageSelector")
