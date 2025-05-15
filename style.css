@@ -44,7 +44,7 @@ h2 {
 }
 .ProjectLink {
     margin-left: 70px;
-    margin-top: 20px;
+    margin-top: 70px;
     color: #F2E8CF;
     font-size: 25px;
     text-decoration: none;
@@ -100,20 +100,18 @@ h2 {
         font-size: 15px;
         padding: 12px;
         margin-left: 20px;
-        margin-top: 50px;
+        margin-top: 20px;
     }
 
     .LanguageSelector {
         font-size: 10px;
         padding: 10px;
-        right: 20px;
-        top: 20px;
+        right: 10px;
+        top: 10px;
     }
 
     .LanguageOption {
         font-size: 10px;
         padding: 10px;
-        right: 20px;
-        top: 20px;
     }
 }
