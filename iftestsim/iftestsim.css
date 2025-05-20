@@ -23,3 +23,14 @@ body {
     padding: 100px;
     font-size: 35px;
 }
+
+input[type="radio"] {
+    color: black;
+    width: 26px;
+    height: 26px;
+    padding: 0px;
+}
+
+input[type="radio"]:checked {
+    background: #6A994E;
+}

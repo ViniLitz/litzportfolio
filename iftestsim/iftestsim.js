@@ -4,7 +4,7 @@ FirstQuestion.addEventListener("submit", (event) => {
     const FirstQuestionData = new FormData(FirstQuestion);
     let output = "";
         for (const entry of FirstQuestionData) {
-      output = `${output}${entry[0]}=${entry[1]}\r`;
+      output = `${entry[1]}`;
     }
     console.log(output);
     event.preventDefault();
