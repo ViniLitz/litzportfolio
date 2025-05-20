@@ -31,7 +31,7 @@ input[type="radio"] {
     color: black;
     width: 26px;
     height: 26px;
-    transform: scale(0.75);
+    transform: scale(0.75) translateY(4px);
     transition: 120ms transform ease-in-out;
 }
 
