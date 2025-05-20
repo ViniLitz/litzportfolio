@@ -1,3 +1,10 @@
+let QuestionsAndAnswers = [
+    ["question1", "a"], ["question2", "b"]
+]
+
+const FirstQuestionText = document.querySelector(".FirstQuestionText");
+FirstQuestionText.innerhtml = "oi"
+
 const FirstQuestion = document.querySelector(".FirstQuestion");
 
 FirstQuestion.addEventListener("submit", (event) => {
