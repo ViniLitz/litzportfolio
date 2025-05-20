@@ -10,4 +10,4 @@ FirstQuestion.addEventListener("submit", (event) => {
     event.preventDefault();
   },
   false,
-)
+);
