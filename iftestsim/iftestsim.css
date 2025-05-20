@@ -25,12 +25,17 @@ body {
 }
 
 input[type="radio"] {
+    appearance: none;
+    border: 2px solid black;
+    border-radius: 50%;
     color: black;
     width: 26px;
     height: 26px;
-    padding: 0px;
+    transform: scale(0.75);
+    transition: 120ms transform ease-in-out;
 }
 
 input[type="radio"]:checked {
     background: #6A994E;
+    transform: scale(1);
 }
