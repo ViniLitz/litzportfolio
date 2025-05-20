@@ -1,4 +1,4 @@
-const FirstQuestion = document.querySelector("FirstQuestion");
+const FirstQuestion = document.querySelector(".FirstQuestion");
 
 FirstQuestion.addEventListener("submit", (event) => {
     const FirstQuestionData = new FormData(FirstQuestion);
