@@ -6,3 +6,18 @@ body {
     font-family: "Lato", sans-serif;
     user-select: none;
 }
+
+.top {
+    padding: 70px 70px;
+    height: 35%;
+    background-color: #F2E8CF;
+    color: #6A994E;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.testarea {
+    background-color: white;
+    color: black;
+    padding: 100px;
+}
