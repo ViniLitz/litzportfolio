@@ -27,7 +27,10 @@ for (let i = 0; i < 4; i++) {
     OptionALabel.for = "Option" + OptionLetter[i];
     OptionALabel.innerHTML = "2. " + QuestionsAndAnswers[1][i + 1]
 
+    const OptionBreaks = document.createElement('br');
+
     QuestionForm.appendChild(OptionInput)
+    QuestionForm.appendChild(OptionBreaks)
 }
     
 const FirstQuestionText = document.querySelector(".FirstQuestionText");
