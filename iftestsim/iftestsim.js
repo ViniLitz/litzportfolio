@@ -13,8 +13,10 @@ const OptionLetter = ["A", "B", "C", "D", "ypsilow"]
 
 const QuestionText = document.createElement("p")
 QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
+TestArea.appendChild(QuestionText)
 
 const QuestionForm = document.createElement("form")
+TestArea.appendChild(QuestionForm)
 
 for (let i = 0; i < 4; i++) {
     const OptionInput = document.createElement("input")
@@ -28,9 +30,6 @@ for (let i = 0; i < 4; i++) {
     QuestionForm.appendChild(OptionInput)
 }
     
-TestArea.appendChild(QuestionText)
-TestArea.appendChild(QuestionForm)
-
 const FirstQuestionText = document.querySelector(".FirstQuestionText");
 FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]
 
