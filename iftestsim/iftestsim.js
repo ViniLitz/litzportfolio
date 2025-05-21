@@ -9,7 +9,7 @@ let QuestionsAndAnswers = [
 
 const TestArea = document.querySelector(".testarea")
 
-const OptionLetter = ["A", "B", "C", "D", "ypsilow"]
+const OptionLetter = ["A", "B", "C", "D",]
 
 const QuestionText = document.createElement("p")
 QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
@@ -24,7 +24,6 @@ for (let i = 0; i < 4; i++) {
     OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
 
     const OptionLabel = document.createElement("label")
-    OptionLabel.for = "Option" + OptionLetter[i];
     OptionLabel.innerHTML = OptionLetter[i] + ") " + QuestionsAndAnswers[1][i += 1]
 
     const OptionBreak = document.createElement('br');
