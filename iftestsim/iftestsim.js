@@ -18,7 +18,7 @@ TestArea.appendChild(QuestionText)
 const QuestionForm = document.createElement("form")
 TestArea.appendChild(QuestionForm)
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 5; i++) {
     const OptionInput = document.createElement("input")
     OptionInput.type = "radio"
     OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
