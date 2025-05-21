@@ -25,7 +25,7 @@ for (let i = 0; i < 4; i++) {
 
     const OptionLabel = document.createElement("label")
     OptionLabel.for = "Option" + OptionLetter[i];
-    OptionLabel.innerHTML = QuestionsAndAnswers[1][i += 1]
+    OptionLabel.innerHTML = toLowerCase(OptionLetter[i]) + ") " + QuestionsAndAnswers[1][i += 1]
 
     const OptionBreak = document.createElement('br');
 
