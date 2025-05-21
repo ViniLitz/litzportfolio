@@ -90,7 +90,11 @@ function GenerateTest() {
         const QuestionForm = document.querySelector(".form" + (FormsIndex + 1))
         const FormsData = new FormData(QuestionForm);
         for (const entry of FormsData) {
-            Answers.push(`${entry[1]}`);
+            if (typeof `${entry[1]}` === "string") {
+                Answers.push(`${entry[1]}`); 
+            } else {
+               Answers.push("");
+            }
         }
     }
     console.log(Answers);
