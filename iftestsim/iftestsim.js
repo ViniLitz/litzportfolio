@@ -7,6 +7,12 @@ let QuestionsAndAnswers = [
 
 //Inserir as questões na página
 
+const TestArea = document.querySelector(".testarea")
+
+const QuestionText = document.createElement("p")
+QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
+TestArea.appendChild(QuestionText)
+
 const FirstQuestionText = document.querySelector(".FirstQuestionText");
 FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]
 
