@@ -8,32 +8,34 @@ let QuestionsAndAnswers = [
 //Inserir as questões na página
 
 function GenerateTest() {
-    const TestArea = document.querySelector(".testarea")
-    const OptionLetter = ["a", "b", "c", "d"]
+    for (let i = 0; i < 2; i++) {
+        const TestArea = document.querySelector(".testarea")
+        const OptionLetter = ["a", "b", "c", "d"]
 
-    const QuestionText = document.createElement("p")
-    QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
-    TestArea.appendChild(QuestionText)
+        const QuestionText = document.createElement("p")
+        QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
+        TestArea.appendChild(QuestionText)
 
-    const QuestionForm = document.createElement("form")
-    TestArea.appendChild(QuestionForm)
+        const QuestionForm = document.createElement("form")
+        TestArea.appendChild(QuestionForm)
 
-    for (let i = 0; i < 4; i++) {
-        const OptionInput = document.createElement("input")
-        OptionInput.type = "radio"
-        OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
-        const FirstQuestionText = document.querySelector(".FirstQuestionText");
-    FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]OptionInput.value = OptionLetter[i]
-        OptionInput.name = "AnswerOption"
+        for (let i = 0; i < 4; i++) {
+            const OptionInput = document.createElement("input")
+            OptionInput.type = "radio"
+            OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
+            const FirstQuestionText = document.querySelector(".FirstQuestionText");
+            FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]OptionInput.value = OptionLetter[i]
+            OptionInput.name = "AnswerOption"
 
-        const OptionLabel = document.createElement("label")
-        OptionLabel.innerHTML = OptionLetter[i] + ") " + QuestionsAndAnswers[1][i + 1]
+            const OptionLabel = document.createElement("label")
+            OptionLabel.innerHTML = OptionLetter[i] + ") " + QuestionsAndAnswers[1][i + 1]
 
-        const OptionBreak = document.createElement('br');
+            const OptionBreak = document.createElement('br');
 
-        QuestionForm.appendChild(OptionInput)
-        QuestionForm.appendChild(OptionLabel)
-        QuestionForm.appendChild(OptionBreak)
+            QuestionForm.appendChild(OptionInput)
+            QuestionForm.appendChild(OptionLabel)
+            QuestionForm.appendChild(OptionBreak)
+        }
     }
 }
 
