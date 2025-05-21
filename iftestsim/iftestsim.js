@@ -43,6 +43,8 @@ let QuestionsAndAnswers = [
     ["Qual é o superlativo absoluto sintético de 'bom'?", "Muito bom", "Excelente", "Ótimo", "Boíssimo", "c"]
 ];
 
+let Answers = [];
+
 //Inserir as questões na página
 const TestArea = document.querySelector(".testarea")
 
@@ -87,12 +89,11 @@ function GenerateTest() {
     for (let FormsIndex = 0; FormsIndex < QuestionsAndAnswers.length; FormsIndex++) {
         const QuestionForm = document.querySelector(".form" + (FormsIndex + 1))
         const FormsData = new FormData(QuestionForm);
-        let Answers = []
         for (const entry of FormsData) {
             Answers.push(`${entry[1]}`);
         }
-      console.log(Answers);  
     }
+    console.log(Answers);
 });
 }
     
