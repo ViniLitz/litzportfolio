@@ -91,8 +91,8 @@ function GenerateTest() {
         for (const entry of FormsData) {
             Answers.push(`${entry[1]}`);
         }
+      console.log(Answers);  
     }
-    console.log(Answers);
 });
 }
     
