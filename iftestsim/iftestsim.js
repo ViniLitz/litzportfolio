@@ -45,9 +45,10 @@ let QuestionsAndAnswers = [
 
 //Inserir as questões na página
 const TestArea = document.querySelector(".testarea")
+let QuestionsIndex
 
 function GenerateTest() {
-    for (let QuestionsIndex = 0; QuestionsIndex < QuestionsAndAnswers.length; QuestionsIndex++) {
+    for (QuestionsIndex = 0; QuestionsIndex < QuestionsAndAnswers.length; QuestionsIndex++) {
         
         const OptionLetter = ["a", "b", "c", "d"]
 
