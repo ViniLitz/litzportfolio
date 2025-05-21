@@ -55,6 +55,7 @@ function GenerateTest() {
         TestArea.appendChild(QuestionText)
 
         const QuestionForm = document.createElement("form")
+        QuestionForm.classList.add("form" + (QuestionsIndex + 1))
         TestArea.appendChild(QuestionForm)
 
         for (let OptionsIndex = 0; OptionsIndex < 4; OptionsIndex++) {
@@ -75,23 +76,25 @@ function GenerateTest() {
             QuestionForm.appendChild(OptionBreak)
         }
     }
+    const SubmitAnswersBtn = document.createElement("button")
+    SubmitAnswersBtn.innerHTML = "Confirmar respostas"
 }
-
-/*const FirstQuestionText = document.querySelector(".FirstQuestionText");
-FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]
 
 //Confirmar a resposta
 
-const FirstQuestion = document.querySelector(".FirstQuestion");
-
-FirstQuestion.addEventListener("submit", (event) => {
-    const FirstQuestionData = new FormData(FirstQuestion);
-    let output = ""
-    for (const entry of FirstQuestionData) {
-        output = `${entry[1]}`;
+SubmitAnswersBtn.addEventListener("click", () => {
+    for (let FormsIndex = 0; index < QuestionsAndAnswers.length; FormsIndex++) {
+        const QuestionForm = document.querySelector(".form" + (QuestionsIndex + 1))
+        const FormsData = new FormData(QuestionForm);
+        let Answers = []
+        for (const entry of FormsData) {
+            Answers.push(`${entry[1]}`);
+        }
     }
-    console.log(output);
-    event.preventDefault();
-    },
-  false,
-);*/
+    console.log(Answers);
+});
+
+
+    
+    
+    
