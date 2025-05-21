@@ -18,15 +18,16 @@ function GenerateTest() {
     const QuestionForm = document.createElement("form")
     TestArea.appendChild(QuestionForm)
 
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 4; i++) {
         const OptionInput = document.createElement("input")
         OptionInput.type = "radio"
         OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
-        OptionInput.value = OptionLetter[i]
+        const FirstQuestionText = document.querySelector(".FirstQuestionText");
+    FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]OptionInput.value = OptionLetter[i]
         OptionInput.name = "AnswerOption"
 
         const OptionLabel = document.createElement("label")
-        OptionLabel.innerHTML = OptionLetter[i] + ") " + QuestionsAndAnswers[1][i += 1]
+        OptionLabel.innerHTML = OptionLetter[i] + ") " + QuestionsAndAnswers[1][i + 1]
 
         const OptionBreak = document.createElement('br');
 
@@ -34,13 +35,7 @@ function GenerateTest() {
         QuestionForm.appendChild(OptionLabel)
         QuestionForm.appendChild(OptionBreak)
     }
-
-    const FirstQuestionText = document.querySelector(".FirstQuestionText");
-    FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]
 }
-
-
-
 
 //Confirmar a resposta
 
