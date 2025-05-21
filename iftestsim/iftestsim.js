@@ -8,27 +8,27 @@ let QuestionsAndAnswers = [
 //Inserir as questões na página
 
 function GenerateTest() {
-    for (let i = 0; i < 2; i++) {
+    for (let QuestionsIndex = 0; QuestionsIndex < 2; QuestionsIndex++) {
         const TestArea = document.querySelector(".testarea")
         const OptionLetter = ["a", "b", "c", "d"]
 
         const QuestionText = document.createElement("p")
-        QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
+        QuestionText.innerHTML = QuestionsIndex + "." + QuestionsAndAnswers[QuestionsIndex][0]
         TestArea.appendChild(QuestionText)
 
         const QuestionForm = document.createElement("form")
         TestArea.appendChild(QuestionForm)
 
-        for (let i = 0; i < 4; i++) {
+        for (let OptionsIndex = 0; OptionsIndex < 4; OptionsIndex++) {
             const OptionInput = document.createElement("input")
             OptionInput.type = "radio"
-            OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
-            const FirstQuestionText = document.querySelector(".FirstQuestionText");
-            FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]OptionInput.value = OptionLetter[i]
+            OptionInput.setAttribute("id", "Option" + OptionLetter[OptionsIndex]);
+
+            OptionInput.value = OptionLetter[OptionsIndex]
             OptionInput.name = "AnswerOption"
 
             const OptionLabel = document.createElement("label")
-            OptionLabel.innerHTML = OptionLetter[i] + ") " + QuestionsAndAnswers[1][i + 1]
+            OptionLabel.innerHTML = OptionLetter[OptionsIndex] + ") " + QuestionsAndAnswers[QuestionsIndex][OptionsIndex + 1]
 
             const OptionBreak = document.createElement('br');
 
@@ -38,6 +38,9 @@ function GenerateTest() {
         }
     }
 }
+
+/*const FirstQuestionText = document.querySelector(".FirstQuestionText");
+FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]
 
 //Confirmar a resposta
 
@@ -53,4 +56,4 @@ FirstQuestion.addEventListener("submit", (event) => {
     event.preventDefault();
     },
   false,
-);
+);*/
