@@ -41,15 +41,13 @@ let QuestionsAndAnswers = [
     ["Quem escreveu 'Dom Casmurro'?", "José de Alencar", "Machado de Assis", "Carlos Drummond", "Graciliano Ramos", "b"],
     ["Qual é o nome do processo que transforma o líquido em vapor?", "Solidificação", "Condensação", "Evaporação", "Sublimação", "c"],
     ["Qual é o superlativo absoluto sintético de 'bom'?", "Muito bom", "Excelente", "Ótimo", "Boíssimo", "c"]
-
 ];
 
 //Inserir as questões na página
 const TestArea = document.querySelector(".testarea")
-let QuestionsIndex
 
 function GenerateTest() {
-    for (QuestionsIndex = 0; QuestionsIndex < QuestionsAndAnswers.length; QuestionsIndex++) {
+    for (let QuestionsIndex = 0; QuestionsIndex < QuestionsAndAnswers.length; QuestionsIndex++) {
         
         const OptionLetter = ["a", "b", "c", "d"]
 
@@ -87,7 +85,7 @@ function GenerateTest() {
 
     SubmitAnswersBtn.addEventListener("click", () => {
     for (let FormsIndex = 0; FormsIndex < QuestionsAndAnswers.length; FormsIndex++) {
-        const QuestionForm = document.querySelector(".form" + (QuestionsIndex + 1))
+        const QuestionForm = document.querySelector(".form" + (FormsIndex + 1))
         const FormsData = new FormData(QuestionForm);
         let Answers = []
         for (const entry of FormsData) {
@@ -97,12 +95,4 @@ function GenerateTest() {
     console.log(Answers);
 });
 }
-
-
-
-
-
-
-    
-    
     
