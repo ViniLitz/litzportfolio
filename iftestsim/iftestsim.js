@@ -17,7 +17,7 @@ QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
 const QuestionForm = document.createElement("form")
 
 for (let i = 0; i < 4; i++) {
-    const OptionInput = document.createElement("input" + OptionLetter[i])
+    const OptionInput = document.createElement("input")
     OptionInput.type = "radio"
     OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
 
