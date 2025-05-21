@@ -23,14 +23,15 @@ for (let i = 0; i < 4; i++) {
     OptionInput.type = "radio"
     OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
 
-    const OptionALabel = document.createElement("label")
-    OptionALabel.for = "Option" + OptionLetter[i];
-    OptionALabel.innerHTML = "2. " + QuestionsAndAnswers[1][i + 1]
+    const OptionLabel = document.createElement("label")
+    OptionLabel.for = "Option" + OptionLetter[i];
+    OptionLabel.innerHTML = QuestionsAndAnswers[1][i += 1]
 
-    const OptionBreaks = document.createElement('br');
+    const OptionBreak = document.createElement('br');
 
     QuestionForm.appendChild(OptionInput)
-    QuestionForm.appendChild(OptionBreaks)
+    QuestionForm.appendChild(OptionLabel)
+    QuestionForm.appendChild(OptionBreak)
 }
     
 const FirstQuestionText = document.querySelector(".FirstQuestionText");
