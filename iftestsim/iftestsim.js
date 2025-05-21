@@ -41,55 +41,15 @@ let QuestionsAndAnswers = [
     ["Quem escreveu 'Dom Casmurro'?", "José de Alencar", "Machado de Assis", "Carlos Drummond", "Graciliano Ramos", "b"],
     ["Qual é o nome do processo que transforma o líquido em vapor?", "Solidificação", "Condensação", "Evaporação", "Sublimação", "c"],
     ["Qual é o superlativo absoluto sintético de 'bom'?", "Muito bom", "Excelente", "Ótimo", "Boíssimo", "c"]
-    ["Qual é a figura de linguagem usada em: 'A cidade acordou assustada'?", "Metáfora", "Hipérbole", "Prosopopeia", "Ironia", "c"],
-    ["Qual o valor de x na equação: 4x - 8 = 0?", "1", "2", "4", "8", "b"],
-    ["Qual desses órgãos pertence ao sistema respiratório?", "Fígado", "Pulmão", "Estômago", "Coração", "b"],
-    ["Em que ano ocorreu a Abolição da Escravatura no Brasil?", "1822", "1889", "1888", "1930", "c"],
-    ["Qual o nome do fenômeno que causa o aquecimento da Terra?", "Camada de ozônio", "Efeito estufa", "Resfriamento global", "Poluição térmica", "b"],
-    ["Qual destas é uma conjunção coordenativa adversativa?", "Porque", "Portanto", "Mas", "Que", "c"],
-    ["Qual o valor da raiz quadrada de 144?", "10", "11", "12", "14", "c"],
-    ["Qual o nome da parte da célula responsável pela digestão celular?", "Lisossomo", "Mitocôndria", "Ribossomo", "Núcleo", "a"],
-    ["Quem liderou a Inconfidência Mineira?", "Tiradentes", "Dom Pedro II", "José Bonifácio", "Duque de Caxias", "a"],
-    ["Qual é o principal rio que corta a região Norte do Brasil?", "São Francisco", "Paraná", "Amazonas", "Tocantins", "c"],
-    ["Qual dessas frases está com acentuação correta?", "Heroi", "País", "Vooo", "Pólenes", "b"],
-    ["Qual o resultado de -3 × 5?", "-8", "15", "-15", "-5", "c"],
-    ["Qual dos planetas é conhecido como 'planeta vermelho'?", "Vênus", "Saturno", "Marte", "Urano", "c"],
-    ["Em que período histórico ocorreu a Revolução Francesa?", "Idade Média", "Idade Moderna", "Idade Antiga", "Pré-História", "b"],
-    ["Qual é o nome do gás mais abundante na atmosfera?", "Oxigênio", "Dióxido de carbono", "Hidrogênio", "Nitrogênio", "d"],
-    ["Qual destas palavras é um adjetivo?", "Casa", "Rapidamente", "Feliz", "Ontem", "c"],
-    ["Quanto é 3² + 2²?", "13", "11", "17", "9", "a"],
-    ["Qual o nome da membrana que envolve a célula?", "Lisossomo", "Citoplasma", "Membrana plasmática", "Ribossomo", "c"],
-    ["Qual evento marca o fim da Idade Média?", "Revolução Francesa", "Descobrimento da América", "Queda do Império Romano do Ocidente", "Queda de Constantinopla", "d"],
-    ["Qual o nome da capital do estado de Roraima?", "Porto Velho", "Boa Vista", "Macapá", "Rio Branco", "b"],
-    ["O que é uma progressão aritmética (PA)?", "Sequência com razão constante", "Sequência de potências", "Sequência alternada", "Sequência sem padrão", "a"],
-    ["Qual é o processo que permite às plantas capturar energia solar?", "Transpiração", "Digestão", "Respiração", "Fotossíntese", "d"],
-    ["Quem foi o primeiro presidente da República do Brasil?", "Floriano Peixoto", "Getúlio Vargas", "Deodoro da Fonseca", "Café Filho", "c"],
-    ["Qual o nome da linha imaginária que marca 0° de longitude?", "Linha do Equador", "Meridiano de Greenwich", "Trópico de Câncer", "Trópico de Capricórnio", "b"],
-    ["Qual o plural correto de 'pão'?", "Pãos", "Pães", "Pãoses", "Pãeses", "b"],
-    ["Quanto é 10% de 250?", "25", "20", "30", "15", "a"],
-    ["Qual é o nome do processo pelo qual um sólido vira gás sem passar pelo líquido?", "Condensação", "Sublimação", "Evaporação", "Solidificação", "b"],
-    ["Qual foi o movimento que lutou pelo fim da escravidão no Brasil?", "Diretas Já", "Abolicionismo", "Federalismo", "Revolta dos Malês", "b"],
-    ["Qual das alternativas apresenta uma preposição?", "Mas", "Muito", "Com", "Porém", "c"],
-    ["Qual o nome do continente com mais países?", "Europa", "Ásia", "América", "África", "d"],
-    ["Quem escreveu 'O Auto da Barca do Inferno'?", "Machado de Assis", "José de Alencar", "Padre Anchieta", "Gil Vicente", "d"],
-    ["Quanto é (3 + 2)²?", "25", "10", "20", "15", "a"],
-    ["Qual a função das mitocôndrias?", "Controle genético", "Síntese de proteínas", "Armazenamento de água", "Produção de energia", "d"],
-    ["Qual era o nome da capital do Brasil antes de Brasília?", "Rio de Janeiro", "São Paulo", "Salvador", "Belo Horizonte", "a"],
-    ["O que indica o advérbio na frase: 'Ele saiu rapidamente.'?", "Lugar", "Modo", "Tempo", "Negação", "b"],
-    ["Qual o número primo entre os seguintes: 4, 6, 9, 11?", "4", "6", "9", "11", "d"],
-    ["Qual camada da Terra é composta por magma?", "Núcleo", "Manto", "Crosta", "Atmosfera", "b"],
-    ["Qual a língua oficial da Argentina?", "Português", "Espanhol", "Italiano", "Inglês", "b"],
-    ["Quanto é 2³?", "6", "8", "4", "9", "b"]
+
 ];
 
 //Inserir as questões na página
 const TestArea = document.querySelector(".testarea")
-
-let RandomStartPosition = Math.floor(Math.random() * 39)
 let QuestionsIndex
 
 function GenerateTest() {
-    for (QuestionsIndex = RandomStartPosition; QuestionsIndex < 40 += RandomStartPosition; QuestionsIndex++) {
+    for (QuestionsIndex = 0; QuestionsIndex < QuestionsAndAnswers.length; QuestionsIndex++) {
         
         const OptionLetter = ["a", "b", "c", "d"]
 
@@ -126,7 +86,7 @@ function GenerateTest() {
 //Confirmar a resposta
 
     SubmitAnswersBtn.addEventListener("click", () => {
-    for (let FormsIndex = 0; FormsIndex < 40 += RandomStartPosition; FormsIndex++) {
+    for (let FormsIndex = 0; FormsIndex < QuestionsAndAnswers.length; FormsIndex++) {
         const QuestionForm = document.querySelector(".form" + (QuestionsIndex + 1))
         const FormsData = new FormData(QuestionForm);
         let Answers = []
