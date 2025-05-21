@@ -78,11 +78,10 @@ function GenerateTest() {
     }
     const SubmitAnswersBtn = document.createElement("button")
     SubmitAnswersBtn.innerHTML = "Confirmar respostas"
-}
 
 //Confirmar a resposta
 
-SubmitAnswersBtn.addEventListener("click", () => {
+    SubmitAnswersBtn.addEventListener("click", () => {
     for (let FormsIndex = 0; index < QuestionsAndAnswers.length; FormsIndex++) {
         const QuestionForm = document.querySelector(".form" + (QuestionsIndex + 1))
         const FormsData = new FormData(QuestionForm);
@@ -93,6 +92,11 @@ SubmitAnswersBtn.addEventListener("click", () => {
     }
     console.log(Answers);
 });
+}
+
+
+
+
 
 
     
