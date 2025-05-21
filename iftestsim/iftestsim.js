@@ -16,8 +16,9 @@ const FirstQuestion = document.querySelector(".FirstQuestion");
 
 FirstQuestion.addEventListener("submit", (event) => {
     const FirstQuestionData = new FormData(FirstQuestion);
+    let output = ""
     for (const entry of FirstQuestionData) {
-        let output = `${entry[1]}`;
+        output = `${entry[1]}`;
     }
     console.log(output);
     event.preventDefault();
