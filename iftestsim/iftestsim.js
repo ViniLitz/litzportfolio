@@ -3,7 +3,7 @@ let QuestionsAndAnswers = [
 ]
 
 const FirstQuestionText = document.querySelector(".FirstQuestionText");
-FirstQuestionText.innerhtml = "oi"
+FirstQuestionText.innerHTML = "1. " + "oi"
 
 const FirstQuestion = document.querySelector(".FirstQuestion");
 
