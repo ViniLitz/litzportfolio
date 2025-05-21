@@ -9,7 +9,7 @@ let QuestionsAndAnswers = [
 
 const TestArea = document.querySelector(".testarea")
 
-const OptionLetter = ["A", "B", "C", "D"]
+const OptionLetter = ["a", "b", "c", "d"]
 
 const QuestionText = document.createElement("p")
 QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
@@ -18,10 +18,12 @@ TestArea.appendChild(QuestionText)
 const QuestionForm = document.createElement("form")
 TestArea.appendChild(QuestionForm)
 
-for (let i = 0; i < 4; i++) {
+for (let i = 0; i < 3; i++) {
     const OptionInput = document.createElement("input")
     OptionInput.type = "radio"
     OptionInput.setAttribute("id", "Option" + OptionLetter[i]);
+    OptionInput.value = OptionLetter[i]
+    OptionInput.name = "AnswerOption"
 
     const OptionLabel = document.createElement("label")
     OptionLabel.innerHTML = OptionLetter[i] + ") " + QuestionsAndAnswers[1][i += 1]
@@ -32,7 +34,7 @@ for (let i = 0; i < 4; i++) {
     QuestionForm.appendChild(OptionLabel)
     QuestionForm.appendChild(OptionBreak)
 }
-    
+
 const FirstQuestionText = document.querySelector(".FirstQuestionText");
 FirstQuestionText.innerHTML = "1. " + QuestionsAndAnswers[0][0]
 
