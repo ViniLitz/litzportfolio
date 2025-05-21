@@ -9,7 +9,7 @@ let QuestionsAndAnswers = [
 
 const TestArea = document.querySelector(".testarea")
 
-const OptionLetter = ["A", "B", "C", "D",]
+const OptionLetter = ["A", "B", "C", "D"]
 
 const QuestionText = document.createElement("p")
 QuestionText.innerHTML = "2. " + QuestionsAndAnswers[1][0]
