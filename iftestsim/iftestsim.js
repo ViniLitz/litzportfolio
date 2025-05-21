@@ -78,6 +78,7 @@ function GenerateTest() {
     }
     const SubmitAnswersBtn = document.createElement("button")
     SubmitAnswersBtn.innerHTML = "Confirmar respostas"
+    TestArea.appendChild(SubmitAnswersBtn)
 
 //Confirmar a resposta
 
