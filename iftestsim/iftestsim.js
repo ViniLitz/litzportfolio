@@ -84,7 +84,7 @@ function GenerateTest() {
 //Confirmar a resposta
 
     SubmitAnswersBtn.addEventListener("click", () => {
-    for (let FormsIndex = 0; index < QuestionsAndAnswers.length; FormsIndex++) {
+    for (let FormsIndex = 0; FormsIndex < QuestionsAndAnswers.length; FormsIndex++) {
         const QuestionForm = document.querySelector(".form" + (QuestionsIndex + 1))
         const FormsData = new FormData(QuestionForm);
         let Answers = []
