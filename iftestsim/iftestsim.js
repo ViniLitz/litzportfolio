@@ -169,7 +169,7 @@ function GenerateTest() {
         const OptionLetter = ["a", "b", "c", "d"]
 
         const QuestionText = document.createElement("p")
-        QuestionText.innerHTML = (QuestionsIndex + 1) + ". " + QuestionsAndAnswers[QuestionsIndex][0]
+        QuestionText.innerHTML = ((QuestionsIndex - RandomStartPosition) + 1) + ". " + QuestionsAndAnswers[QuestionsIndex][0]
         TestArea.appendChild(QuestionText)
 
         const QuestionForm = document.createElement("form")
