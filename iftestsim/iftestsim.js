@@ -40,7 +40,7 @@ let QuestionsAndAnswers = [
     ["Qual é o nome da camada mais externa da Terra?", "Manto", "Núcleo", "Crosta", "Atmosfera", "c"],
     ["Quem escreveu 'Dom Casmurro'?", "José de Alencar", "Machado de Assis", "Carlos Drummond", "Graciliano Ramos", "b"],
     ["Qual é o nome do processo que transforma o líquido em vapor?", "Solidificação", "Condensação", "Evaporação", "Sublimação", "c"],
-    ["Qual é o superlativo absoluto sintético de 'bom'?", "Muito bom", "Excelente", "Ótimo", "Boíssimo", "c"]
+    ["Qual é o superlativo absoluto sintético de 'bom'?", "Muito bom", "Excelente", "Ótimo", "Boíssimo", "c"],
     ["Qual é a figura de linguagem usada em: 'A cidade acordou assustada'?", "Metáfora", "Hipérbole", "Prosopopeia", "Ironia", "c"],
     ["Qual o valor de x na equação: 4x - 8 = 0?", "1", "2", "4", "8", "b"],
     ["Qual desses órgãos pertence ao sistema respiratório?", "Fígado", "Pulmão", "Estômago", "Coração", "b"],
@@ -99,6 +99,8 @@ function GenerateTest() {
         const QuestionForm = document.createElement("form")
         QuestionForm.classList.add("form" + (QuestionsIndex + 1))
         TestArea.appendChild(QuestionForm)
+
+        let RandomStartPosition = Math.floor(Math.random() * 39)
 
         for (let OptionsIndex = 0; OptionsIndex < 4; OptionsIndex++) {
             const OptionInput = document.createElement("input")
