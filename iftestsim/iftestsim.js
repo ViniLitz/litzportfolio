@@ -153,14 +153,13 @@ let QuestionsAndAnswers = [
     ["O que é sujeito composto?", "Sujeito com núcleo verbal", "Sujeito com verbo auxiliar", "Sujeito com dois ou mais núcleos", "Sujeito elíptico", "c"]
 ];
 
+let TestQuestions = [];
 let Answers = [];
 let FinalResults = [];
 
 //Inserir as questões na página
 
 const TestArea = document.querySelector(".testarea")
-
-//let RandomStartPosition = Math.floor(Math.random() * (QuestionsAndAnswers.length - 41))
 
 function GenerateTest() {
     for (let QuestionsIndex = 0; QuestionsIndex < 40; QuestionsIndex++) {
@@ -194,6 +193,8 @@ function GenerateTest() {
             QuestionForm.appendChild(OptionLabel)
             QuestionForm.appendChild(OptionBreak)
         }
+        TestQuestions.push(QuestionsAndAnswers[RandomQuestion])
+        QuestionsAndAnswers.splice(RandomQuestion, 1)
     }
     const SubmitAnswersBtn = document.createElement("button")
     SubmitAnswersBtn.innerHTML = "Confirmar respostas"
@@ -215,7 +216,7 @@ function GenerateTest() {
     } else {
         console.log(Answers);
         for (let AnswersIndex = 0; AnswersIndex < Answers.length; AnswersIndex++) {
-            if (Answers[AnswersIndex] === QuestionsAndAnswers[AnswersIndex][5]) {
+            if (Answers[AnswersIndex] === TestQuestions[AnswersIndex][5]) {
                 FinalResults.push("right")
             } else {
                 FinalResults.push("wrong")
