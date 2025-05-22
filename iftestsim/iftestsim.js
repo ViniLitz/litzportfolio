@@ -94,11 +94,11 @@ function GenerateTest() {
         }
     }
     if (Answers.length !== QuestionsAndAnswers.length) {
-        alert("Algumas questões não foram resolvodas!")
+        alert("Algumas questões não foram resolvidas!")
         Answers.length = 0;
     } else {
         console.log(Answers);
-        Answers.length = 0;   
+        Answers.length = 0;  
     }
 });
 }
