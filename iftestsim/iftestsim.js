@@ -159,7 +159,7 @@ let Answers = [];
 
 const TestArea = document.querySelector(".testarea")
 
-let RandomStartPosition = Math.floor(Math.random() * 149)
+let RandomStartPosition = Math.floor(Math.random() * 109)
 
 function GenerateTest() {
     
@@ -200,7 +200,7 @@ function GenerateTest() {
 //Confirmar a resposta
 
     SubmitAnswersBtn.addEventListener("click", () => {
-    for (let FormsIndex = 0; FormsIndex < (40 + RandomStartPosition); FormsIndex++) {
+    for (let FormsIndex = RandomStartPosition; FormsIndex < (40 + RandomStartPosition); FormsIndex++) {
         const QuestionForm = document.querySelector(".form" + (FormsIndex + 1))
         const FormsData = new FormData(QuestionForm);
         for (const entry of FormsData) {
