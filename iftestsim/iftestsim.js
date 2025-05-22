@@ -208,7 +208,7 @@ function GenerateTest() {
             Answers.push(`${entry[1]}`); 
         }
     }
-    if (Answers.length !== (40 + RandomStartPosition)) {
+    if (Answers.length !== (40)) {
         alert("Algumas questões não foram resolvidas!")
         Answers.length = 0;
     } else {
