@@ -166,7 +166,7 @@ function GenerateTest() {
     for (let QuestionsIndex = 0; QuestionsIndex < 40; QuestionsIndex++) {
 
         let RandomQuestion = Math.floor(Math.random() * QuestionsAndAnswers.length)
-        
+
         const OptionLetter = ["a", "b", "c", "d"]
 
         const QuestionText = document.createElement("p")
@@ -186,7 +186,7 @@ function GenerateTest() {
             OptionInput.name = "AnswerOption"
 
             const OptionLabel = document.createElement("label")
-            OptionLabel.innerHTML = OptionLetter[OptionsIndex] + ") " + QuestionsAndAnswers[QuestionsIndex][OptionsIndex + 1]
+            OptionLabel.innerHTML = OptionLetter[OptionsIndex] + ") " + QuestionsAndAnswers[RandomQuestion][OptionsIndex + 1]
 
             const OptionBreak = document.createElement('br');
 
