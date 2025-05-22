@@ -226,7 +226,7 @@ function GenerateTest() {
             } 
         }
         console.log(FinalResults);
-        for (let ResultsIndex = 0; ResultsIndex < FinalResults.length; index++) {
+        for (let ResultsIndex = 0; ResultsIndex < FinalResults.length; ResultsIndex++) {
             if (FinalResults[ResultsIndex] === "right") {
                 RightResults++;
             } else {
