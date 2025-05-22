@@ -221,8 +221,6 @@ function GenerateTest() {
             } 
         }
         console.log(FinalResults);
-        Answers.length = 0; 
-        FinalResults.length = 0;
     }
 });
 }
