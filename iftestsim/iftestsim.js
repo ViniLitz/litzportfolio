@@ -220,7 +220,8 @@ function GenerateTest() {
                 FinalResults.push("wrong")
             } 
         }
-        //Answers.length = 0;  
+        console.log(FinalResults);
+        Answers.length = 0;  
     }
 });
 }
