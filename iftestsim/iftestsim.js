@@ -234,7 +234,7 @@ function GenerateTest() {
             }
         }
         ResultsPara = document.createElement("p")
-        ResultsPara.innerHTML = "Você acertou" + RightResults + "questões, e errou" + WrongResults + "."
+        ResultsPara.innerHTML = "Você acertou " + RightResults + " questões, e errou " + WrongResults + "."
         TestArea.appendChild(ResultsPara)
     }
 });
