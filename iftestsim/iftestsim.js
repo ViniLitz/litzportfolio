@@ -214,14 +214,15 @@ function GenerateTest() {
     } else {
         console.log(Answers);
         for (let AnswersIndex = 0; AnswersIndex < Answers.length; AnswersIndex++) {
-            if (Answers[AnswersIndex] === QuestionsAndAnswers[AnswersIndex][6]) {
+            if (Answers[AnswersIndex] === QuestionsAndAnswers[AnswersIndex][5]) {
                 FinalResults.push("right")
             } else {
                 FinalResults.push("wrong")
             } 
         }
         console.log(FinalResults);
-        Answers.length = 0;  
+        Answers.length = 0; 
+        FinalResults.length = 0;
     }
 });
 }
