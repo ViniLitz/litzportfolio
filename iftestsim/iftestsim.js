@@ -156,6 +156,7 @@ let QuestionsAndAnswers = [
 let TestQuestions = [];
 let Answers = [];
 let FinalResults = [];
+let WrongResults = [];
 
 let RightResults = 0
 let WrongResults = 0
@@ -231,11 +232,21 @@ function GenerateTest() {
                 RightResults++;
             } else {
                 WrongResults++;
+                WrongResults.push(ResultsIndex + 1)
             }
         }
         ResultsPara = document.createElement("p")
         ResultsPara.innerHTML = "Você acertou " + RightResults + " questões, e errou " + WrongResults + "."
         TestArea.appendChild(ResultsPara)
+        
+        WrongResultsPara = document.createElement("p")
+        WrongResultsPara.innerHTML = "As questões erradas foram as questões "
+
+        for (let WrongResultsIndex = 0; WrongResultsIndex < WrongResults; WrongResultsIndex++) {
+            WrongResultsPara.innerHTML = WrongResultsPara.innerHTML + WrongResults[WrongResultsIndex] + ", "
+        }
+        WrongResultsPara.innerHTML = WrongResultsPara.innerHTML + "."
+        TestArea.appendChild(WrongResultsPara)
     }
 });
 }
