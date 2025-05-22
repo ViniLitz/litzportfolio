@@ -24,6 +24,20 @@ body {
     font-size: 30px;
 }
 
+button {
+    margin-left: 70px;
+    margin-top: 70px;
+    color: #F2E8CF;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 25px;
+    border: #F2E8CF 4px solid;
+}
+
+button:hover {
+    background-color: #386641;
+}
+
 .testarea {
     margin-top: 120px;
     background-color: white;
