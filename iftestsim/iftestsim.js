@@ -154,12 +154,13 @@ let QuestionsAndAnswers = [
 ];
 
 let Answers = [];
+let FinalResults = [];
 
 //Inserir as questões na página
 
 const TestArea = document.querySelector(".testarea")
 
-let RandomStartPosition = Math.floor(Math.random() * 109)
+let RandomStartPosition = Math.floor(Math.random() * (QuestionsAndAnswers.length - 41))
 
 function GenerateTest() {
     
@@ -212,7 +213,14 @@ function GenerateTest() {
         Answers.length = 0;
     } else {
         console.log(Answers);
-        Answers.length = 0;  
+        for (let AnswersIndex = 0; AnswersIndex < Answers.length; AnswersIndex++) {
+            if (Answers[AnswersIndex] === QuestionsAndAnswers[AnswersIndex][6]) {
+                FinalResults.push("right")
+            } else {
+                FinalResults.push("wrong")
+            } 
+        }
+        //Answers.length = 0;  
     }
 });
 }
