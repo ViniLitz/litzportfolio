@@ -157,6 +157,9 @@ let TestQuestions = [];
 let Answers = [];
 let FinalResults = [];
 
+let RightResults = 0
+let WrongResults = 0
+
 //Inserir as questões na página
 
 const TestArea = document.querySelector(".testarea")
@@ -200,7 +203,7 @@ function GenerateTest() {
     SubmitAnswersBtn.innerHTML = "Confirmar respostas"
     TestArea.appendChild(SubmitAnswersBtn)
 
-//Confirmar a resposta
+//Confirmar a resposta e calcular os resultados
 
     SubmitAnswersBtn.addEventListener("click", () => {
     for (let FormsIndex = 0; FormsIndex < 40; FormsIndex++) {
@@ -223,6 +226,16 @@ function GenerateTest() {
             } 
         }
         console.log(FinalResults);
+        for (let ResultsIndex = 0; ResultsIndex < FinalResults.length; index++) {
+            if (FinalResults[ResultsIndex] === "right") {
+                RightResults++;
+            } else {
+                WrongResults++;
+            }
+        }
+        ResultsPara = document.createElement("p")
+        ResultsPara.innerHTML = "Você acertou" + RightResults + "questões, e errou" + WrongResults + "."
+        testarea.appendChild(ResultsPara)
     }
 });
 }
