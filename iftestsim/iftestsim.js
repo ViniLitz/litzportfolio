@@ -159,7 +159,7 @@ let FinalResults = [];
 let WrongResults = [];
 
 let RightResults = 0
-let WrongResults = 0
+let NumberOfWrongResults = 0
 
 //Inserir as questões na página
 
@@ -231,18 +231,21 @@ function GenerateTest() {
             if (FinalResults[ResultsIndex] === "right") {
                 RightResults++;
             } else {
-                WrongResults++;
+                NumberOfWrongResults++;
                 WrongResults.push(ResultsIndex + 1)
             }
         }
+
+//Mostrar os resultados
+
         ResultsPara = document.createElement("p")
-        ResultsPara.innerHTML = "Você acertou " + RightResults + " questões, e errou " + WrongResults + "."
+        ResultsPara.innerHTML = "Você acertou " + RightResults + " questões, e errou " + NumberOfWrongResults + "."
         TestArea.appendChild(ResultsPara)
         
         WrongResultsPara = document.createElement("p")
         WrongResultsPara.innerHTML = "As questões erradas foram as questões "
 
-        for (let WrongResultsIndex = 0; WrongResultsIndex < WrongResults; WrongResultsIndex++) {
+        for (let WrongResultsIndex = 0; WrongResultsIndex < NumberOfWrongResults; WrongResultsIndex++) {
             WrongResultsPara.innerHTML = WrongResultsPara.innerHTML + WrongResults[WrongResultsIndex] + ", "
         }
         WrongResultsPara.innerHTML = WrongResultsPara.innerHTML + "."
