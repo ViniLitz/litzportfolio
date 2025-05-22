@@ -90,14 +90,16 @@ function GenerateTest() {
         const QuestionForm = document.querySelector(".form" + (FormsIndex + 1))
         const FormsData = new FormData(QuestionForm);
         for (const entry of FormsData) {
-            if (typeof `${entry[1]}` === "string") {
-                Answers.push(`${entry[1]}`); 
-            } else {
-               Answers.push("");
-            }
+            Answers.push(`${entry[1]}`); 
         }
     }
-    console.log(Answers);
+    if (Answers.length !== QuestionsAndAnswers.length) {
+        alert("Algumas questões não foram resolvodas!")
+        Answers.length = 0;
+    } else {
+        console.log(Answers);
+        Answers.length = 0;   
+    }
 });
 }
     
