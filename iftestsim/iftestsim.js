@@ -88,7 +88,7 @@ let Answers = [];
 const TestArea = document.querySelector(".testarea")
 
 function GenerateTest() {
-    for (let QuestionsIndex = 0; QuestionsIndex < QuestionsAndAnswers.length; QuestionsIndex++) {
+    for (let QuestionsIndex = 0; QuestionsIndex < 50; QuestionsIndex++) {
         
         const OptionLetter = ["a", "b", "c", "d"]
 
