@@ -27,11 +27,16 @@ body {
 button {
     margin-left: 70px;
     margin-top: 70px;
-    color: #386641;
+    color: #F2E8CF;
     font-size: 25px;
     text-decoration: none;
     padding: 25px;
     border: #F2E8CF 4px solid;
+    background-color: #6A994E;
+}
+
+.testarea button {
+    margin-left: -30px;
 }
 
 button:hover {
