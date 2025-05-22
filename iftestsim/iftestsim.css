@@ -40,10 +40,19 @@ button {
 
 .testarea button {
     margin-left: 0px;
+    border: #6A994E 4px solid;
+    background-color: #F2E8CF;
+    color: #6A994E;
 }
 
 button:hover {
     background-color: #386641;
+    cursor: pointer;
+}
+
+.testarea button:hover {
+    background-color: #386641;
+    color: #F2E8CF;
 }
 
 .testarea {

@@ -160,16 +160,17 @@ let FinalResults = [];
 
 const TestArea = document.querySelector(".testarea")
 
-let RandomStartPosition = Math.floor(Math.random() * (QuestionsAndAnswers.length - 41))
+//let RandomStartPosition = Math.floor(Math.random() * (QuestionsAndAnswers.length - 41))
 
 function GenerateTest() {
-    
-    for (let QuestionsIndex = RandomStartPosition; QuestionsIndex < (40 + RandomStartPosition); QuestionsIndex++) {
+    for (let QuestionsIndex = 0; QuestionsIndex < 40; QuestionsIndex++) {
+
+        let RandomQuestion = Math.floor(Math.random() * QuestionsAndAnswers.length)
         
         const OptionLetter = ["a", "b", "c", "d"]
 
         const QuestionText = document.createElement("p")
-        QuestionText.innerHTML = ((QuestionsIndex - RandomStartPosition) + 1) + ". " + QuestionsAndAnswers[QuestionsIndex][0]
+        QuestionText.innerHTML = QuestionsIndex + 1 + ". " + QuestionsAndAnswers[RandomQuestion][0]
         TestArea.appendChild(QuestionText)
 
         const QuestionForm = document.createElement("form")
@@ -201,14 +202,14 @@ function GenerateTest() {
 //Confirmar a resposta
 
     SubmitAnswersBtn.addEventListener("click", () => {
-    for (let FormsIndex = RandomStartPosition; FormsIndex < (40 + RandomStartPosition); FormsIndex++) {
+    for (let FormsIndex = 0; FormsIndex < 40; FormsIndex++) {
         const QuestionForm = document.querySelector(".form" + (FormsIndex + 1))
         const FormsData = new FormData(QuestionForm);
         for (const entry of FormsData) {
             Answers.push(`${entry[1]}`); 
         }
     }
-    if (Answers.length !== (40)) {
+    if (Answers.length !== 40) {
         alert("Algumas questões não foram resolvidas!")
         Answers.length = 0;
     } else {
