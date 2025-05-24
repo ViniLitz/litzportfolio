@@ -247,12 +247,16 @@ function GenerateTest() {
 
         for (let WrongResultsIndex = 0; WrongResultsIndex < NumberOfWrongResults; WrongResultsIndex++) {
             WrongResultsPara.innerHTML = WrongResultsPara.innerHTML + WrongResults[WrongResultsIndex] + ", "
+            if (WrongResultsIndex === NumberOfWrongResults) {
+                WrongResultsPara.innerHTML = (WrongResultsPara.innerHTML.slice(0 , -2)) + "."
+                TestArea.appendChild(WrongResultsPara)
+                console.log("oi eu sou o leo");
+            }
             const WrongResultsCorrection = document.createElement("p")
             WrongResultsCorrection.innerHTML = WrongResults[WrongResultsIndex] + ". " + TestQuestions[WrongResults[WrongResultsIndex] - 1][0]
+            TestArea.appendChild(WrongResultsCorrection)
         }
-        WrongResultsPara.innerHTML = (WrongResultsPara.innerHTML.slice(0 , -2)) + "."
-        TestArea.appendChild(WrongResultsPara)
-        TestArea.appendChild(WrongResultsCorrection)
+            
     }
 });
 const ScrollToTopBtn = document.createElement("button")
