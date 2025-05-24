@@ -254,7 +254,7 @@ function GenerateTest() {
         }    
         for (let CorrectionIndex = 0; CorrectionIndex < NumberOfWrongResults; CorrectionIndex++) {
             const WrongResultsCorrection = document.createElement("p")
-            WrongResultsCorrection.innerHTML = WrongResults[WrongResultsIndex] + ". " + TestQuestions[WrongResults[WrongResultsIndex] - 1][0]
+            WrongResultsCorrection.innerHTML = WrongResults[WrongResultsIndex] + ". " + TestQuestions[WrongResults[CorrectionIndex] - 1][0]
             TestArea.appendChild(WrongResultsCorrection)
         }
     }
