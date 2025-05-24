@@ -252,5 +252,11 @@ function GenerateTest() {
         TestArea.appendChild(WrongResultsPara)
     }
 });
-}
-    
+const ScrollToTopBtn = document.createElement("button")
+ScrollToTopBtn.innerHTML = "Voltar ao topo"
+TestArea.appendChild(ScrollToTopBtn)
+
+ScrollToTopBtn.addEventListener("click", () => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+})
+};
