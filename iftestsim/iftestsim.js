@@ -247,12 +247,12 @@ function GenerateTest() {
 
         for (let WrongResultsIndex = 0; WrongResultsIndex < NumberOfWrongResults; WrongResultsIndex++) {
             WrongResultsPara.innerHTML = WrongResultsPara.innerHTML + WrongResults[WrongResultsIndex] + ", "
+            WrongResultsPara.innerHTML = (WrongResultsPara.innerHTML.slice(0 , -2)) + "."
+            TestArea.appendChild(WrongResultsPara)
             const WrongResultsCorrection = document.createElement("p")
             WrongResultsCorrection.innerHTML = WrongResults[WrongResultsIndex] + ". " + TestQuestions[WrongResults[WrongResultsIndex] - 1][0]
             TestArea.appendChild(WrongResultsCorrection)
-        }
-        WrongResultsPara.innerHTML = (WrongResultsPara.innerHTML.slice(0 , -2)) + "."
-        TestArea.appendChild(WrongResultsPara)
+        } 
     }
 });
 const ScrollToTopBtn = document.createElement("button")
