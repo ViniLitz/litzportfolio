@@ -249,7 +249,7 @@ function GenerateTest() {
             WrongResultsPara.innerHTML = WrongResultsPara.innerHTML + WrongResults[WrongResultsIndex] + ", "
             if (WrongResultsIndex === NumberOfWrongResults) {
                 WrongResultsPara.innerHTML = (WrongResultsPara.innerHTML.slice(0 , -2)) + "."
-        TestArea.appendChild(WrongResultsPara)
+                TestArea.appendChild(WrongResultsPara)
             }
         }    
         for (let CorrectionIndex = 0; CorrectionIndex < NumberOfWrongResults; CorrectionIndex++) {
