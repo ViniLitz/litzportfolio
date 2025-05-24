@@ -101,7 +101,7 @@ let QuestionsAndAnswers = [
     ["Qual revolta ocorreu contra a vacinação obrigatória?", "Revolta da Chibata", "Revolta da Vacina", "Canudos", "Sabinada", "b"],
     ["Qual dessas regiões do Brasil é a mais industrializada?", "Norte", "Sul", "Centro-Oeste", "Sudeste", "d"],
     ["Qual dessas frases tem sujeito indeterminado?", "Estuda-se muito aqui.", "Eu estudei ontem.", "Ele estuda muito.", "Eles estudaram juntos.", "a"],
-    ["Quanto é 7 × 6 - 4?", "38", "42", "40", "38", "a"],
+    ["Quanto é 7 × 6 - 4?", "38", "42", "40", "36", "a"],
     ["O que é ecossistema?", "Conjunto de espécies", "Conjunto de seres humanos", "Conjunto de seres vivos e ambiente", "Conjunto de vegetais", "c"],
     ["Quem liderou o movimento conhecido como Revolta dos Malês?", "Indígenas", "Militares", "Escravizados muçulmanos", "Colonizadores", "c"],
     ["O que é um planalto?", "Área baixa e plana", "Área elevada e irregular", "Montanha", "Área costeira", "b"],
@@ -242,11 +242,14 @@ function GenerateTest() {
         ResultsPara.innerHTML = "Você acertou " + NumberOfRightResults + " questões, e errou " + NumberOfWrongResults + "."
         TestArea.appendChild(ResultsPara)
         
-        WrongResultsPara = document.createElement("p")
+        const WrongResultsPara = document.createElement("p")
         WrongResultsPara.innerHTML = "As questões erradas foram as questões "
 
         for (let WrongResultsIndex = 0; WrongResultsIndex < NumberOfWrongResults; WrongResultsIndex++) {
             WrongResultsPara.innerHTML = WrongResultsPara.innerHTML + WrongResults[WrongResultsIndex] + ", "
+            const WrongResultsCorrection = document.createElement("p")
+            WrongResultsCorrection.innerHTML = WrongResults[WrongResultsIndex] + ". " + TestQuestions[WrongResults[WrongResultsIndex] - 1][0]
+            TestArea.appendChild(WrongResultsCorrection)
         }
         WrongResultsPara.innerHTML = (WrongResultsPara.innerHTML.slice(0 , -2)) + "."
         TestArea.appendChild(WrongResultsPara)
