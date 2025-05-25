@@ -275,7 +275,7 @@ function GenerateTest() {
                     YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][4]    
                     break;
                 }
-            YourAnswer.style.color = "#6A994E"
+            YourAnswer.style.color = "#BC4749"
             switch (TestQuestions[WrongResults[CorrectionIndex] - 1][5]) {
                 case 'a':
                     RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
@@ -290,7 +290,7 @@ function GenerateTest() {
                     RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][4]
                     break;
                 }
-            RightAnswer.style.color = "#A7C957"
+            RightAnswer.style.color = "#6A994E"
             TestArea.appendChild(YourAnswer)
             TestArea.appendChild(RightAnswer)
         }
