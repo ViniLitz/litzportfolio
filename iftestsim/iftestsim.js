@@ -261,9 +261,35 @@ function GenerateTest() {
             const RightAnswer = document.createElement("p")
             WrongResultsCorrection.innerHTML = WrongResults[CorrectionIndex] + ". " + TestQuestions[WrongResults[CorrectionIndex] - 1][0]
             TestArea.appendChild(WrongResultsCorrection)
-            YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
+            switch (Answers[WrongResults[CorrectionIndex] - 1]) {
+                case 'a':
+                    YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
+                    break;
+                case 'b':
+                    YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][2]
+                    break;
+                case 'c':
+                    YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][3]       
+                    break;
+                case 'd':
+                    YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][4]    
+                    break;
+                }
             YourAnswer.style.color = "#BC4749"
-            RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
+            switch (TestQuestions[WrongResults[CorrectionIndex] - 1][5]) {
+                case 'a':
+                    RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
+                    break;
+                case 'b':
+                    RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][2]
+                    break;
+                case 'c':
+                    RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][3]       
+                    break;
+                case 'd':
+                    RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][4]
+                    break;
+                }
             RightAnswer.style.color = "#A7C957"
             TestArea.appendChild(YourAnswer)
             TestArea.appendChild(RightAnswer)
@@ -272,7 +298,7 @@ function GenerateTest() {
         ScrollToTopBtn.innerHTML = "Voltar ao topo"
         TestArea.appendChild(ScrollToTopBtn)
         ScrollToTopBtn.addEventListener("click", () => {
-            window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+            window.scrollTo({ top: 0, left: 0, behavior: 'smooth'});
         })
     }
 });
