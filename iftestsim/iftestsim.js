@@ -250,12 +250,17 @@ function GenerateTest() {
             if (WrongResultsIndex === (NumberOfWrongResults - 1)) {
                 WrongResultsPara.innerHTML = (WrongResultsPara.innerHTML.slice(0 , -2)) + "."
                 TestArea.appendChild(WrongResultsPara)
+                CorrectionPara = document.createElement("p")
+                CorrectionPara.innerHTML = "Segue a correção das questões erradas:"
+                TestArea.appendChild(CorrectionPara)
             }
         }    
         for (let CorrectionIndex = 0; CorrectionIndex < NumberOfWrongResults; CorrectionIndex++) {
             const WrongResultsCorrection = document.createElement("p")
+            const YourAndRightAnswer = document.createElement("p")
             WrongResultsCorrection.innerHTML = WrongResults[CorrectionIndex] + ". " + TestQuestions[WrongResults[CorrectionIndex] - 1][0]
             TestArea.appendChild(WrongResultsCorrection)
+            YourAndRightAnswer.innerHTML = "Sua resposta: " + Answers[TestQuestions[WrongResults[CorrectionIndex] - 1]] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
         }
     }
 });
