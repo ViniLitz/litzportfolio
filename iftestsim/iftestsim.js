@@ -261,8 +261,8 @@ function GenerateTest() {
             const RightAnswer = document.createElement("p")
             WrongResultsCorrection.innerHTML = WrongResults[CorrectionIndex] + ". " + TestQuestions[WrongResults[CorrectionIndex] - 1][0]
             TestArea.appendChild(WrongResultsCorrection)
-            YourAnswer.innerHTML = "Sua resposta: " + Answers[TestQuestions[WrongResults[CorrectionIndex] - 1]] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
-            RightAnswer.innerHTML = "Resposta correta: "
+            YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
+            RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
             TestArea.appendChild(YourAnswer)
             TestArea.appendChild(RightAnswer)
         }
