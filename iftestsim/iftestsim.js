@@ -215,7 +215,7 @@ function GenerateTest() {
         }
     }
     if (Answers.length !== 40) {
-        alert("Algumas questões não foram resolvidas!")
+        alert("Algumas questões não foram respondidas!")
         Answers.length = 0;
     } else {
         console.log(Answers);
@@ -262,17 +262,18 @@ function GenerateTest() {
             WrongResultsCorrection.innerHTML = WrongResults[CorrectionIndex] + ". " + TestQuestions[WrongResults[CorrectionIndex] - 1][0]
             TestArea.appendChild(WrongResultsCorrection)
             YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
+            YourAnswer.style.color = "#BC4749"
             RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]
+            RightAnswer.style.color = "#A7C957"
             TestArea.appendChild(YourAnswer)
             TestArea.appendChild(RightAnswer)
         }
+        const ScrollToTopBtn = document.createElement("button")
+        ScrollToTopBtn.innerHTML = "Voltar ao topo"
+        TestArea.appendChild(ScrollToTopBtn)
+        ScrollToTopBtn.addEventListener("click", () => {
+            window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+        })
     }
 });
-const ScrollToTopBtn = document.createElement("button")
-ScrollToTopBtn.innerHTML = "Voltar ao topo"
-TestArea.appendChild(ScrollToTopBtn)
-
-ScrollToTopBtn.addEventListener("click", () => {
-    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
-})
 };
