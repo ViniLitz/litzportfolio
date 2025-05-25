@@ -275,7 +275,7 @@ function GenerateTest() {
                     YourAnswer.innerHTML = "Sua resposta: " + Answers[WrongResults[CorrectionIndex] - 1] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][4]    
                     break;
                 }
-            YourAnswer.style.color = "#BC4749"
+            YourAnswer.style.color = "#6A994E"
             switch (TestQuestions[WrongResults[CorrectionIndex] - 1][5]) {
                 case 'a':
                     RightAnswer.innerHTML = "Resposta correta: " + TestQuestions[WrongResults[CorrectionIndex] - 1][5] + ") " + TestQuestions[WrongResults[CorrectionIndex] - 1][1]

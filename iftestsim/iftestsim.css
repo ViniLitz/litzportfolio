@@ -79,3 +79,36 @@ input[type="radio"]:checked {
     background: #6A994E;
     transform: scale(1);
 }
+
+@media only screen and (max-width: 800px) {
+    .top {
+        text-align: center;
+        padding: 30px 30px;
+        font-size: 70px;
+    }
+
+    .top h1 {
+    font-size: 50px;
+    margin: 0px;
+    }
+
+    .top p {
+        font-size: 20px;
+        font-weight: normal;
+        margin: 0px;
+    }
+
+    button {
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .testarea {
+        margin-top: 50px;
+        background-color: white;
+        color: black;
+        padding: 100px;
+        font-size: 15px;
+    }
+}
