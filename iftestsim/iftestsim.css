@@ -62,6 +62,7 @@ button:hover {
     color: black;
     padding: 100px;
     font-size: 30px;
+    display: none;
 }
 
 input[type="radio"] {

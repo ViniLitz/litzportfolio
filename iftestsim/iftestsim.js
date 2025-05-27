@@ -166,6 +166,7 @@ let NumberOfWrongResults = 0
 const TestArea = document.querySelector(".testarea")
 
 function GenerateTest() {
+    TestArea.style.display = "block"
     for (let QuestionsIndex = 0; QuestionsIndex < 40; QuestionsIndex++) {
 
         let RandomQuestion = Math.floor(Math.random() * QuestionsAndAnswers.length)
