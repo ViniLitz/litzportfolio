@@ -88,8 +88,8 @@ input[type="radio"]:checked {
     }
 
     .top h1 {
-    font-size: 50px;
-    margin: 0px;
+        font-size: 50px;
+        margin: 0px;
     }
 
     .top p {
