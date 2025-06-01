@@ -172,7 +172,7 @@ function GenerateTest() {
         NumOfQuestionsInput.value = 40;
     }
     TestArea.style.display = "block"
-    for (let QuestionsIndex = 0; QuestionsIndex < NumOfQuestionsInput; QuestionsIndex++) {
+    for (let QuestionsIndex = 0; QuestionsIndex < NumOfQuestionsInput.value; QuestionsIndex++) {
 
         let RandomQuestion = Math.floor(Math.random() * QuestionsAndAnswers.length)
 
@@ -213,14 +213,14 @@ function GenerateTest() {
 //Confirmar a resposta e calcular os resultados
 
     SubmitAnswersBtn.addEventListener("click", () => {
-    for (let FormsIndex = 0; FormsIndex < NumOfQuestionsInput; FormsIndex++) {
+    for (let FormsIndex = 0; FormsIndex < NumOfQuestionsInput.value; FormsIndex++) {
         const QuestionForm = document.querySelector(".form" + (FormsIndex + 1))
         const FormsData = new FormData(QuestionForm);
         for (const entry of FormsData) {
             Answers.push(`${entry[1]}`); 
         }
     }
-    if (Answers.length !== NumOfQuestionsInput) {
+    if (Answers.length !== NumOfQuestionsInput.value) {
         alert("Algumas questões não foram respondidas!")
         Answers.length = 0;
     } else {
