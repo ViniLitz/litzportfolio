@@ -170,6 +170,7 @@ const NumOfQuestionsInput = document.querySelector(".numofquestionsinput")
 function GenerateTest() {
     if (NumOfQuestionsInput.value === "") {
         NumOfQuestionsInput.value = 40;
+        alert("Como o número de questões desejadas não foi inserido, foram geradas 40 questões, que é o número padrão.")
     }
     if (NumOfQuestionsInput.value > 100) {
         alert("Foram geradas apenas 100 questões, que é o maior número possível.")
