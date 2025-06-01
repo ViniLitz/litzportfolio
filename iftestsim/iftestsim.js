@@ -226,7 +226,6 @@ function GenerateTest() {
         }
         if (Answers.length !== NumOfQuestionsInput.value) {
             alert("Algumas questões não foram respondidas!")
-            Answers.length = 0;
         } else {
             console.log(Answers);
             for (let AnswersIndex = 0; AnswersIndex < Answers.length; AnswersIndex++) {
