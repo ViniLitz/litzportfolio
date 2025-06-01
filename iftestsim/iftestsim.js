@@ -171,6 +171,9 @@ function GenerateTest() {
     if (NumOfQuestionsInput.value === "") {
         NumOfQuestionsInput.value = 40;
     }
+    if (NumOfQuestionsInput.value > 100) {
+        alert("Foram geradas apenas 100 questões, que é o maior número possível.")
+    }
     TestArea.style.display = "block"
     for (let QuestionsIndex = 0; QuestionsIndex < NumOfQuestionsInput.value; QuestionsIndex++) {
 
