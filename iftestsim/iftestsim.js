@@ -105,7 +105,7 @@ function GenerateTest() {
 //Mostrar os resultados
 
             ResultsPara = document.createElement("p")
-            ResultsPara.innerHTML = "Você acertou " + NumberOfRightResults + " questões, e errou " + NumberOfWrongResults + "."
+            ResultsPara.innerHTML = "Seu resultado : " + NumberOfRightResults + "/" + NumberOfWrongResults
             TestArea.appendChild(ResultsPara)
             
             const WrongResultsPara = document.createElement("p")
@@ -160,6 +160,9 @@ function GenerateTest() {
                 TestArea.appendChild(YourAnswer)
                 TestArea.appendChild(RightAnswer)
             }
+            const ReiniciePara = document.createElement("p")
+            ReiniciePara.innerHTML = "Reinicie a página para poder gerar mais uma prova."
+            TestArea.appendChild(ReiniciePara)
             const ScrollToTopBtn = document.createElement("button")
             ScrollToTopBtn.innerHTML = "Voltar ao topo"
             TestArea.appendChild(ScrollToTopBtn)

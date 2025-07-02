@@ -120,7 +120,7 @@ input[type="radio"]:checked {
         margin-top: 50px;
         background-color: white;
         color: black;
-        padding: 70px;
+        padding: 30px;
         font-size: 22px;
     }
 
@@ -134,6 +134,10 @@ input[type="radio"]:checked {
     }
 
     .numofquestionsinput {
+        position: static;
+        float: none;
+        display: block;
+        margin: 30px auto;
         text-align: center;
         width: 300px;
         height: 65px;
@@ -142,7 +146,7 @@ input[type="radio"]:checked {
     }
 
     .generatetestbtn {
-        margin: 160px auto 0px;
+        margin: 0px auto;
         width: 320px;
     }
 }
