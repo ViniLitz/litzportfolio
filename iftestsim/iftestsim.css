@@ -134,15 +134,15 @@ input[type="radio"]:checked {
     }
 
     .numofquestionsinput {
-        margin: 0px auto;
-        width: 320px;
-        height: 40px;
-        padding: 5px;
-        font-size: 13px;
+        text-align: center;
+        width: 300px;
+        height: 65px;
+        padding: 3px;
+        font-size: 12px;
     }
 
     .generatetestbtn {
-        margin: 50px auto 0px;
+        margin: 160px auto 0px;
         width: 320px;
     }
 }
