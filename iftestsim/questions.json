@@ -1,0 +1,1290 @@
+[
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ],
+  [
+    "Qual das alternativas é um exemplo de metáfora?",
+    "Ele estava doente",
+    "Ela é uma flor",
+    "Corri muito ontem",
+    "O céu está azul",
+    "b"
+  ],
+  [
+    "Qual é o valor de x na equação: 3x + 2 = 11?",
+    "2",
+    "3",
+    "5",
+    "6",
+    "b"
+  ],
+  [
+    "Qual é a função dos ribossomos na célula?",
+    "Produção de energia",
+    "Síntese de proteínas",
+    "Armazenamento de água",
+    "Controle das funções celulares",
+    "b"
+  ],
+  [
+    "Quem proclamou a independência do Brasil?",
+    "Pedro Álvares Cabral",
+    "Tiradentes",
+    "Dom Pedro I",
+    "Getúlio Vargas",
+    "c"
+  ],
+  [
+    "Qual é a capital do estado do Tocantins?",
+    "Palmas",
+    "Teresina",
+    "São Luís",
+    "Rio Branco",
+    "a"
+  ],
+  [
+    "Em que continente está localizado o deserto do Saara?",
+    "Ásia",
+    "América",
+    "África",
+    "Europa",
+    "c"
+  ],
+  [
+    "Qual destas palavras é um advérbio de tempo?",
+    "Rápido",
+    "Ontem",
+    "Ali",
+    "Sempre",
+    "b"
+  ],
+  [
+    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
+    "Sol",
+    "Vento",
+    "Água",
+    "Carvão",
+    "c"
+  ],
+  [
+    "Qual foi o motivo da Revolução Farroupilha?",
+    "Abolição da escravidão",
+    "Impostos sobre produtos do sul",
+    "Separação de Portugal",
+    "Revolta contra o Império",
+    "b"
+  ],
+  [
+    "Como se escreve o número 2.358 em algarismos romanos?",
+    "MMCCCLVIII",
+    "MMCCCXLVIII",
+    "MMDCCCLVIII",
+    "MMCCCXXXVIII",
+    "a"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito nesta época.'?",
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "d"
+  ],
+  [
+    "Qual é a fórmula da água?",
+    "CO2",
+    "H2O",
+    "O2",
+    "H2SO4",
+    "b"
+  ],
+  [
+    "Qual é a função do núcleo na célula?",
+    "Produzir proteínas",
+    "Regular entrada de substâncias",
+    "Controlar as atividades celulares",
+    "Fornecer energia",
+    "c"
+  ],
+  [
+    "Quem foi o presidente do Brasil durante o Estado Novo?",
+    "Juscelino Kubitschek",
+    "Getúlio Vargas",
+    "Fernando Henrique",
+    "Dilma Rousseff",
+    "b"
+  ],
+  [
+    "Qual dessas opções é um bioma brasileiro?",
+    "Taiga",
+    "Savana",
+    "Pampas",
+    "Pântano",
+    "c"
+  ],
+  [
+    "Qual o antônimo da palavra 'feliz'?",
+    "Alegre",
+    "Triste",
+    "Risonho",
+    "Contente",
+    "b"
+  ],
+  [
+    "Quantos lados tem um octógono?",
+    "6",
+    "8",
+    "10",
+    "12",
+    "b"
+  ],
+  [
+    "Qual é o valor de 5²?",
+    "10",
+    "15",
+    "25",
+    "30",
+    "c"
+  ],
+  [
+    "Qual é a tradução da palavra 'apple' em inglês?",
+    "Abacaxi",
+    "Pêra",
+    "Banana",
+    "Maçã",
+    "d"
+  ],
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ],
+  [
+    "Qual das alternativas é um exemplo de metáfora?",
+    "Ele estava doente",
+    "Ela é uma flor",
+    "Corri muito ontem",
+    "O céu está azul",
+    "b"
+  ],
+  [
+    "Qual é o valor de x na equação: 3x + 2 = 11?",
+    "2",
+    "3",
+    "5",
+    "6",
+    "b"
+  ],
+  [
+    "Qual é a função dos ribossomos na célula?",
+    "Produção de energia",
+    "Síntese de proteínas",
+    "Armazenamento de água",
+    "Controle das funções celulares",
+    "b"
+  ],
+  [
+    "Quem proclamou a independência do Brasil?",
+    "Pedro Álvares Cabral",
+    "Tiradentes",
+    "Dom Pedro I",
+    "Getúlio Vargas",
+    "c"
+  ],
+  [
+    "Qual é a capital do estado do Tocantins?",
+    "Palmas",
+    "Teresina",
+    "São Luís",
+    "Rio Branco",
+    "a"
+  ],
+  [
+    "Em que continente está localizado o deserto do Saara?",
+    "Ásia",
+    "América",
+    "África",
+    "Europa",
+    "c"
+  ],
+  [
+    "Qual destas palavras é um advérbio de tempo?",
+    "Rápido",
+    "Ontem",
+    "Ali",
+    "Sempre",
+    "b"
+  ],
+  [
+    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
+    "Sol",
+    "Vento",
+    "Água",
+    "Carvão",
+    "c"
+  ],
+  [
+    "Qual foi o motivo da Revolução Farroupilha?",
+    "Abolição da escravidão",
+    "Impostos sobre produtos do sul",
+    "Separação de Portugal",
+    "Revolta contra o Império",
+    "b"
+  ],
+  [
+    "Como se escreve o número 2.358 em algarismos romanos?",
+    "MMCCCLVIII",
+    "MMCCCXLVIII",
+    "MMDCCCLVIII",
+    "MMCCCXXXVIII",
+    "a"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito nesta época.'?",
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "d"
+  ],
+  [
+    "Qual é a fórmula da água?",
+    "CO2",
+    "H2O",
+    "O2",
+    "H2SO4",
+    "b"
+  ],
+  [
+    "Qual é a função do núcleo na célula?",
+    "Produzir proteínas",
+    "Regular entrada de substâncias",
+    "Controlar as atividades celulares",
+    "Fornecer energia",
+    "c"
+  ],
+  [
+    "Quem foi o presidente do Brasil durante o Estado Novo?",
+    "Juscelino Kubitschek",
+    "Getúlio Vargas",
+    "Fernando Henrique",
+    "Dilma Rousseff",
+    "b"
+  ],
+  [
+    "Qual dessas opções é um bioma brasileiro?",
+    "Taiga",
+    "Savana",
+    "Pampas",
+    "Pântano",
+    "c"
+  ],
+  [
+    "Qual o antônimo da palavra 'feliz'?",
+    "Alegre",
+    "Triste",
+    "Risonho",
+    "Contente",
+    "b"
+  ],
+  [
+    "Quantos lados tem um octógono?",
+    "6",
+    "8",
+    "10",
+    "12",
+    "b"
+  ],
+  [
+    "Qual é o valor de 5²?",
+    "10",
+    "15",
+    "25",
+    "30",
+    "c"
+  ],
+  [
+    "Qual é a tradução da palavra 'apple' em inglês?",
+    "Abacaxi",
+    "Pêra",
+    "Banana",
+    "Maçã",
+    "d"
+  ],
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ],
+  [
+    "Qual das alternativas é um exemplo de metáfora?",
+    "Ele estava doente",
+    "Ela é uma flor",
+    "Corri muito ontem",
+    "O céu está azul",
+    "b"
+  ],
+  [
+    "Qual é o valor de x na equação: 3x + 2 = 11?",
+    "2",
+    "3",
+    "5",
+    "6",
+    "b"
+  ],
+  [
+    "Qual é a função dos ribossomos na célula?",
+    "Produção de energia",
+    "Síntese de proteínas",
+    "Armazenamento de água",
+    "Controle das funções celulares",
+    "b"
+  ],
+  [
+    "Quem proclamou a independência do Brasil?",
+    "Pedro Álvares Cabral",
+    "Tiradentes",
+    "Dom Pedro I",
+    "Getúlio Vargas",
+    "c"
+  ],
+  [
+    "Qual é a capital do estado do Tocantins?",
+    "Palmas",
+    "Teresina",
+    "São Luís",
+    "Rio Branco",
+    "a"
+  ],
+  [
+    "Em que continente está localizado o deserto do Saara?",
+    "Ásia",
+    "América",
+    "África",
+    "Europa",
+    "c"
+  ],
+  [
+    "Qual destas palavras é um advérbio de tempo?",
+    "Rápido",
+    "Ontem",
+    "Ali",
+    "Sempre",
+    "b"
+  ],
+  [
+    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
+    "Sol",
+    "Vento",
+    "Água",
+    "Carvão",
+    "c"
+  ],
+  [
+    "Qual foi o motivo da Revolução Farroupilha?",
+    "Abolição da escravidão",
+    "Impostos sobre produtos do sul",
+    "Separação de Portugal",
+    "Revolta contra o Império",
+    "b"
+  ],
+  [
+    "Como se escreve o número 2.358 em algarismos romanos?",
+    "MMCCCLVIII",
+    "MMCCCXLVIII",
+    "MMDCCCLVIII",
+    "MMCCCXXXVIII",
+    "a"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito nesta época.'?",
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "d"
+  ],
+  [
+    "Qual é a fórmula da água?",
+    "CO2",
+    "H2O",
+    "O2",
+    "H2SO4",
+    "b"
+  ],
+  [
+    "Qual é a função do núcleo na célula?",
+    "Produzir proteínas",
+    "Regular entrada de substâncias",
+    "Controlar as atividades celulares",
+    "Fornecer energia",
+    "c"
+  ],
+  [
+    "Quem foi o presidente do Brasil durante o Estado Novo?",
+    "Juscelino Kubitschek",
+    "Getúlio Vargas",
+    "Fernando Henrique",
+    "Dilma Rousseff",
+    "b"
+  ],
+  [
+    "Qual dessas opções é um bioma brasileiro?",
+    "Taiga",
+    "Savana",
+    "Pampas",
+    "Pântano",
+    "c"
+  ],
+  [
+    "Qual o antônimo da palavra 'feliz'?",
+    "Alegre",
+    "Triste",
+    "Risonho",
+    "Contente",
+    "b"
+  ],
+  [
+    "Quantos lados tem um octógono?",
+    "6",
+    "8",
+    "10",
+    "12",
+    "b"
+  ],
+  [
+    "Qual é o valor de 5²?",
+    "10",
+    "15",
+    "25",
+    "30",
+    "c"
+  ],
+  [
+    "Qual é a tradução da palavra 'apple' em inglês?",
+    "Abacaxi",
+    "Pêra",
+    "Banana",
+    "Maçã",
+    "d"
+  ],
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ],
+  [
+    "Qual das alternativas é um exemplo de metáfora?",
+    "Ele estava doente",
+    "Ela é uma flor",
+    "Corri muito ontem",
+    "O céu está azul",
+    "b"
+  ],
+  [
+    "Qual é o valor de x na equação: 3x + 2 = 11?",
+    "2",
+    "3",
+    "5",
+    "6",
+    "b"
+  ],
+  [
+    "Qual é a função dos ribossomos na célula?",
+    "Produção de energia",
+    "Síntese de proteínas",
+    "Armazenamento de água",
+    "Controle das funções celulares",
+    "b"
+  ],
+  [
+    "Quem proclamou a independência do Brasil?",
+    "Pedro Álvares Cabral",
+    "Tiradentes",
+    "Dom Pedro I",
+    "Getúlio Vargas",
+    "c"
+  ],
+  [
+    "Qual é a capital do estado do Tocantins?",
+    "Palmas",
+    "Teresina",
+    "São Luís",
+    "Rio Branco",
+    "a"
+  ],
+  [
+    "Em que continente está localizado o deserto do Saara?",
+    "Ásia",
+    "América",
+    "África",
+    "Europa",
+    "c"
+  ],
+  [
+    "Qual destas palavras é um advérbio de tempo?",
+    "Rápido",
+    "Ontem",
+    "Ali",
+    "Sempre",
+    "b"
+  ],
+  [
+    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
+    "Sol",
+    "Vento",
+    "Água",
+    "Carvão",
+    "c"
+  ],
+  [
+    "Qual foi o motivo da Revolução Farroupilha?",
+    "Abolição da escravidão",
+    "Impostos sobre produtos do sul",
+    "Separação de Portugal",
+    "Revolta contra o Império",
+    "b"
+  ],
+  [
+    "Como se escreve o número 2.358 em algarismos romanos?",
+    "MMCCCLVIII",
+    "MMCCCXLVIII",
+    "MMDCCCLVIII",
+    "MMCCCXXXVIII",
+    "a"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito nesta época.'?",
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "d"
+  ],
+  [
+    "Qual é a fórmula da água?",
+    "CO2",
+    "H2O",
+    "O2",
+    "H2SO4",
+    "b"
+  ],
+  [
+    "Qual é a função do núcleo na célula?",
+    "Produzir proteínas",
+    "Regular entrada de substâncias",
+    "Controlar as atividades celulares",
+    "Fornecer energia",
+    "c"
+  ],
+  [
+    "Quem foi o presidente do Brasil durante o Estado Novo?",
+    "Juscelino Kubitschek",
+    "Getúlio Vargas",
+    "Fernando Henrique",
+    "Dilma Rousseff",
+    "b"
+  ],
+  [
+    "Qual dessas opções é um bioma brasileiro?",
+    "Taiga",
+    "Savana",
+    "Pampas",
+    "Pântano",
+    "c"
+  ],
+  [
+    "Qual o antônimo da palavra 'feliz'?",
+    "Alegre",
+    "Triste",
+    "Risonho",
+    "Contente",
+    "b"
+  ],
+  [
+    "Quantos lados tem um octógono?",
+    "6",
+    "8",
+    "10",
+    "12",
+    "b"
+  ],
+  [
+    "Qual é o valor de 5²?",
+    "10",
+    "15",
+    "25",
+    "30",
+    "c"
+  ],
+  [
+    "Qual é a tradução da palavra 'apple' em inglês?",
+    "Abacaxi",
+    "Pêra",
+    "Banana",
+    "Maçã",
+    "d"
+  ],
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ],
+  [
+    "Qual das alternativas é um exemplo de metáfora?",
+    "Ele estava doente",
+    "Ela é uma flor",
+    "Corri muito ontem",
+    "O céu está azul",
+    "b"
+  ],
+  [
+    "Qual é o valor de x na equação: 3x + 2 = 11?",
+    "2",
+    "3",
+    "5",
+    "6",
+    "b"
+  ],
+  [
+    "Qual é a função dos ribossomos na célula?",
+    "Produção de energia",
+    "Síntese de proteínas",
+    "Armazenamento de água",
+    "Controle das funções celulares",
+    "b"
+  ],
+  [
+    "Quem proclamou a independência do Brasil?",
+    "Pedro Álvares Cabral",
+    "Tiradentes",
+    "Dom Pedro I",
+    "Getúlio Vargas",
+    "c"
+  ],
+  [
+    "Qual é a capital do estado do Tocantins?",
+    "Palmas",
+    "Teresina",
+    "São Luís",
+    "Rio Branco",
+    "a"
+  ],
+  [
+    "Em que continente está localizado o deserto do Saara?",
+    "Ásia",
+    "América",
+    "África",
+    "Europa",
+    "c"
+  ],
+  [
+    "Qual destas palavras é um advérbio de tempo?",
+    "Rápido",
+    "Ontem",
+    "Ali",
+    "Sempre",
+    "b"
+  ],
+  [
+    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
+    "Sol",
+    "Vento",
+    "Água",
+    "Carvão",
+    "c"
+  ],
+  [
+    "Qual foi o motivo da Revolução Farroupilha?",
+    "Abolição da escravidão",
+    "Impostos sobre produtos do sul",
+    "Separação de Portugal",
+    "Revolta contra o Império",
+    "b"
+  ],
+  [
+    "Como se escreve o número 2.358 em algarismos romanos?",
+    "MMCCCLVIII",
+    "MMCCCXLVIII",
+    "MMDCCCLVIII",
+    "MMCCCXXXVIII",
+    "a"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito nesta época.'?",
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "d"
+  ],
+  [
+    "Qual é a fórmula da água?",
+    "CO2",
+    "H2O",
+    "O2",
+    "H2SO4",
+    "b"
+  ],
+  [
+    "Qual é a função do núcleo na célula?",
+    "Produzir proteínas",
+    "Regular entrada de substâncias",
+    "Controlar as atividades celulares",
+    "Fornecer energia",
+    "c"
+  ],
+  [
+    "Quem foi o presidente do Brasil durante o Estado Novo?",
+    "Juscelino Kubitschek",
+    "Getúlio Vargas",
+    "Fernando Henrique",
+    "Dilma Rousseff",
+    "b"
+  ],
+  [
+    "Qual dessas opções é um bioma brasileiro?",
+    "Taiga",
+    "Savana",
+    "Pampas",
+    "Pântano",
+    "c"
+  ],
+  [
+    "Qual o antônimo da palavra 'feliz'?",
+    "Alegre",
+    "Triste",
+    "Risonho",
+    "Contente",
+    "b"
+  ],
+  [
+    "Quantos lados tem um octógono?",
+    "6",
+    "8",
+    "10",
+    "12",
+    "b"
+  ],
+  [
+    "Qual é o valor de 5²?",
+    "10",
+    "15",
+    "25",
+    "30",
+    "c"
+  ],
+  [
+    "Qual é a tradução da palavra 'apple' em inglês?",
+    "Abacaxi",
+    "Pêra",
+    "Banana",
+    "Maçã",
+    "d"
+  ],
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ],
+  [
+    "Qual das alternativas é um exemplo de metáfora?",
+    "Ele estava doente",
+    "Ela é uma flor",
+    "Corri muito ontem",
+    "O céu está azul",
+    "b"
+  ],
+  [
+    "Qual é o valor de x na equação: 3x + 2 = 11?",
+    "2",
+    "3",
+    "5",
+    "6",
+    "b"
+  ],
+  [
+    "Qual é a função dos ribossomos na célula?",
+    "Produção de energia",
+    "Síntese de proteínas",
+    "Armazenamento de água",
+    "Controle das funções celulares",
+    "b"
+  ],
+  [
+    "Quem proclamou a independência do Brasil?",
+    "Pedro Álvares Cabral",
+    "Tiradentes",
+    "Dom Pedro I",
+    "Getúlio Vargas",
+    "c"
+  ],
+  [
+    "Qual é a capital do estado do Tocantins?",
+    "Palmas",
+    "Teresina",
+    "São Luís",
+    "Rio Branco",
+    "a"
+  ],
+  [
+    "Em que continente está localizado o deserto do Saara?",
+    "Ásia",
+    "América",
+    "África",
+    "Europa",
+    "c"
+  ],
+  [
+    "Qual destas palavras é um advérbio de tempo?",
+    "Rápido",
+    "Ontem",
+    "Ali",
+    "Sempre",
+    "b"
+  ],
+  [
+    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
+    "Sol",
+    "Vento",
+    "Água",
+    "Carvão",
+    "c"
+  ],
+  [
+    "Qual foi o motivo da Revolução Farroupilha?",
+    "Abolição da escravidão",
+    "Impostos sobre produtos do sul",
+    "Separação de Portugal",
+    "Revolta contra o Império",
+    "b"
+  ],
+  [
+    "Como se escreve o número 2.358 em algarismos romanos?",
+    "MMCCCLVIII",
+    "MMCCCXLVIII",
+    "MMDCCCLVIII",
+    "MMCCCXXXVIII",
+    "a"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito nesta época.'?",
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "d"
+  ],
+  [
+    "Qual é a fórmula da água?",
+    "CO2",
+    "H2O",
+    "O2",
+    "H2SO4",
+    "b"
+  ],
+  [
+    "Qual é a função do núcleo na célula?",
+    "Produzir proteínas",
+    "Regular entrada de substâncias",
+    "Controlar as atividades celulares",
+    "Fornecer energia",
+    "c"
+  ],
+  [
+    "Quem foi o presidente do Brasil durante o Estado Novo?",
+    "Juscelino Kubitschek",
+    "Getúlio Vargas",
+    "Fernando Henrique",
+    "Dilma Rousseff",
+    "b"
+  ],
+  [
+    "Qual dessas opções é um bioma brasileiro?",
+    "Taiga",
+    "Savana",
+    "Pampas",
+    "Pântano",
+    "c"
+  ],
+  [
+    "Qual o antônimo da palavra 'feliz'?",
+    "Alegre",
+    "Triste",
+    "Risonho",
+    "Contente",
+    "b"
+  ],
+  [
+    "Quantos lados tem um octógono?",
+    "6",
+    "8",
+    "10",
+    "12",
+    "b"
+  ],
+  [
+    "Qual é o valor de 5²?",
+    "10",
+    "15",
+    "25",
+    "30",
+    "c"
+  ],
+  [
+    "Qual é a tradução da palavra 'apple' em inglês?",
+    "Abacaxi",
+    "Pêra",
+    "Banana",
+    "Maçã",
+    "d"
+  ],
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ],
+  [
+    "Qual das alternativas é um exemplo de metáfora?",
+    "Ele estava doente",
+    "Ela é uma flor",
+    "Corri muito ontem",
+    "O céu está azul",
+    "b"
+  ],
+  [
+    "Qual é o valor de x na equação: 3x + 2 = 11?",
+    "2",
+    "3",
+    "5",
+    "6",
+    "b"
+  ],
+  [
+    "Qual é a função dos ribossomos na célula?",
+    "Produção de energia",
+    "Síntese de proteínas",
+    "Armazenamento de água",
+    "Controle das funções celulares",
+    "b"
+  ],
+  [
+    "Quem proclamou a independência do Brasil?",
+    "Pedro Álvares Cabral",
+    "Tiradentes",
+    "Dom Pedro I",
+    "Getúlio Vargas",
+    "c"
+  ],
+  [
+    "Qual é a capital do estado do Tocantins?",
+    "Palmas",
+    "Teresina",
+    "São Luís",
+    "Rio Branco",
+    "a"
+  ],
+  [
+    "Em que continente está localizado o deserto do Saara?",
+    "Ásia",
+    "América",
+    "África",
+    "Europa",
+    "c"
+  ],
+  [
+    "Qual destas palavras é um advérbio de tempo?",
+    "Rápido",
+    "Ontem",
+    "Ali",
+    "Sempre",
+    "b"
+  ],
+  [
+    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
+    "Sol",
+    "Vento",
+    "Água",
+    "Carvão",
+    "c"
+  ],
+  [
+    "Qual foi o motivo da Revolução Farroupilha?",
+    "Abolição da escravidão",
+    "Impostos sobre produtos do sul",
+    "Separação de Portugal",
+    "Revolta contra o Império",
+    "b"
+  ],
+  [
+    "Como se escreve o número 2.358 em algarismos romanos?",
+    "MMCCCLVIII",
+    "MMCCCXLVIII",
+    "MMDCCCLVIII",
+    "MMCCCXXXVIII",
+    "a"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito nesta época.'?",
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "d"
+  ],
+  [
+    "Qual é a fórmula da água?",
+    "CO2",
+    "H2O",
+    "O2",
+    "H2SO4",
+    "b"
+  ],
+  [
+    "Qual é a função do núcleo na célula?",
+    "Produzir proteínas",
+    "Regular entrada de substâncias",
+    "Controlar as atividades celulares",
+    "Fornecer energia",
+    "c"
+  ],
+  [
+    "Quem foi o presidente do Brasil durante o Estado Novo?",
+    "Juscelino Kubitschek",
+    "Getúlio Vargas",
+    "Fernando Henrique",
+    "Dilma Rousseff",
+    "b"
+  ],
+  [
+    "Qual dessas opções é um bioma brasileiro?",
+    "Taiga",
+    "Savana",
+    "Pampas",
+    "Pântano",
+    "c"
+  ],
+  [
+    "Qual o antônimo da palavra 'feliz'?",
+    "Alegre",
+    "Triste",
+    "Risonho",
+    "Contente",
+    "b"
+  ],
+  [
+    "Quantos lados tem um octógono?",
+    "6",
+    "8",
+    "10",
+    "12",
+    "b"
+  ],
+  [
+    "Qual é o valor de 5²?",
+    "10",
+    "15",
+    "25",
+    "30",
+    "c"
+  ],
+  [
+    "Qual é a tradução da palavra 'apple' em inglês?",
+    "Abacaxi",
+    "Pêra",
+    "Banana",
+    "Maçã",
+    "d"
+  ],
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ],
+  [
+    "Qual das alternativas é um exemplo de metáfora?",
+    "Ele estava doente",
+    "Ela é uma flor",
+    "Corri muito ontem",
+    "O céu está azul",
+    "b"
+  ],
+  [
+    "Qual é o valor de x na equação: 3x + 2 = 11?",
+    "2",
+    "3",
+    "5",
+    "6",
+    "b"
+  ],
+  [
+    "Qual é a função dos ribossomos na célula?",
+    "Produção de energia",
+    "Síntese de proteínas",
+    "Armazenamento de água",
+    "Controle das funções celulares",
+    "b"
+  ],
+  [
+    "Quem proclamou a independência do Brasil?",
+    "Pedro Álvares Cabral",
+    "Tiradentes",
+    "Dom Pedro I",
+    "Getúlio Vargas",
+    "c"
+  ],
+  [
+    "Qual é a capital do estado do Tocantins?",
+    "Palmas",
+    "Teresina",
+    "São Luís",
+    "Rio Branco",
+    "a"
+  ],
+  [
+    "Em que continente está localizado o deserto do Saara?",
+    "Ásia",
+    "América",
+    "África",
+    "Europa",
+    "c"
+  ],
+  [
+    "Qual destas palavras é um advérbio de tempo?",
+    "Rápido",
+    "Ontem",
+    "Ali",
+    "Sempre",
+    "b"
+  ],
+  [
+    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
+    "Sol",
+    "Vento",
+    "Água",
+    "Carvão",
+    "c"
+  ],
+  [
+    "Qual foi o motivo da Revolução Farroupilha?",
+    "Abolição da escravidão",
+    "Impostos sobre produtos do sul",
+    "Separação de Portugal",
+    "Revolta contra o Império",
+    "b"
+  ],
+  [
+    "Como se escreve o número 2.358 em algarismos romanos?",
+    "MMCCCLVIII",
+    "MMCCCXLVIII",
+    "MMDCCCLVIII",
+    "MMCCCXXXVIII",
+    "a"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito nesta época.'?",
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "d"
+  ],
+  [
+    "Qual é a fórmula da água?",
+    "CO2",
+    "H2O",
+    "O2",
+    "H2SO4",
+    "b"
+  ],
+  [
+    "Qual é a função do núcleo na célula?",
+    "Produzir proteínas",
+    "Regular entrada de substâncias",
+    "Controlar as atividades celulares",
+    "Fornecer energia",
+    "c"
+  ],
+  [
+    "Quem foi o presidente do Brasil durante o Estado Novo?",
+    "Juscelino Kubitschek",
+    "Getúlio Vargas",
+    "Fernando Henrique",
+    "Dilma Rousseff",
+    "b"
+  ],
+  [
+    "Qual dessas opções é um bioma brasileiro?",
+    "Taiga",
+    "Savana",
+    "Pampas",
+    "Pântano",
+    "c"
+  ],
+  [
+    "Qual o antônimo da palavra 'feliz'?",
+    "Alegre",
+    "Triste",
+    "Risonho",
+    "Contente",
+    "b"
+  ],
+  [
+    "Quantos lados tem um octógono?",
+    "6",
+    "8",
+    "10",
+    "12",
+    "b"
+  ],
+  [
+    "Qual é o valor de 5²?",
+    "10",
+    "15",
+    "25",
+    "30",
+    "c"
+  ],
+  [
+    "Qual é a tradução da palavra 'apple' em inglês?",
+    "Abacaxi",
+    "Pêra",
+    "Banana",
+    "Maçã",
+    "d"
+  ],
+  [
+    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Verbal",
+    "Nominal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c"
+  ]
+]
