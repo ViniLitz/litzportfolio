@@ -1,1282 +1,1776 @@
 [
   [
-    "Qual é o tipo de predicado na frase: 'O menino chegou cansado.'?",
+    "Na frase 'Venderam-se as casas a um preço justo.', o sujeito é:",
+    "Indeterminado",
+    "Simples (as casas)",
+    "Oculto",
+    "Inexistente",
+    "b",
+    "portugues"
+  ],
+  [
+    "Qual figura de linguagem está presente na frase 'O bonde passa cheio de pernas'?",
+    "Metáfora",
+    "Hipérbole",
+    "Metonímia",
+    "Comparação",
+    "c",
+    "portugues"
+  ],
+  [
+    "Assinale a alternativa em que a concordância verbal está INCORRETA.",
+    "Fazem dois anos que não o vejo.",
+    "Havia muitas pessoas na festa.",
+    "Um e outro aluno saiu da sala.",
+    "Os Estados Unidos são uma potência mundial.",
+    "a",
+    "portugues"
+  ],
+  [
+    "A oração 'É preciso que todos colaborem' é classificada como:",
+    "Subordinada Substantiva Objetiva Direta",
+    "Subordinada Substantiva Subjetiva",
+    "Subordinada Adjetiva Restritiva",
+    "Coordenada Sindética Explicativa",
+    "b",
+    "portugues"
+  ],
+  [
+    "No período 'Penso, logo existo', a segunda oração é:",
+    "Coordenada Sindética Aditiva",
+    "Coordenada Sindética Adversativa",
+    "Coordenada Sindética Conclusiva",
+    "Coordenada Sindética Alternativa",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual das palavras abaixo é acentuada pela mesma regra de 'saúde'?",
+    "País",
+    "Herói",
+    "Baú",
+    "Ideia",
+    "c",
+    "portugues"
+  ],
+  [
+    "Na frase 'A menina, que era muito estudiosa, passou no vestibular.', a oração destacada é:",
+    "Subordinada Adjetiva Restritiva",
+    "Subordinada Adjetiva Explicativa",
+    "Subordinada Substantiva Apositiva",
+    "Subordinada Adverbial Causal",
+    "b",
+    "portugues"
+  ],
+  [
+    "Identifique a função sintática do termo destacado em 'Tenho necessidade DE SEU APOIO'.",
+    "Objeto direto",
+    "Objeto indireto",
+    "Complemento nominal",
+    "Agente da passiva",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual o tipo de predicado na frase 'Os alunos chegaram cansados'?",
     "Verbal",
     "Nominal",
     "Verbo-nominal",
     "Inexistente",
-    "c"
+    "c",
+    "portugues"
   ],
   [
-    "Qual das alternativas é um exemplo de metáfora?",
-    "Ele estava doente",
-    "Ela é uma flor",
-    "Corri muito ontem",
-    "O céu está azul",
-    "b"
+    "A palavra 'embora' estabelece, no período em que se insere, uma relação de:",
+    "Causa",
+    "Concessão",
+    "Condição",
+    "Finalidade",
+    "b",
+    "portugues"
   ],
   [
-    "Qual é o valor de x na equação: 3x + 2 = 11?",
-    "2",
+    "Qual das alternativas apresenta um verbo na forma de particípio?",
+    "Trazendo",
+    "Falado",
+    "Venderia",
+    "Partir",
+    "b",
+    "portugues"
+  ],
+  [
+    "Em 'O amor de mãe é o mais forte.', o termo 'de mãe' funciona como:",
+    "Adjunto adnominal",
+    "Complemento nominal",
+    "Adjunto adverbial",
+    "Aposto",
+    "a",
+    "portugues"
+  ],
+  [
+    "Qual frase contém um pronome relativo?",
+    "Ele disse que viria.",
+    "O livro cuja capa é azul sumiu.",
+    "Quem chegou primeiro?",
+    "Ninguém me avisou.",
+    "b",
+    "portugues"
+  ],
+  [
+    "A voz verbal da frase 'A prova foi corrigida pelo professor' é:",
+    "Ativa",
+    "Passiva Analítica",
+    "Passiva Sintética",
+    "Reflexiva",
+    "b",
+    "portugues"
+  ],
+  [
+    "Qual das opções contém apenas palavras paroxítonas?",
+    "Café, jiló, cipó",
+    "Lâmpada, médico, ônibus",
+    "Amigo, janela, cadeira",
+    "Açaí, bambu, urubu",
+    "c",
+    "portugues"
+  ],
+  [
+    "Na charge, o uso da expressão 'com certeza' separado e com 's' está:",
+    "Correto, pois indica afirmação.",
+    "Incorreto, devendo ser 'concerteza'.",
+    "Incorreto, devendo ser 'conserto'.",
+    "Incorreto, devendo ser 'com serteza'.",
+    "a",
+    "portugues"
+  ],
+  [
+    "Qual das alternativas abaixo representa um hiato?",
+    "Pai",
+    "Mãe",
+    "Saída",
+    "Quadro",
+    "c",
+    "portugues"
+  ],
+  [
+    "O uso da vírgula está INCORRETO em:",
+    "Maria, a aluna nova, é muito inteligente.",
+    "Comprei laranjas, maçãs, bananas e uvas.",
+    "O menino, corria pela rua.",
+    "São Paulo, 2 de julho de 2025.",
+    "c",
+    "portugues"
+  ],
+  [
+    "Na frase 'Precisa-se de funcionários', o 'se' é classificado como:",
+    "Partícula apassivadora",
+    "Índice de indeterminação do sujeito",
+    "Pronome reflexivo",
+    "Conjunção subordinativa integrante",
+    "b",
+    "portugues"
+  ],
+  [
+    "O plural de 'cidadão' é:",
+    "Cidadãos",
+    "Cidadões",
+    "Cidadães",
+    "Cidadãos e cidadões",
+    "a",
+    "portugues"
+  ],
+  [
+    "Qual é o sujeito da frase: 'Chove muito no inverno.'?",
+    "Simples",
+    "Oculto",
+    "Inexistente",
+    "Indeterminado",
+    "c",
+    "portugues"
+  ],
+  [
+    "Em 'A casa de meus pais fica longe daqui', o pronome possessivo refere-se à:",
+    "1ª pessoa do plural",
+    "3ª pessoa do plural",
+    "1ª pessoa do singular",
+    "3ª pessoa do singular",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual a forma verbal correta na frase 'Se eu ______ o seu recado, teria ligado.'?",
+    "ver",
+    "visse",
+    "vir",
+    "veria",
+    "b",
+    "portugues"
+  ],
+  [
+    "O termo destacado em 'Ele agiu CONFORME A LEI' expressa uma circunstância de:",
+    "Modo",
+    "Causa",
+    "Conformidade",
+    "Fim",
+    "c",
+    "portugues"
+  ],
+  [
+    "Assinale a frase em que o uso da crase é obrigatório.",
+    "Fui a feira.",
+    "Refiro-me a esta menina.",
+    "O texto faz referência a alunas esforçadas.",
+    "Ele chegou a tempo.",
+    "a",
+    "portugues"
+  ],
+  [
+    "A palavra 'gato' é um exemplo de substantivo:",
+    "Próprio",
+    "Comum e concreto",
+    "Abstrato",
+    "Coletivo",
+    "b",
+    "portugues"
+  ],
+  [
+    "Na frase 'O Sol é a estrela central do nosso sistema.', a palavra 'Sol' é escrita com letra maiúscula por ser um:",
+    "Nome de cidade",
+    "Nome de pessoa",
+    "Substantivo próprio (nome de um astro)",
+    "Início de frase apenas",
+    "c",
+    "portugues"
+  ],
+  [
+    "O verbo 'haver' no sentido de 'existir' ou 'acontecer' é:",
+    "Pessoal e variável",
+    "Impessoal e invariável",
+    "Sempre conjugado na 3ª pessoa do plural",
+    "Sempre conjugado na 1ª pessoa do singular",
+    "b",
+    "portugues"
+  ],
+  [
+    "Qual das alternativas contém um erro de ortografia?",
+    "Exceção",
+    "Análise",
+    "Paralizar",
+    "Pesquisa",
+    "c",
+    "portugues"
+  ],
+  [
+    "A interjeição 'Ufa!' expressa um sentimento de:",
+    "Alegria",
+    "Dor",
+    "Alívio",
+    "Espanto",
+    "c",
+    "portugues"
+  ],
+  [
+    "A expressão 'pôr do sol' tem como plural:",
+    "Pores do sol",
+    "Pôres do sol",
+    "Pores dos sóis",
+    "Pôr do sóis",
+    "a",
+    "portugues"
+  ],
+  [
+    "O processo de formação da palavra 'girassol' é:",
+    "Derivação prefixal",
+    "Derivação sufixal",
+    "Composição por justaposição",
+    "Composição por aglutinação",
+    "c",
+    "portugues"
+  ],
+  [
+    "A frase 'Não saia sem o casaco!' está no modo verbal:",
+    "Indicativo",
+    "Subjuntivo",
+    "Imperativo negativo",
+    "Infinitivo",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual alternativa apresenta um sinônimo para a palavra 'eminente'?",
+    "Imediato",
+    "Ilustre",
+    "Próximo",
+    "Discreto",
+    "b",
+    "portugues"
+  ],
+  [
+    "Em 'O menino comeu o bolo.', passando para a voz passiva, temos:",
+    "O bolo foi comido pelo menino.",
+    "Comeu-se o bolo.",
+    "O menino é comido pelo bolo.",
+    "O bolo comeu o menino.",
+    "a",
+    "portugues"
+  ],
+  [
+    "O pronome 'cujo' estabelece uma relação de:",
+    "Posse",
+    "Lugar",
+    "Tempo",
+    "Modo",
+    "a",
+    "portugues"
+  ],
+  [
+    "Na frase 'Apesar da chuva, fomos ao parque.', a oração iniciada por 'apesar de' indica:",
+    "Causa",
+    "Finalidade",
+    "Concessão",
+    "Condição",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual o coletivo de 'peixes' quando estão em grande quantidade?",
+    "Cardume",
+    "Manada",
+    "Alcateia",
+    "Rebanho",
+    "a",
+    "portugues"
+  ],
+  [
+    "A concordância nominal está correta em:",
+    "É proibido entrada de estranhos.",
+    "Bastante pessoas vieram à festa.",
+    "As alunas mesmas fizeram o trabalho.",
+    "Anexo, seguem as fotografias.",
+    "c",
+    "portugues"
+  ],
+  [
+    "A palavra 'porque' (junto e sem acento) é utilizada em:",
+    "Finais de frase",
+    "Perguntas diretas",
+    "Respostas e explicações",
+    "Substituindo 'pelo qual'",
+    "c",
+    "portugues"
+  ],
+  [
+    "A solução da equação 2x - 10 = 4 é:",
+    "x = 5",
+    "x = 7",
+    "x = 3",
+    "x = -3",
+    "b",
+    "matematica"
+  ],
+  [
+    "Um terreno retangular tem 15 metros de largura e 30 metros de comprimento. Qual é a sua área?",
+    "45 m²",
+    "90 m²",
+    "450 m²",
+    "225 m²",
+    "c",
+    "matematica"
+  ],
+  [
+    "Em uma turma de 30 alunos, 40% são meninas. Quantos meninos há na turma?",
+    "12",
+    "15",
+    "18",
+    "20",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual é o valor da expressão (-2)³ + 5²?",
+    "17",
+    "19",
+    "33",
+    "-33",
+    "a",
+    "matematica"
+  ],
+  [
+    "As raízes da equação x² - 5x + 6 = 0 são:",
+    "1 e 4",
+    "2 e 3",
+    "-2 e -3",
+    "-1 e -4",
+    "b",
+    "matematica"
+  ],
+  [
+    "Um carro percorre 240 km com 20 litros de gasolina. Qual o consumo médio (km/l) desse carro?",
+    "10 km/l",
+    "12 km/l",
+    "15 km/l",
+    "20 km/l",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se o lado de um quadrado mede 8 cm, qual é o seu perímetro?",
+    "16 cm",
+    "24 cm",
+    "32 cm",
+    "64 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o resultado de (x + 4)²?",
+    "x² + 16",
+    "x² + 8x + 16",
+    "x² + 4x + 16",
+    "2x + 8",
+    "b",
+    "matematica"
+  ],
+  [
+    "Aplicando um capital de R$ 500,00 a juros simples de 3% ao mês, qual será o montante após 4 meses?",
+    "R$ 530,00",
+    "R$ 560,00",
+    "R$ 620,00",
+    "R$ 550,00",
+    "b",
+    "matematica"
+  ],
+  [
+    "A soma dos ângulos internos de um triângulo é sempre:",
+    "90°",
+    "180°",
+    "270°",
+    "360°",
+    "b",
+    "matematica"
+  ],
+  [
+    "Numa caixa há 5 bolas azuis, 3 vermelhas e 2 amarelas. Qual a probabilidade de se retirar uma bola azul?",
+    "1/2",
+    "1/3",
+    "1/4",
+    "1/5",
+    "a",
+    "matematica"
+  ],
+  [
+    "O valor de y no sistema de equações {x + y = 10; x - y = 4} é:",
+    "3",
+    "4",
+    "5",
+    "7",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um produto que custava R$ 80,00 teve um desconto de 15%. Qual o novo preço?",
+    "R$ 65,00",
+    "R$ 68,00",
+    "R$ 70,00",
+    "R$ 72,00",
+    "b",
+    "matematica"
+  ],
+  [
+    "A hipotenusa de um triângulo retângulo mede 10 cm e um dos catetos mede 6 cm. Quanto mede o outro cateto?",
+    "5 cm",
+    "7 cm",
+    "8 cm",
+    "9 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o volume de um cubo com aresta de 4 cm?",
+    "12 cm³",
+    "16 cm³",
+    "48 cm³",
+    "64 cm³",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual é a forma fatorada do polinômio x² - 9?",
+    "(x - 3)²",
+    "(x + 3)²",
+    "(x - 3)(x + 3)",
+    "x(x - 9)",
+    "c",
+    "matematica"
+  ],
+  [
+    "A média aritmética dos números 7, 10, 4 e 3 é:",
+    "5",
+    "6",
+    "7",
+    "8",
+    "b",
+    "matematica"
+  ],
+  [
+    "Convertendo 3,5 horas para minutos, obtemos:",
+    "180 minutos",
+    "200 minutos",
+    "210 minutos",
+    "240 minutos",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o juro produzido por um capital de R$ 1.200,00 aplicado a uma taxa de 5% ao mês durante um semestre, no regime de juros simples?",
+    "R$ 300,00",
+    "R$ 360,00",
+    "R$ 400,00",
+    "R$ 420,00",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se 3 torneiras enchem um tanque em 9 horas, em quanto tempo 9 torneiras encheriam o mesmo tanque?",
+    "1 hora",
+    "2 horas",
+    "3 horas",
+    "27 horas",
+    "c",
+    "matematica"
+  ],
+  [
+    "O resultado da operação (√49 + √16) é:",
+    "√65",
+    "11",
+    "13",
+    "25",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é o sucessor do triplo de 15?",
+    "44",
+    "45",
+    "46",
+    "47",
+    "c",
+    "matematica"
+  ],
+  [
+    "A área de um círculo com raio de 5 cm é (considere π = 3,14):",
+    "15,7 cm²",
+    "31,4 cm²",
+    "78,5 cm²",
+    "157 cm²",
+    "c",
+    "matematica"
+  ],
+  [
+    "Uma loja oferece um desconto de 20% em todos os seus produtos. Se uma camisa custa R$ 120,00, qual será o valor pago com o desconto?",
+    "R$ 96,00",
+    "R$ 100,00",
+    "R$ 108,00",
+    "R$ 24,00",
+    "a",
+    "matematica"
+  ],
+  [
+    "A soma das idades de pai e filho é 45 anos. A idade do pai é 4 vezes a idade do filho. Qual a idade do filho?",
+    "5 anos",
+    "9 anos",
+    "10 anos",
+    "15 anos",
+    "b",
+    "matematica"
+  ],
+  [
+    "Simplificando a fração 36/48, obtemos:",
+    "2/3",
+    "3/4",
+    "4/5",
+    "5/6",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual a medida do ângulo complementar a um ângulo de 35°?",
+    "45°",
+    "55°",
+    "65°",
+    "145°",
+    "b",
+    "matematica"
+  ],
+  [
+    "O perímetro de uma circunferência de raio 10 cm é (considere π = 3,14):",
+    "31,4 cm",
+    "62,8 cm",
+    "100 cm",
+    "314 cm",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é a representação decimal da fração 3/4?",
+    "0,25",
+    "0,50",
+    "0,75",
+    "1,33",
+    "c",
+    "matematica"
+  ],
+  [
+    "O número 1.500.000 em notação científica é:",
+    "1,5 x 10⁶",
+    "1,5 x 10⁵",
+    "15 x 10⁵",
+    "0,15 x 10⁷",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o valor de x na proporção 4/6 = x/9?",
     "3",
     "5",
     "6",
-    "b"
+    "8",
+    "c",
+    "matematica"
   ],
   [
-    "Qual é a função dos ribossomos na célula?",
-    "Produção de energia",
-    "Síntese de proteínas",
-    "Armazenamento de água",
-    "Controle das funções celulares",
-    "b"
+    "Um ângulo de 1/4 de volta mede:",
+    "45°",
+    "90°",
+    "180°",
+    "270°",
+    "b",
+    "matematica"
   ],
   [
-    "Quem proclamou a independência do Brasil?",
-    "Pedro Álvares Cabral",
-    "Tiradentes",
-    "Dom Pedro I",
-    "Getúlio Vargas",
-    "c"
+    "Se um triângulo tem lados medindo 5 cm, 12 cm e 13 cm, ele é classificado como:",
+    "Equilátero",
+    "Isósceles",
+    "Retângulo",
+    "Acutângulo",
+    "c",
+    "matematica"
   ],
   [
-    "Qual é a capital do estado do Tocantins?",
-    "Palmas",
-    "Teresina",
-    "São Luís",
-    "Rio Branco",
-    "a"
+    "O dobro de um número, mais 5, é igual a 25. Qual é esse número?",
+    "5",
+    "10",
+    "15",
+    "20",
+    "b",
+    "matematica"
   ],
   [
-    "Em que continente está localizado o deserto do Saara?",
+    "Quantos vértices tem uma pirâmide de base quadrada?",
+    "4",
+    "5",
+    "6",
+    "8",
+    "b",
+    "matematica"
+  ],
+  [
+    "Em um mapa, 1 cm representa 50 km. Qual a distância real entre duas cidades que no mapa estão a 3,5 cm uma da outra?",
+    "150 km",
+    "175 km",
+    "200 km",
+    "250 km",
+    "b",
+    "matematica"
+  ],
+  [
+    "A raiz quadrada de 144 é:",
+    "10",
+    "11",
+    "12",
+    "14",
+    "c",
+    "matematica"
+  ],
+  [
+    "O MMC (Mínimo Múltiplo Comum) entre 12 e 18 é:",
+    "12",
+    "18",
+    "24",
+    "36",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual o volume de uma esfera de raio 3 cm? (Use V = 4/3 πr³ e π = 3)",
+    "36 cm³",
+    "54 cm³",
+    "108 cm³",
+    "216 cm³",
+    "c",
+    "matematica"
+  ],
+  [
+    "A região Sul do Brasil é composta por quais estados?",
+    "São Paulo, Rio de Janeiro e Espírito Santo",
+    "Paraná, Santa Catarina e Rio Grande do Sul",
+    "Mato Grosso, Mato Grosso do Sul e Goiás",
+    "Bahia, Sergipe e Alagoas",
+    "b",
+    "geografia"
+  ],
+  [
+    "Qual o bioma predominante na região Nordeste do Brasil, caracterizado por clima semiárido?",
+    "Amazônia",
+    "Mata Atlântica",
+    "Cerrado",
+    "Caatinga",
+    "d",
+    "geografia"
+  ],
+  [
+    "O processo de transformação do espaço rural em espaço urbano é chamado de:",
+    "Metropolização",
+    "Conurbação",
+    "Urbanização",
+    "Êxodo rural",
+    "c",
+    "geografia"
+  ],
+  [
+    "O Mercosul é um bloco econômico formado por países da:",
+    "América do Norte",
+    "Europa",
+    "Ásia",
+    "América do Sul",
+    "d",
+    "geografia"
+  ],
+  [
+    "Qual o principal tipo de clima do Brasil, caracterizado por altas temperaturas e duas estações bem definidas (uma seca e outra chuvosa)?",
+    "Equatorial",
+    "Tropical",
+    "Semiárido",
+    "Subtropical",
+    "b",
+    "geografia"
+  ],
+  [
+    "As formas de relevo mais antigas e desgastadas do Brasil, geralmente com altitudes modestas e topos arredondados, são os(as):",
+    "Planaltos",
+    "Planícies",
+    "Depressões",
+    "Montanhas",
+    "a",
+    "geografia"
+  ],
+  [
+    "Qual a maior bacia hidrográfica do mundo em volume de água, localizada em grande parte no território brasileiro?",
+    "Bacia do Paraná",
+    "Bacia do São Francisco",
+    "Bacia Amazônica",
+    "Bacia do Tocantins-Araguaia",
+    "c",
+    "geografia"
+  ],
+  [
+    "A globalização é um processo caracterizado principalmente pela:",
+    "Intensificação dos fluxos de informações, capitais e mercadorias entre os países.",
+    "Criação de barreiras comerciais entre as nações.",
+    "Valorização das culturas locais em detrimento da cultura global.",
+    "Diminuição das desigualdades sociais no mundo.",
+    "a",
+    "geografia"
+  ],
+  [
+    "O movimento da população de uma região para outra, de forma temporária ou permanente, é denominado:",
+    "Migração",
+    "Taxa de natalidade",
+    "Densidade demográfica",
+    "Crescimento vegetativo",
+    "a",
+    "geografia"
+  ],
+  [
+    "A vegetação litorânea, que se desenvolve em solos salinos e lodosos, é conhecida como:",
+    "Mangue",
+    "Restinga",
+    "Mata de Araucárias",
+    "Campos",
+    "a",
+    "geografia"
+  ],
+  [
+    "Qual região brasileira concentra a maior parte da população e da produção industrial do país?",
+    "Norte",
+    "Nordeste",
+    "Centro-Oeste",
+    "Sudeste",
+    "d",
+    "geografia"
+  ],
+  [
+    "O fenômeno climático El Niño causa, entre outros efeitos:",
+    "Secas no Sul do Brasil e chuvas no Nordeste.",
+    "Chuvas intensas no Sul e Sudeste e secas no Norte e Nordeste.",
+    "Esfriamento das águas do Oceano Pacífico.",
+    "Aumento da atividade pesqueira no litoral do Peru.",
+    "b",
+    "geografia"
+  ],
+  [
+    "A fronteira agrícola que se expande principalmente sobre o bioma Cerrado e a floresta Amazônica é chamada de:",
+    "Zona da Mata",
+    "Agreste",
+    "MATOPIBA",
+    "Campanha Gaúcha",
+    "c",
+    "geografia"
+  ],
+  [
+    "Qual o oceano que banha a costa leste do Brasil?",
+    "Pacífico",
+    "Índico",
+    "Atlântico",
+    "Ártico",
+    "c",
+    "geografia"
+  ],
+  [
+    "O encontro de dois ou mais municípios, formando uma mancha urbana contínua, é um processo chamado de:",
+    "Metropolização",
+    "Conurbação",
+    "Conurbação",
+    "Hierarquia urbana",
+    "Êxodo rural",
+    "b",
+    "geografia"
+  ],
+  [
+    "O principal recurso mineral explorado no Quadrilátero Ferrífero, em Minas Gerais, é:",
+    "Bauxita",
+    "Manganês",
+    "Ouro",
+    "Minério de ferro",
+    "d",
+    "geografia"
+  ],
+  [
+    "A escala cartográfica que expressa a relação entre a distância no mapa e a distância real através de uma fração (ex: 1:100.000) é a escala:",
+    "Gráfica",
+    "Numérica",
+    "Geográfica",
+    "Topográfica",
+    "b",
+    "geografia"
+  ],
+  [
+    "A Guerra Fria foi um período de tensão geopolítica que polarizou o mundo entre dois blocos liderados por:",
+    "Alemanha e Japão",
+    "Reino Unido e França",
+    "Estados Unidos e União Soviética",
+    "China e Índia",
+    "c",
+    "geografia"
+  ],
+  [
+    "A agricultura que visa ao mercado externo, com grandes propriedades e uso intensivo de tecnologia, é a:",
+    "Agricultura de subsistência",
+    "Agricultura familiar",
+    "Agroecologia",
+    "Agronegócio (ou agricultura de exportação)",
+    "d",
+    "geografia"
+  ],
+  [
+    "O aumento da temperatura média do planeta, intensificado pela emissão de gases de efeito estufa, é conhecido como:",
+    "Inversão térmica",
+    "Chuva ácida",
+    "Aquecimento global",
+    "Buraco na camada de ozônio",
+    "c",
+    "geografia"
+  ],
+  [
+    "A Cordilheira dos Andes está localizada em qual continente?",
+    "África",
+    "América do Sul",
+    "Ásia",
+    "Europa",
+    "b",
+    "geografia"
+  ],
+  [
+    "O Rio São Francisco, conhecido como 'Rio da Integração Nacional', nasce em qual estado brasileiro?",
+    "Bahia",
+    "Pernambuco",
+    "Minas Gerais",
+    "Alagoas",
+    "c",
+    "geografia"
+  ],
+  [
+    "Qual das fontes de energia abaixo é considerada renovável?",
+    "Petróleo",
+    "Gás Natural",
+    "Carvão Mineral",
+    "Energia Eólica",
+    "d",
+    "geografia"
+  ],
+  [
+    "A divisão do Brasil em Regiões (Norte, Nordeste, Centro-Oeste, Sudeste e Sul) é feita pelo:",
+    "IBGE (Instituto Brasileiro de Geografia e Estatística)",
+    "INCRA (Instituto Nacional de Colonização e Reforma Agrária)",
+    "IBAMA (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis)",
+    "FUNAI (Fundação Nacional do Índio)",
+    "a",
+    "geografia"
+  ],
+  [
+    "O movimento de rotação da Terra é responsável pela:",
+    "Existência das estações do ano",
+    "Sucessão dos dias e das noites",
+    "Duração do ano em 365 dias",
+    "Ocorrência de eclipses",
+    "b",
+    "geografia"
+  ],
+  [
+    "As linhas imaginárias horizontais que cortam o globo terrestre são chamadas de:",
+    "Meridianos",
+    "Paralelos",
+    "Trópicos",
+    "Círculos Polares",
+    "b",
+    "geografia"
+  ],
+  [
+    "A China, país mais populoso do mundo, está localizada no continente:",
+    "Africano",
+    "Europeu",
+    "Americano",
+    "Asiático",
+    "d",
+    "geografia"
+  ],
+  [
+    "Qual o nome dado à vegetação rasteira encontrada em áreas de clima frio e de altitude, como nos picos das serras do sul do Brasil?",
+    "Caatinga",
+    "Campos de Altitude",
+    "Cerrado",
+    "Mata de Cocais",
+    "b",
+    "geografia"
+  ],
+  [
+    "A atividade econômica que consiste na extração de recursos diretamente da natureza é o:",
+    "Setor Primário (extrativismo)",
+    "Setor Secundário (indústria)",
+    "Setor Terciário (serviços)",
+    "Setor Quaternário (tecnologia)",
+    "a",
+    "geografia"
+  ],
+  [
+    "O IDH (Índice de Desenvolvimento Humano) é um indicador que leva em conta três dimensões básicas da vida humana. São elas:",
+    "Renda, segurança e meio ambiente",
+    "Educação, saúde e felicidade",
+    "Renda, educação e saúde (longevidade)",
+    "Cultura, esporte e lazer",
+    "c",
+    "geografia"
+  ],
+  [
+    "A Usina Hidrelétrica de Itaipu, uma das maiores do mundo, está localizada no Rio:",
+    "Amazonas",
+    "São Francisco",
+    "Tocantins",
+    "Paraná",
+    "d",
+    "geografia"
+  ],
+  [
+    "Qual o deserto mais famoso do continente africano?",
+    "Deserto do Atacama",
+    "Deserto de Gobi",
+    "Deserto do Saara",
+    "Deserto da Arábia",
+    "c",
+    "geografia"
+  ],
+  [
+    "O Pantanal, maior planície inundável do mundo, está localizado principalmente nos estados de:",
+    "Mato Grosso e Mato Grosso do Sul",
+    "Goiás e Tocantins",
+    "Amazonas e Pará",
+    "Bahia e Minas Gerais",
+    "a",
+    "geografia"
+  ],
+  [
+    "O êxodo rural no Brasil foi mais intenso em meados do século XX devido, principalmente:",
+    "Às secas no Sul do país.",
+    "À modernização da agricultura e industrialização no Sudeste.",
+    "À descoberta de ouro no Norte.",
+    "Às políticas de incentivo à permanência no campo.",
+    "b",
+    "geografia"
+  ],
+  [
+    "A população relativa, que indica o número de habitantes por quilômetro quadrado, é chamada de:",
+    "Crescimento vegetativo",
+    "Taxa de mortalidade",
+    "Densidade demográfica",
+    "População absoluta",
+    "c",
+    "geografia"
+  ],
+  [
+    "Os ventos que sopram do mar para o continente durante o dia nas áreas litorâneas são chamados de:",
+    "Monções",
+    "Ventos de oeste",
+    "Brisa marítima",
+    "Brisa terrestre",
+    "c",
+    "geografia"
+  ],
+  [
+    "O continente conhecido como 'berço da humanidade' é a:",
+    "Europa",
     "Ásia",
     "América",
     "África",
-    "Europa",
-    "c"
-  ],
-  [
-    "Qual destas palavras é um advérbio de tempo?",
-    "Rápido",
-    "Ontem",
-    "Ali",
-    "Sempre",
-    "b"
-  ],
-  [
-    "Qual é a principal fonte de energia usada em usinas hidrelétricas?",
-    "Sol",
-    "Vento",
-    "Água",
-    "Carvão",
-    "c"
-  ],
-  [
-    "Qual foi o motivo da Revolução Farroupilha?",
-    "Abolição da escravidão",
-    "Impostos sobre produtos do sul",
-    "Separação de Portugal",
-    "Revolta contra o Império",
-    "b"
-  ],
-  [
-    "Pergunta exemplo número 11?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 12?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 13?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 14?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 15?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 16?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 17?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 18?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 19?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 20?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 21?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 22?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 23?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 24?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 25?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 26?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 27?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 28?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 29?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 30?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 31?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 32?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 33?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 34?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 35?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 36?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 37?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 38?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 39?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 40?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 41?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 42?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 43?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 44?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 45?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 46?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 47?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 48?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 49?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 50?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 51?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 52?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 53?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 54?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 55?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 56?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 57?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 58?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 59?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 60?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 61?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 62?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 63?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 64?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 65?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 66?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 67?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 68?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 69?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 70?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 71?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 72?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 73?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 74?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 75?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 76?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 77?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 78?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 79?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 80?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 81?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 82?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 83?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 84?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 85?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 86?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 87?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 88?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 89?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 90?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 91?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 92?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 93?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 94?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 95?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 96?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 97?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 98?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 99?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 100?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 101?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 102?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 103?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 104?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 105?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 106?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 107?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 108?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 109?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 110?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 111?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 112?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 113?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 114?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 115?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 116?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 117?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 118?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 119?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 120?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 121?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 122?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 123?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 124?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 125?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 126?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 127?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 128?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 129?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 130?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 131?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 132?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 133?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 134?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 135?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 136?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 137?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 138?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 139?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 140?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 141?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 142?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 143?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 144?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 145?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 146?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 147?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 148?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 149?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 150?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 151?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 152?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 153?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 154?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 155?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 156?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 157?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 158?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 159?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
-  ],
-  [
-    "Pergunta exemplo número 160?",
-    "Opção A",
-    "Opção B",
-    "Opção C",
-    "Opção D",
-    "a"
+    "d",
+    "geografia"
+  ],
+  [
+    "A formação de grandes cidades com milhões de habitantes, que concentram poder econômico e político, dá origem às:",
+    "Vilas",
+    "Metrópoles",
+    "Aldeias",
+    "Cidades-dormitório",
+    "b",
+    "geografia"
+  ],
+  [
+    "O Japão é um país conhecido por estar localizado em uma área de grande instabilidade geológica, o que ocasiona frequentes:",
+    "Tornados",
+    "Furacões",
+    "Terremotos e vulcanismo",
+    "Secas prolongadas",
+    "c",
+    "geografia"
+  ],
+  [
+    "Qual foi o principal produto da economia colonial brasileira no século XVI?",
+    "Ouro",
+    "Café",
+    "Cana-de-açúcar",
+    "Pau-brasil",
+    "c",
+    "historia"
+  ],
+  [
+    "A Lei Áurea, que aboliu a escravidão no Brasil, foi assinada em 1888 pela:",
+    "Rainha Maria I",
+    "Imperatriz Leopoldina",
+    "Princesa Isabel",
+    "Dona Carlota Joaquina",
+    "c",
+    "historia"
+  ],
+  [
+    "A Revolução Francesa, iniciada em 1789, defendia os ideais de:",
+    "Absolutismo, Mercantilismo e Poder Divino",
+    "Liberdade, Igualdade e Fraternidade",
+    "Socialismo, Comunismo e Anarquismo",
+    "Nacionalismo, Imperialismo e Militarismo",
+    "b",
+    "historia"
+  ],
+  [
+    "Quem proclamou a Independência do Brasil em 7 de setembro de 1822?",
+    "D. João VI",
+    "José Bonifácio",
+    "Tiradentes",
+    "D. Pedro I",
+    "d",
+    "historia"
+  ],
+  [
+    "A política do 'café com leite', predominante na República Velha, consistia na alternância de poder entre as oligarquias de:",
+    "Rio de Janeiro e Bahia",
+    "São Paulo e Minas Gerais",
+    "Pernambuco e Rio Grande do Sul",
+    "Amazonas e Pará",
+    "b",
+    "historia"
+  ],
+  [
+    "O período em que Getúlio Vargas governou o Brasil de forma ditatorial (1937-1945) ficou conhecido como:",
+    "República Nova",
+    "Governo Provisório",
+    "Estado Novo",
+    "Governo Constitucionalista",
+    "c",
+    "historia"
+  ],
+  [
+    "A Primeira Guerra Mundial (1914-1918) teve como estopim:",
+    "A invasão da Polônia pela Alemanha.",
+    "O ataque japonês a Pearl Harbor.",
+    "O assassinato do arquiduque Francisco Ferdinando.",
+    "A Revolução Russa de 1917.",
+    "c",
+    "historia"
+  ],
+  [
+    "Qual o nome do líder da Inconfidência Mineira, que foi enforcado e esquartejado?",
+    "Cláudio Manuel da Costa",
+    "Tomás Antônio Gonzaga",
+    "Joaquim José da Silva Xavier (Tiradentes)",
+    "Alvarenga Peixoto",
+    "c",
+    "historia"
+  ],
+  [
+    "O sistema de produção industrial que se baseia na linha de montagem e na produção em massa é chamado de:",
+    "Fordismo",
+    "Toyotismo",
+    "Artesanato",
+    "Manufatura",
+    "a",
+    "historia"
+  ],
+  [
+    "A Guerra Fria foi um conflito ideológico entre:",
+    "Capitalismo (EUA) e Socialismo (URSS)",
+    "Fascismo (Itália) e Nazismo (Alemanha)",
+    "Protestantes e Católicos",
+    "Monarquistas e Republicanos",
+    "a",
+    "historia"
+  ],
+  [
+    "A transferência da corte portuguesa para o Brasil em 1808 ocorreu devido:",
+    "À Revolução do Porto.",
+    "Às invasões napoleônicas em Portugal.",
+    "À descoberta de ouro em Minas Gerais.",
+    "Ao desejo de D. João VI de conhecer a colônia.",
+    "b",
+    "historia"
+  ],
+  [
+    "O período da Ditadura Militar no Brasil (1964-1985) foi marcado pela:",
+    "Ampla liberdade de imprensa.",
+    "Criação de vários partidos políticos.",
+    "Censura, repressão e suspensão de direitos políticos.",
+    "Realização de eleições diretas para presidente.",
+    "c",
+    "historia"
+  ],
+  [
+    "A Reforma Protestante foi iniciada no século XVI por:",
+    "João Calvino",
+    "Henrique VIII",
+    "Martinho Lutero",
+    "Inácio de Loyola",
+    "c",
+    "historia"
+  ],
+  [
+    "O movimento pelas 'Diretas Já' no Brasil, em 1984, reivindicava:",
+    "O fim da inflação.",
+    "A anistia aos presos políticos.",
+    "Eleições diretas para a Presidência da República.",
+    "Uma nova Constituição.",
+    "c",
+    "historia"
+  ],
+  [
+    "Qual civilização pré-colombiana construiu a cidade de Machu Picchu?",
+    "Asteca",
+    "Maia",
+    "Inca",
+    "Tupi-Guarani",
+    "c",
+    "historia"
+  ],
+  [
+    "A 'Crise de 1929' teve início com a quebra da Bolsa de Valores de:",
+    "Londres",
+    "Paris",
+    "Tóquio",
+    "Nova York",
+    "d",
+    "historia"
+  ],
+  [
+    "O sistema de Capitanias Hereditárias foi implementado no Brasil Colônia com o objetivo de:",
+    "Centralizar o poder na mão do rei.",
+    "Promover a catequização dos indígenas.",
+    "Povoar e defender o território, transferindo os custos para particulares.",
+    "Explorar o pau-brasil de forma mais eficiente.",
+    "c",
+    "historia"
+  ],
+  [
+    "Qual evento marcou o fim da Idade Média e o início da Idade Moderna?",
+    "A Queda do Império Romano do Ocidente (476)",
+    "O início da Reforma Protestante (1517)",
+    "A Tomada de Constantinopla pelos turcos (1453)",
+    "O início da Revolução Francesa (1789)",
+    "c",
+    "historia"
+  ],
+  [
+    "A Guerra do Paraguai (1864-1870) foi um conflito entre o Paraguai e a Tríplice Aliança, formada por:",
+    "Brasil, Argentina e Uruguai",
+    "Brasil, Chile e Bolívia",
+    "Argentina, Uruguai e Chile",
+    "Brasil, Paraguai e Argentina",
+    "a",
+    "historia"
+  ],
+  [
+    "O principal objetivo das Grandes Navegações dos séculos XV e XVI era:",
+    "Descobrir novas terras para colonização.",
+    "Encontrar uma nova rota marítima para as Índias.",
+    "Provar que a Terra era redonda.",
+    "Espalhar o cristianismo pelo mundo.",
+    "b",
+    "historia"
+  ],
+  [
+    "O regime de segregação racial que vigorou na África do Sul até 1994 foi o:",
+    "Nazismo",
+    "Fascismo",
+    "Apartheid",
+    "Sionismo",
+    "c",
+    "historia"
+  ],
+  [
+    "A Conjuração Baiana (1798), diferente da Inconfidência Mineira, teve um caráter:",
+    "Elitista e monarquista",
+    "Popular e defendia o fim da escravidão",
+    "Separatista do sul do país",
+    "Puramente fiscal, contra os impostos",
+    "b",
+    "historia"
+  ],
+  [
+    "A Segunda Guerra Mundial (1939-1945) começou quando:",
+    "O Japão atacou a base de Pearl Harbor.",
+    "A Alemanha invadiu a União Soviética.",
+    "Os Estados Unidos lançaram a bomba atômica.",
+    "A Alemanha nazista invadiu a Polônia.",
+    "d",
+    "historia"
+  ],
+  [
+    "A vinda da Família Real para o Brasil em 1808 resultou em diversas transformações, exceto:",
+    "A abertura dos portos às nações amigas.",
+    "A criação do Banco do Brasil e da Biblioteca Real.",
+    "A elevação do Brasil a Reino Unido de Portugal e Algarves.",
+    "A imediata abolição da escravatura.",
+    "d",
+    "historia"
+  ],
+  [
+    "O Iluminismo foi um movimento filosófico e intelectual que defendia:",
+    "O poder absoluto dos reis.",
+    "A razão, a ciência e a liberdade individual.",
+    "A supremacia da Igreja sobre o Estado.",
+    "O sistema econômico feudal.",
+    "b",
+    "historia"
+  ],
+  [
+    "Qual presidente brasileiro ficou conhecido por seu plano de metas '50 anos em 5'?",
+    "Getúlio Vargas",
+    "Juscelino Kubitschek",
+    "Jânio Quadros",
+    "João Goulart",
+    "b",
+    "historia"
+  ],
+  [
+    "O Tratado de Tordesilhas, assinado em 1494, dividia as terras 'descobertas e por descobrir' entre:",
+    "Portugal e Inglaterra",
+    "Espanha e França",
+    "Portugal e Espanha",
+    "Holanda e Portugal",
+    "c",
+    "historia"
+  ],
+  [
+    "A Revolução Industrial teve início em qual país?",
+    "França",
+    "Alemanha",
+    "Estados Unidos",
+    "Inglaterra",
+    "d",
+    "historia"
+  ],
+  [
+    "A 'Noite dos Cristais' foi um evento de violência organizada contra os judeus, ocorrido em 1938, em qual país?",
+    "Itália",
+    "União Soviética",
+    "Alemanha",
+    "Polônia",
+    "c",
+    "historia"
+  ],
+  [
+    "O ciclo econômico da mineração no Brasil colonial (século XVIII) teve como centro a região de:",
+    "Pernambuco",
+    "São Paulo",
+    "Minas Gerais",
+    "Bahia",
+    "c",
+    "historia"
+  ],
+  [
+    "Qual era a principal forma de trabalho utilizada nos engenhos de açúcar do Brasil Colônia?",
+    "Trabalho assalariado",
+    "Servidão",
+    "Trabalho escravo africano",
+    "Mão de obra livre indígena",
+    "c",
+    "historia"
+  ],
+  [
+    "O Muro de Berlim, símbolo da Guerra Fria, foi construído em 1961 e sua queda, em 1989, marcou:",
+    "O início da Segunda Guerra Mundial.",
+    "O colapso dos regimes socialistas no Leste Europeu.",
+    "A criação da União Europeia.",
+    "A vitória do Vietnã na guerra.",
+    "b",
+    "historia"
+  ],
+  [
+    "A Proclamação da República no Brasil ocorreu em 15 de novembro de 1889 e foi liderada por:",
+    "Princesa Isabel",
+    "Marechal Deodoro da Fonseca",
+    "Dom Pedro II",
+    "Rui Barbosa",
+    "b",
+    "historia"
+  ],
+  [
+    "Qual o nome da guerra civil que ocorreu nos Estados Unidos (1861-1865) e que opôs os estados do Norte e do Sul, principalmente pela questão da escravidão?",
+    "Guerra de Independência",
+    "Guerra Hispano-Americana",
+    "Guerra de Secessão",
+    "Guerra do Vietnã",
+    "c",
+    "historia"
+  ],
+  [
+    "O Feudalismo, sistema político, social e econômico da Idade Média, era baseado na:",
+    "Produção industrial e no trabalho assalariado.",
+    "Posse da terra e nas relações de suserania e vassalagem.",
+    "Democracia e no comércio marítimo.",
+    "Cultura clássica e no direito romano.",
+    "b",
+    "historia"
+  ],
+  [
+    "Qual o movimento de contestação ao domínio português que ocorreu em Pernambuco em 1817?",
+    "Inconfidência Mineira",
+    "Conjuração Baiana",
+    "Revolução Pernambucana",
+    "Guerra dos Farrapos",
+    "c",
+    "historia"
+  ],
+  [
+    "O Renascimento Cultural foi um movimento que se destacou por:",
+    "Negar os valores da antiguidade clássica.",
+    "Valorizar a teologia e o pensamento religioso.",
+    "Retomar os valores humanistas e a cultura greco-romana.",
+    "Criticar a ciência e a razão.",
+    "c",
+    "historia"
+  ],
+  [
+    "A política de apaziguamento, adotada por potências europeias antes da Segunda Guerra Mundial, consistia em:",
+    "Atacar a Alemanha preventivamente.",
+    "Fazer concessões a Hitler para evitar um conflito.",
+    "Formar uma aliança militar com a União Soviética.",
+    "Ignorar a expansão territorial alemã.",
+    "b",
+    "historia"
+  ],
+  [
+    "O presidente dos Estados Unidos que implementou o 'New Deal' para combater os efeitos da Crise de 1929 foi:",
+    "Herbert Hoover",
+    "Franklin D. Roosevelt",
+    "Harry Truman",
+    "Theodore Roosevelt",
+    "b",
+    "historia"
+  ],
+  [
+    "Qual organela celular é responsável pela respiração celular e produção de energia (ATP)?",
+    "Retículo Endoplasmático",
+    "Complexo de Golgi",
+    "Lisossomo",
+    "Mitocôndria",
+    "d",
+    "ciencias"
+  ],
+  [
+    "A passagem da água do estado líquido para o estado gasoso é chamada de:",
+    "Fusão",
+    "Solidificação",
+    "Condensação",
+    "Vaporização",
+    "d",
+    "ciencias"
+  ],
+  [
+    "Qual dos seguintes animais é um mamífero?",
+    "Tubarão",
+    "Pinguim",
+    "Baleia",
+    "Jacaré",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Na tabela periódica, os elementos estão organizados em ordem crescente de:",
+    "Massa atômica",
+    "Número de nêutrons",
+    "Número atômico",
+    "Raio atômico",
+    "c",
+    "ciencias"
+  ],
+  [
+    "O processo pelo qual as plantas produzem seu próprio alimento utilizando luz solar, gás carbônico e água é a:",
+    "Respiração",
+    "Fotossíntese",
+    "Transpiração",
+    "Quimiossíntese",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Qual sistema do corpo humano é responsável pelo transporte de oxigênio, nutrientes e hormônios?",
+    "Sistema Respiratório",
+    "Sistema Digestório",
+    "Sistema Circulatório (Cardiovascular)",
+    "Sistema Nervoso",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A Primeira Lei de Newton, ou Lei da Inércia, afirma que um corpo em repouso tende a permanecer em repouso, e um corpo em movimento tende a permanecer em movimento, a menos que:",
+    "Sua massa mude.",
+    "Uma força externa atue sobre ele.",
+    "Sua velocidade aumente.",
+    "Ele esteja no vácuo.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Qual das seguintes doenças é causada por um vírus?",
+    "Tuberculose",
+    "Tétano",
+    "Gripe",
+    "Cólera",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Uma mistura em que não é possível distinguir seus componentes é chamada de:",
+    "Mistura heterogênea",
+    "Mistura homogênea (ou solução)",
+    "Substância pura",
+    "Composto",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Os produtores em uma cadeia alimentar são os seres vivos que:",
+    "Se alimentam de outros seres vivos.",
+    "Decompõem a matéria orgânica.",
+    "Realizam fotossíntese.",
+    "São carnívoros.",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual é a unidade fundamental da vida?",
+    "O átomo",
+    "A molécula",
+    "A célula",
+    "O tecido",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A energia proveniente do Sol é uma forma de energia:",
+    "Química",
+    "Térmica e luminosa (radiante)",
+    "Elétrica",
+    "Nuclear",
+    "b",
+    "ciencias"
+  ],
+  [
+    "As leis da hereditariedade foram propostas por:",
+    "Charles Darwin",
+    "Louis Pasteur",
+    "Gregor Mendel",
+    "Isaac Newton",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual gás é essencial para a respiração da maioria dos seres vivos?",
+    "Gás Carbônico (CO₂)",
+    "Nitrogênio (N₂)",
+    "Oxigênio (O₂)",
+    "Hidrogênio (H₂)",
+    "c",
+    "ciencias"
+  ],
+  [
+    "O fenômeno que ocorre quando a Lua se interpõe entre o Sol e a Terra, projetando uma sombra sobre a Terra, é um:",
+    "Eclipse lunar",
+    "Eclipse solar",
+    "Solstício",
+    "Equinócio",
+    "b",
+    "ciencias"
+  ],
+  [
+    "O movimento de um corpo sob a ação exclusiva da gravidade é chamado de:",
+    "Lançamento oblíquo",
+    "Queda livre",
+    "Movimento circular",
+    "Movimento retilíneo uniforme",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Uma reação química em que há liberação de calor é classificada como:",
+    "Endotérmica",
+    "Exotérmica",
+    "Decomposição",
+    "Síntese",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Os cromossomos, que carregam o material genético (DNA), estão localizados principalmente no:",
+    "Citoplasma",
+    "Núcleo da célula",
+    "Mitocôndria",
+    "Ribossomo",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Qual das seguintes fontes de energia NÃO é renovável?",
+    "Solar",
+    "Eólica",
+    "Hidrelétrica",
+    "Petróleo",
+    "d",
+    "ciencias"
+  ],
+  [
+    "O sangue que sai do coração em direção aos pulmões é rico em:",
+    "Oxigênio",
+    "Gás carbônico",
+    "Plaquetas",
+    "Glicose",
+    "b",
+    "ciencias"
+  ],
+  [
+    "A relação ecológica em que ambas as espécies se beneficiam e a relação é obrigatória para a sobrevivência é chamada de:",
+    "Comensalismo",
+    "Predatismo",
+    "Mutualismo",
+    "Parasitismo",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual é a fórmula química da água?",
+    "CO₂",
+    "O₂",
+    "H₂O",
+    "NaCl",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A força que atrai os corpos para o centro da Terra é a:",
+    "Força elástica",
+    "Força de atrito",
+    "Força peso (gravidade)",
+    "Força normal",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual dos biomas brasileiros é conhecido como a 'savana brasileira'?",
+    "Pampa",
+    "Pantanal",
+    "Caatinga",
+    "Cerrado",
+    "d",
+    "ciencias"
+  ],
+  [
+    "O processo de digestão dos alimentos começa na:",
+    "Boca",
+    "Estômago",
+    "Esôfago",
+    "Intestino delgado",
+    "a",
+    "ciencias"
+  ],
+  [
+    "Qual das alternativas apresenta um exemplo de fenômeno químico?",
+    "Amassar um papel",
+    "Quebrar um copo",
+    "Ferrugem de um prego",
+    "Ferver a água",
+    "c",
+    "ciencias"
+  ],
+  [
+    "As vacinas agem no organismo:",
+    "Matando os vírus e bactérias invasores.",
+    "Estimulando a produção de anticorpos.",
+    "Fornecendo nutrientes essenciais.",
+    "Destruindo células defeituosas.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "A camada de gás que envolve a Terra e a protege da radiação solar excessiva é a:",
+    "Litosfera",
+    "Hidrosfera",
+    "Atmosfera (Camada de Ozônio)",
+    "Biosfera",
+    "c",
+    "ciencias"
+  ],
+  [
+    "O som é uma onda que precisa de um meio para se propagar, sendo classificada como uma onda:",
+    "Eletromagnética",
+    "Transversal",
+    "Mecânica",
+    "Luminosa",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Um átomo que perde elétrons se torna um:",
+    "Ânion (íon negativo)",
+    "Cátion (íon positivo)",
+    "Isótopo",
+    "Átomo neutro",
+    "b",
+    "ciencias"
+  ],
+  [
+    "A estrutura que dá sustentação e forma às plantas é composta principalmente por:",
+    "Queratina",
+    "Celulose",
+    "Glicogênio",
+    "Quitina",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Qual é a principal função dos glóbulos vermelhos (hemácias) no sangue?",
+    "Defesa do organismo",
+    "Coagulação sanguínea",
+    "Transporte de oxigênio",
+    "Transporte de nutrientes",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A teoria da evolução das espécies por meio da seleção natural foi proposta por:",
+    "Gregor Mendel",
+    "Louis Pasteur",
+    "Jean-Baptiste Lamarck",
+    "Charles Darwin",
+    "d",
+    "ciencias"
+  ],
+  [
+    "A passagem de calor por contato direto entre corpos ou partes de um mesmo corpo é chamada de:",
+    "Convecção",
+    "Irradiação",
+    "Condução",
+    "Evaporação",
+    "c",
+    "ciencias"
+  ],
+  [
+    "No modelo atômico de Rutherford, o átomo é composto por:",
+    "Uma esfera maciça e indivisível.",
+    "Um núcleo positivo e denso, com elétrons girando ao redor (eletrosfera).",
+    "Elétrons incrustados em uma massa positiva.",
+    "Níveis de energia bem definidos para os elétrons.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Qual grupo de vertebrados possui o corpo coberto por penas e capacidade de voo na maioria das espécies?",
+    "Peixes",
+    "Anfíbios",
+    "Répteis",
+    "Aves",
+    "d",
+    "ciencias"
+  ],
+  [
+    "A digestão das proteínas ocorre principalmente no:",
+    "Fígado",
+    "Pâncreas",
+    "Estômago e intestino delgado",
+    "Intestino grosso",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual das seguintes é uma unidade de medida de força no Sistema Internacional?",
+    "Joule",
+    "Watt",
+    "Pascal",
+    "Newton",
+    "d",
+    "ciencias"
+  ],
+  [
+    "A divisão celular que ocorre para a formação de gametas (espermatozoides e óvulos) é a:",
+    "Mitose",
+    "Meiose",
+    "Cariocinese",
+    "Citocinese",
+    "b",
+    "ciencias"
+  ],
+  [
+    "A ligação química que ocorre pela transferência de elétrons entre um metal e um ametal é a ligação:",
+    "Covalente",
+    "Metálica",
+    "Iônica",
+    "Ponte de hidrogênio",
+    "c",
+    "ciencias"
   ]
 ]
