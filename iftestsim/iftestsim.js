@@ -146,7 +146,7 @@ let QuestionsAndAnswers = [
     ["Quem governava o Brasil durante o período da ditadura militar?", "Presidentes eleitos diretamente", "Imperadores", "Presidentes militares", "Parlamentares", "c"],
     ["Qual dessas capitais é banhada pelo Oceano Atlântico?", "Campo Grande", "São Paulo", "Salvador", "Brasília", "c"],
     ["O que são verbos defectivos?", "Verbos com muitos tempos verbais", "Verbos que não têm todas as conjugações", "Verbos regulares", "Verbos com vogais finais", "b"],
-    ["Qual o resultado da expressão: (12 ÷ 3) + (5 × 2)?", "14", "10", "16", "13", "c"],
+    ["Qual o resultado da expressão: (12 ÷ 3) + (5 × 2)?", "14", "10", "16", "13", "a"],
     ["Qual é a função do pâncreas?", "Produzir suco gástrico", "Produzir insulina", "Digere gorduras", "Produz bile", "b"],
     ["Qual revolta foi liderada por Antônio Conselheiro?", "Revolta da Vacina", "Guerra de Canudos", "Balaiada", "Sabinada", "b"],
     ["Qual é a capital do estado de Sergipe?", "Aracaju", "Maceió", "Natal", "Recife", "a"],
