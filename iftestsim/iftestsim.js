@@ -105,7 +105,7 @@ function GenerateTest() {
 //Mostrar os resultados
 
             ResultsPara = document.createElement("p")
-            ResultsPara.innerHTML = "Seu resultado : " + NumberOfRightResults + "/" + NumberOfWrongResults
+            ResultsPara.innerHTML = "Seu resultado : " + NumberOfRightResults + "/" + NumOfQuestionsInput.value
             TestArea.appendChild(ResultsPara)
             
             const WrongResultsPara = document.createElement("p")
