@@ -1,5 +1,3 @@
-//Questões e suas respostas no seguinte formato: [Texto da questão, Opção A, Opção B, Opção C, Opção D, Opção correta] 
-
 let QuestionsAndAnswers = []
 
 fetch('questions.json')
@@ -31,39 +29,42 @@ function GenerateTest() {
         alert("Foram geradas apenas 100 questões, que é o maior número possível.")
     }
     TestArea.style.display = "block"
-    for (let QuestionsIndex = 0; QuestionsIndex < NumOfQuestionsInput.value; QuestionsIndex++) {
 
-        let RandomQuestion = Math.floor(Math.random() * QuestionsAndAnswers.length)
+// Criar uma cópia embaralhada do array
+    let ShuffledQuestions = [...QuestionsAndAnswers]
+        .sort(() => Math.random() - 0.5)
+        .slice(0, NumOfQuestionsInput.value); // Pegue só a quantidade pedida
 
-        const OptionLetter = ["a", "b", "c", "d"]
+    TestQuestions = ShuffledQuestions;
 
-        const QuestionText = document.createElement("p")
-        QuestionText.innerHTML = QuestionsIndex + 1 + ". " + QuestionsAndAnswers[RandomQuestion][0]
-        TestArea.appendChild(QuestionText)
+    for (let QuestionsIndex = 0; QuestionsIndex < ShuffledQuestions.length; QuestionsIndex++) {
+        const Question = ShuffledQuestions[QuestionsIndex];
+        const OptionLetter = ["a", "b", "c", "d"];
 
-        const QuestionForm = document.createElement("form")
-        QuestionForm.classList.add("form" + (QuestionsIndex + 1))
-        TestArea.appendChild(QuestionForm)
+        const QuestionText = document.createElement("p");
+        QuestionText.innerHTML = `${QuestionsIndex + 1}. ${Question[0]}`;
+        TestArea.appendChild(QuestionText);
+
+        const QuestionForm = document.createElement("form");
+        QuestionForm.classList.add("form" + (QuestionsIndex + 1));
+        TestArea.appendChild(QuestionForm);
 
         for (let OptionsIndex = 0; OptionsIndex < 4; OptionsIndex++) {
-            const OptionInput = document.createElement("input")
-            OptionInput.type = "radio"
+            const OptionInput = document.createElement("input");
+            OptionInput.type = "radio";
             OptionInput.setAttribute("id", "Option" + OptionLetter[OptionsIndex]);
+            OptionInput.value = OptionLetter[OptionsIndex];
+            OptionInput.name = "AnswerOption";
 
-            OptionInput.value = OptionLetter[OptionsIndex]
-            OptionInput.name = "AnswerOption"
+            const OptionLabel = document.createElement("label");
+            OptionLabel.innerHTML = `${OptionLetter[OptionsIndex]}) ${Question[OptionsIndex + 1]}`;
 
-            const OptionLabel = document.createElement("label")
-            OptionLabel.innerHTML = OptionLetter[OptionsIndex] + ") " + QuestionsAndAnswers[RandomQuestion][OptionsIndex + 1]
+            const OptionBreak = document.createElement("br");
 
-            const OptionBreak = document.createElement('br');
-
-            QuestionForm.appendChild(OptionInput)
-            QuestionForm.appendChild(OptionLabel)
-            QuestionForm.appendChild(OptionBreak)
+            QuestionForm.appendChild(OptionInput);
+            QuestionForm.appendChild(OptionLabel);
+            QuestionForm.appendChild(OptionBreak);
         }
-        TestQuestions.push(QuestionsAndAnswers[RandomQuestion])
-        QuestionsAndAnswers.splice(RandomQuestion, 1)
     }
     const SubmitAnswersBtn = document.createElement("button")
     SubmitAnswersBtn.innerHTML = "Confirmar respostas"
