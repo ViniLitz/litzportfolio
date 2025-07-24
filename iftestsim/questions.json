@@ -360,6 +360,717 @@
     "portugues"
   ],
   [
+    "Leia o trecho da crônica 'O homem trocado', de Luis Fernando Verissimo: 'O homem chegou em casa e, como fazia todos os dias, beijou a mulher, deu um tapinha na cabeça do filho e sentou na sua poltrona para ler o jornal. Só que a mulher não era a sua, o filho não era o seu, e nem a casa era a sua.' A principal sensação que o texto causa no leitor é de:",
+    "Alegria",
+    "Tristeza",
+    "Estranhamento",
+    "Raiva",
+    "c",
+    "portugues"
+  ],
+  [
+    "No trecho '...beijou a mulher, deu um tapinha na cabeça do filho E sentou na sua poltrona...', a conjunção destacada estabelece uma relação de:",
+    "Oposição",
+    "Adição",
+    "Explicação",
+    "Conclusão",
+    "b",
+    "portugues"
+  ],
+  [
+    "A frase 'Só que a mulher não era a sua...' introduz uma quebra de expectativa no texto. Qual figura de linguagem se relaciona com essa quebra?",
+    "Metáfora",
+    "Ironia",
+    "Hipérbole",
+    "Antítese",
+    "b",
+    "portugues"
+  ],
+  [
+    "Qual a função sintática de 'o jornal' na oração '...para ler o jornal.'?",
+    "Sujeito",
+    "Objeto indireto",
+    "Objeto direto",
+    "Complemento nominal",
+    "c",
+    "portugues"
+  ],
+  [
+    "Leia a tirinha do Calvin: [Calvin está olhando para o prato de comida com nojo] Mãe: 'Coma, Calvin. Pense nas crianças famintas da África.' Calvin: 'Até que ponto isso melhora o gosto da comida?' A fala do Calvin demonstra:",
+    "Concordância com a mãe",
+    "Uma lógica pragmática e irônica",
+    "Preocupação com a fome mundial",
+    "Falta de apetite",
+    "b",
+    "portugues"
+  ],
+  [
+    "Assinale a alternativa em que a palavra 'que' é um pronome relativo.",
+    "Ele disse que não viria hoje.",
+    "A casa que comprei é antiga.",
+    "Que dia lindo!",
+    "É preciso que você estude.",
+    "b",
+    "portugues"
+  ],
+  [
+    "Qual das frases abaixo contém um verbo no futuro do subjuntivo?",
+    "Se eu pudesse, viajaria mais.",
+    "Quando você vir o novo filme, me avise.",
+    "Ele estudará para a prova amanhã.",
+    "Espero que ele tenha chegado bem.",
+    "b",
+    "portugues"
+  ],
+  [
+    "Em 'A cidade FOI INVADIDA por turistas', a locução verbal está na voz:",
+    "Ativa",
+    "Reflexiva",
+    "Passiva",
+    "Ativa e passiva ao mesmo tempo",
+    "c",
+    "portugues"
+  ],
+  [
+    "O plural de 'troféu' e 'degrau' é, respectivamente:",
+    "Troféis e degrãos",
+    "Troféus e degrais",
+    "Troféus e degraus",
+    "Troféis e degraus",
+    "c",
+    "portugues"
+  ],
+  [
+    "Leia o verso de Manuel Bandeira: 'A vida inteira que podia ter sido e que não foi.' O verso expressa um sentimento de:",
+    "Realização plena",
+    "Conformismo",
+    "Frustração e melancolia",
+    "Alegria contagiante",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual das palavras abaixo NÃO é formada por derivação sufixal?",
+    "Felizmente",
+    "Lealdade",
+    "Infeliz",
+    "Goleiro",
+    "c",
+    "portugues"
+  ],
+  [
+    "A concordância verbal está INCORRETA em:",
+    "Mais de um aluno faltou à prova.",
+    "Aluga-se apartamentos.",
+    "Precisam-se de vendedores.",
+    "Os Alpes ficam na Europa.",
+    "b",
+    "portugues"
+  ],
+  [
+    "Na frase 'Ele necessita DE AJUDA', o termo destacado é:",
+    "Objeto direto preposicionado",
+    "Objeto indireto",
+    "Complemento nominal",
+    "Agente da passiva",
+    "b",
+    "portugues"
+  ],
+  [
+    "O uso do acento grave indicativo da crase está correto em:",
+    "Fui à Brasília no feriado.",
+    "Ele se dedica à estudar o dia todo.",
+    "O direito à vida é fundamental.",
+    "Agradeço à você pela ajuda.",
+    "c",
+    "portugues"
+  ],
+  [
+    "Em 'O mar, grande e azul, nos tranquilizava', os termos 'grande' e 'azul' funcionam como:",
+    "Apostos",
+    "Vocativos",
+    "Adjuntos adnominais",
+    "Predicativos do sujeito",
+    "c",
+    "portugues"
+  ],
+  [
+    "Identifique a oração sem sujeito:",
+    "Consertam-se relógios.",
+    "A noite caiu sobre a cidade.",
+    "Havia muitos problemas a resolver.",
+    "Todos saíram apressados.",
+    "c",
+    "portugues"
+  ],
+  [
+    "Leia o provérbio: 'Água mole em pedra dura, tanto bate até que fura.' A principal ideia transmitida é a de:",
+    "Força bruta",
+    "Desistência",
+    "Persistência",
+    "Economia de água",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual das opções apresenta a correta separação silábica?",
+    "P-si-co-lo-gi-a",
+    "Ad-vo-ga-do",
+    "Su-b-li-nhar",
+    "Tran-sa-tlân-ti-co",
+    "d",
+    "portugues"
+  ],
+  [
+    "A palavra 'onde' deve ser usada para indicar:",
+    "Tempo",
+    "Modo",
+    "Lugar físico",
+    "Causa",
+    "c",
+    "portugues"
+  ],
+  [
+    "Na frase 'Apesar de estar doente, ele foi trabalhar.', a oração destacada expressa uma ideia de:",
+    "Causa",
+    "Condição",
+    "Conformidade",
+    "Concessão",
+    "d",
+    "portugues"
+  ],
+  [
+    "O período 'Estudei muito, portanto serei aprovado' contém uma oração coordenada sindética:",
+    "Aditiva",
+    "Adversativa",
+    "Conclusiva",
+    "Explicativa",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual a classe gramatical da palavra destacada em 'O jantar ESTAVA delicioso'?",
+    "Verbo de ação",
+    "Verbo de ligação",
+    "Advérbio",
+    "Adjetivo",
+    "b",
+    "portugues"
+  ],
+  [
+    "Assinale a alternativa com erro de ortografia.",
+    "Chuchu",
+    "Berinjela",
+    "Mochila",
+    "Geito",
+    "d",
+    "portugues"
+  ],
+  [
+    "A figura de linguagem que consiste em suavizar uma expressão rude ou desagradável é o(a):",
+    "Hipérbole",
+    "Eufemismo",
+    "Ironia",
+    "Metáfora",
+    "b",
+    "portugues"
+  ],
+  [
+    "Em 'O sinal abriu, os carros partiram.', a vírgula foi usada para separar:",
+    "Um vocativo",
+    "Orações assindéticas",
+    "Um aposto",
+    "Um adjunto adverbial deslocado",
+    "b",
+    "portugues"
+  ],
+  [
+    "Qual o tipo de predicado na frase 'O professor considera a prova fácil'?",
+    "Nominal",
+    "Verbal",
+    "Verbo-nominal",
+    "Inexistente",
+    "c",
+    "portugues"
+  ],
+  [
+    "O antônimo de 'mal' (advérbio) e 'mau' (adjetivo) é, respectivamente:",
+    "Bom e bem",
+    "Bem e bom",
+    "Ruim e bem",
+    "Bem e ruim",
+    "b",
+    "portugues"
+  ],
+  [
+    "Leia a frase: 'O poeta, mestre das palavras, encantou a todos.' O termo 'mestre das palavras' é um:",
+    "Vocativo",
+    "Predicativo",
+    "Aposto",
+    "Adjunto adnominal",
+    "c",
+    "portugues"
+  ],
+  [
+    "Qual das formas verbais completa corretamente a frase: 'É preciso que nós _______ o nosso papel.'?",
+    "façamos",
+    "fazemos",
+    "faremos",
+    "fazer",
+    "a",
+    "portugues"
+  ],
+  [
+    "A concordância nominal está plenamente correta em:",
+    "Seguem anexo as cópias dos documentos.",
+    "Ela ficou meio preocupada com a notícia.",
+    "É necessário paciência para resolver o problema.",
+    "Compramos bastante livros na promoção.",
+    "b",
+    "portugues"
+  ],
+  [
+    "A palavra 'embora' é uma conjunção subordinativa:",
+    "Causal",
+    "Temporal",
+    "Concessiva",
+    "Final",
+    "c",
+    "portugues"
+  ],
+  [
+    "O processo de formação da palavra 'planalto' (plano + alto) é:",
+    "Justaposição",
+    "Aglutinação",
+    "Prefixação",
+    "Sufixação",
+    "b",
+    "portugues"
+  ],
+  [
+    "A oração 'O importante é que você seja feliz' é classificada como subordinada substantiva:",
+    "Subjetiva",
+    "Predicativa",
+    "Objetiva direta",
+    "Completiva nominal",
+    "b",
+    "portugues"
+  ],
+  [
+    "Leia o trecho de 'Memórias Póstumas de Brás Cubas': 'Algum tempo hesitei se devia abrir estas memórias pelo princípio ou pelo fim, isto é, se poria em primeiro lugar o meu nascimento ou a minha morte.' O narrador-personagem demonstra ser:",
+    "Decidido e objetivo",
+    "Hesitante e reflexivo",
+    "Alegre e otimista",
+    "Trágico e pessimista",
+    "b",
+    "portugues"
+  ],
+  [
+    "Na frase 'As crianças brincavam barulhentamente.', a palavra destacada é um advérbio de:",
+    "Lugar",
+    "Tempo",
+    "Modo",
+    "Intensidade",
+    "c",
+    "portugues"
+  ],
+  [
+    "O coletivo de 'chaves' e 'atores' é:",
+    "Chaveiro e grupo",
+    "Molho e elenco",
+    "Feixe e turma",
+    "Conjunto e companhia",
+    "b",
+    "portugues"
+  ],
+  [
+    "A regência verbal está INCORRETA em:",
+    "Eu prefiro mais cinema do que teatro.",
+    "Assisti ao jogo ontem à noite.",
+    "Ele obedeceu aos pais.",
+    "Lembrei-me do nosso compromisso.",
+    "a",
+    "portugues"
+  ],
+  [
+    "A forma correta do imperativo afirmativo do verbo 'fazer' (tu) é:",
+    "Faz",
+    "Faze",
+    "Fazes",
+    "Faça",
+    "b",
+    "portugues"
+  ],
+  [
+    "Qual das palavras abaixo é um substantivo abstrato?",
+    "Cadeira",
+    "Lápis",
+    "Saudade",
+    "Menino",
+    "c",
+    "portugues"
+  ],
+  [
+    "Em 'Aquele é o rapaz DE QUEM lhe falei.', o termo destacado exerce a função de:",
+    "Objeto direto",
+    "Objeto indireto",
+    "Complemento nominal",
+    "Sujeito",
+    "b",
+    "portugues"
+  ],
+  [
+    "A soma do dobro de um número com 15 é igual a 45. Que número é esse?",
+    "10",
+    "15",
+    "20",
+    "30",
+    "b",
+    "matematica"
+  ],
+  [
+    "Uma pizza foi dividida em 8 fatias iguais. Se João comeu 3 fatias, que fração da pizza ele comeu?",
+    "1/8",
+    "3/5",
+    "3/8",
+    "8/3",
+    "c",
+    "matematica"
+  ],
+  [
+    "Se 5 cadernos custam R$ 30,00, quanto custarão 8 cadernos?",
+    "R$ 40,00",
+    "R$ 45,00",
+    "R$ 48,00",
+    "R$ 56,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual é o valor de x na equação 3(x - 2) = 18?",
+    "4",
+    "6",
+    "8",
+    "10",
+    "c",
+    "matematica"
+  ],
+  [
+    "A área de um triângulo com base 10 cm e altura 6 cm é:",
+    "16 cm²",
+    "30 cm²",
+    "60 cm²",
+    "100 cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "Em um concurso, 300 candidatos disputam 15 vagas. Qual a relação candidato/vaga?",
+    "15 candidatos/vaga",
+    "20 candidatos/vaga",
+    "25 candidatos/vaga",
+    "30 candidatos/vaga",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o valor da expressão numérica [10 + (2 x 5) - 8] / 4?",
+    "3",
+    "4",
+    "5",
+    "6",
+    "a",
+    "matematica"
+  ],
+  [
+    "As raízes da equação x² - 8x + 12 = 0 são:",
+    "{2, 6}",
+    "{-2, -6}",
+    "{3, 4}",
+    "{-3, -4}",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um capital de R$ 2.000,00 foi aplicado a juros simples de 2% ao mês. Qual o valor dos juros após 5 meses?",
+    "R$ 100,00",
+    "R$ 150,00",
+    "R$ 200,00",
+    "R$ 250,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um ciclista percorre uma distância em 2 horas a uma velocidade média de 20 km/h. Se ele fizesse o mesmo percurso a 40 km/h, quanto tempo levaria?",
+    "30 minutos",
+    "1 hora",
+    "1 hora e 30 minutos",
+    "4 horas",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o volume de um paralelepípedo com dimensões 3 cm, 4 cm e 5 cm?",
+    "12 cm³",
+    "20 cm³",
+    "47 cm³",
+    "60 cm³",
+    "d",
+    "matematica"
+  ],
+  [
+    "Numa eleição com dois candidatos, o vencedor obteve 65% dos votos. Se o total de votos foi de 4.000, quantos votos teve o vencedor?",
+    "1400",
+    "2000",
+    "2600",
+    "3500",
+    "c",
+    "matematica"
+  ],
+  [
+    "Aplicando o Teorema de Pitágoras em um triângulo retângulo com catetos medindo 9 cm e 12 cm, qual o valor da hipotenusa?",
+    "13 cm",
+    "14 cm",
+    "15 cm",
+    "21 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "O resultado de 2⁵ - 4² é:",
+    "2",
+    "8",
+    "16",
+    "24",
+    "c",
+    "matematica"
+  ],
+  [
+    "A soma dos ângulos internos de um pentágono é:",
+    "180°",
+    "360°",
+    "540°",
+    "720°",
+    "c",
+    "matematica"
+  ],
+  [
+    "Uma TV que custava R$ 1.500,00 foi vendida com 12% de desconto. Qual foi o preço de venda?",
+    "R$ 1.320,00",
+    "R$ 1.350,00",
+    "R$ 1.380,00",
+    "R$ 180,00",
+    "a",
+    "matematica"
+  ],
+  [
+    "A média de um aluno em 4 provas foi 7,5. As notas das três primeiras foram 6, 8 e 9. Qual foi a nota da quarta prova?",
+    "7",
+    "7,5",
+    "8",
+    "9",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o valor de x no sistema de equações {2x + y = 8; x - y = 1}?",
+    "2",
+    "3",
+    "4",
+    "5",
+    "b",
+    "matematica"
+  ],
+  [
+    "O perímetro de um hexágono regular de lado 7 cm é:",
+    "35 cm",
+    "42 cm",
+    "49 cm",
+    "56 cm",
+    "b",
+    "matematica"
+  ],
+  [
+    "Fatorando o polinômio 5x + 10y, obtemos:",
+    "5(x + 2y)",
+    "5(x + 10y)",
+    "10(5x + y)",
+    "x(5 + 10y)",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o MDC (Máximo Divisor Comum) entre 20 e 28?",
+    "2",
+    "4",
+    "5",
+    "7",
+    "b",
+    "matematica"
+  ],
+  [
+    "A área de um quadrado é 81 cm². Quanto mede seu lado?",
+    "7 cm",
+    "8 cm",
+    "9 cm",
+    "10 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual a probabilidade de, ao lançar um dado comum de 6 faces, obter um número maior que 4?",
+    "1/6",
+    "2/6 (ou 1/3)",
+    "3/6 (ou 1/2)",
+    "4/6 (ou 2/3)",
+    "b",
+    "matematica"
+  ],
+  [
+    "Convertendo 2,5 quilômetros em metros, temos:",
+    "25 metros",
+    "250 metros",
+    "2500 metros",
+    "25000 metros",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um ângulo mede 40°. Qual a medida de seu ângulo suplementar?",
+    "50°",
+    "90°",
+    "140°",
+    "320°",
+    "c",
+    "matematica"
+  ],
+  [
+    "Simplificando a expressão (x+y)² - (x-y)², obtemos:",
+    "0",
+    "2y²",
+    "2x² + 2y²",
+    "4xy",
+    "d",
+    "matematica"
+  ],
+  [
+    "Se 1 polegada equivale a 2,54 cm, quantas polegadas há em 25,4 cm?",
+    "1 polegada",
+    "10 polegadas",
+    "100 polegadas",
+    "254 polegadas",
+    "b",
+    "matematica"
+  ],
+  [
+    "A representação percentual da fração 2/5 é:",
+    "20%",
+    "25%",
+    "40%",
+    "50%",
+    "c",
+    "matematica"
+  ],
+  [
+    "A soma dos 10 primeiros números inteiros positivos (1+2+3+...+10) é:",
+    "45",
+    "50",
+    "55",
+    "100",
+    "c",
+    "matematica"
+  ],
+  [
+    "O raio de uma praça circular mede 20 metros. Qual o comprimento da sua circunferência? (Use π = 3,14)",
+    "62,8 m",
+    "125,6 m",
+    "200 m",
+    "1256 m",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é o resultado de (-5) x (-3) + (-20) / 4?",
+    "10",
+    "-10",
+    "20",
+    "-20",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um triângulo que possui todos os lados com medidas diferentes é chamado de:",
+    "Equilátero",
+    "Isósceles",
+    "Escaleno",
+    "Retângulo",
+    "c",
+    "matematica"
+  ],
+  [
+    "O valor numérico do polinômio P(x) = x³ - 2x + 1 para x = 2 é:",
+    "1",
+    "3",
+    "5",
+    "8",
+    "c",
+    "matematica"
+  ],
+  [
+    "Em um mapa com escala 1:500.000, uma estrada de 10 cm no mapa corresponde a qual distância real?",
+    "5 km",
+    "50 km",
+    "500 km",
+    "5.000 km",
+    "b",
+    "matematica"
+  ],
+  [
+    "O número 0,00045 em notação científica é escrito como:",
+    "4,5 x 10⁻³",
+    "4,5 x 10⁻⁴",
+    "4,5 x 10⁻⁵",
+    "45 x 10⁻⁵",
+    "b",
+    "matematica"
+  ],
+  [
+    "Uma torneira despeja 50 litros de água em 20 minutos. Para encher um tanque de 200 litros, quanto tempo será necessário?",
+    "40 minutos",
+    "1 hora",
+    "1 hora e 10 minutos",
+    "1 hora e 20 minutos",
+    "d",
+    "matematica"
+  ],
+  [
+    "O resultado da potenciação (2/3)³ é:",
+    "6/9",
+    "8/27",
+    "6/27",
+    "8/9",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o juro simples produzido por um capital de R$ 800,00, à taxa de 10% ao ano, durante 3 anos?",
+    "R$ 80,00",
+    "R$ 160,00",
+    "R$ 240,00",
+    "R$ 320,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "Quantas diagonais possui um octógono?",
+    "14",
+    "20",
+    "27",
+    "44",
+    "b",
+    "matematica"
+  ],
+  [
     "A solução da equação 2x - 10 = 4 é:",
     "x = 5",
     "x = 7",
@@ -718,6 +1429,358 @@
     "-21",
     "b",
     "matematica"
+  ],
+  [
+    "Leia o trecho: 'A Amazônia é frequentemente chamada de 'pulmão do mundo', mas seu papel mais crucial é a regulação do clima e a manutenção do ciclo das chuvas, que afeta vastas áreas da América do Sul.' O texto desconstrói um mito popular ao afirmar que a Amazônia é mais importante para:",
+    "A produção de oxigênio para o mundo",
+    "A regulação do clima e das chuvas",
+    "A extração de madeira",
+    "O turismo ecológico",
+    "b",
+    "geografia"
+  ],
+  [
+    "O 'ciclo das chuvas' mencionado no texto, em que a floresta libera umidade para a atmosfera, formando os chamados 'rios voadores', é um processo conhecido como:",
+    "Evapotranspiração",
+    "Condensação",
+    "Infiltração",
+    "Escoamento superficial",
+    "a",
+    "geografia"
+  ],
+  [
+    "Qual o tipo de clima predominante na região amazônica?",
+    "Tropical semiárido",
+    "Subtropical",
+    "Equatorial úmido",
+    "Temperado",
+    "c",
+    "geografia"
+  ],
+  [
+    "O Pampa, ou Campanha Gaúcha, é um bioma brasileiro caracterizado por:",
+    "Florestas densas e de grande porte.",
+    "Vegetação de clima semiárido, com cactos.",
+    "Um relevo plano com vegetação campestre (herbácea).",
+    "Uma grande planície inundável.",
+    "c",
+    "geografia"
+  ],
+  [
+    "A formação de blocos econômicos, como o Mercosul e a União Europeia, é uma característica do processo de:",
+    "Regionalização",
+    "Globalização",
+    "Nacionalismo",
+    "Isolamento econômico",
+    "b",
+    "geografia"
+  ],
+  [
+    "A diferença entre o número de nascimentos e o número de mortes em um determinado período é chamada de:",
+    "Taxa de fecundidade",
+    "Densidade demográfica",
+    "Crescimento vegetativo",
+    "Expectativa de vida",
+    "c",
+    "geografia"
+  ],
+  [
+    "Qual das seguintes fontes de energia é considerada a mais poluente devido à emissão de gases de efeito estufa?",
+    "Energia solar",
+    "Energia eólica",
+    "Carvão mineral",
+    "Energia hidrelétrica",
+    "c",
+    "geografia"
+  ],
+  [
+    "O movimento das placas tectônicas é responsável pela formação de:",
+    "Rios e lagos",
+    "Dunas e planícies costeiras",
+    "Cadeias de montanhas, vulcões e terremotos",
+    "Campos e florestas",
+    "c",
+    "geografia"
+  ],
+  [
+    "As curvas de nível em um mapa topográfico são linhas que unem pontos de mesma:",
+    "Pressão atmosférica",
+    "Temperatura",
+    "Latitude",
+    "Altitude",
+    "d",
+    "geografia"
+  ],
+  [
+    "A região brasileira que apresenta os maiores contrastes sociais e a maior concentração populacional é a:",
+    "Norte",
+    "Centro-Oeste",
+    "Nordeste",
+    "Sudeste",
+    "d",
+    "geografia"
+  ],
+  [
+    "O processo de desertificação é mais intenso em qual região do Brasil?",
+    "Na Amazônia, devido ao desmatamento.",
+    "No Sul, devido à agricultura intensiva.",
+    "No Sertão Nordestino, devido ao clima semiárido e ao manejo inadequado do solo.",
+    "No Pantanal, devido às cheias periódicas.",
+    "c",
+    "geografia"
+  ],
+  [
+    "O principal meridiano, que divide a Terra em hemisfério ocidental e oriental, é o:",
+    "Trópico de Câncer",
+    "Círculo Polar Ártico",
+    "Meridiano de Greenwich",
+    "Linha do Equador",
+    "c",
+    "geografia"
+  ],
+  [
+    "Leia a notícia: 'A cidade de São Paulo enfrenta anualmente problemas com enchentes durante o verão, causadas pela combinação de chuvas intensas e pela alta impermeabilização do solo.' A 'impermeabilização do solo' citada no texto é consequência direta:",
+    "Do aumento de áreas verdes e parques.",
+    "Da pavimentação de ruas e construção de edifícios.",
+    "Da limpeza de bueiros e córregos.",
+    "Da diminuição da população urbana.",
+    "b",
+    "geografia"
+  ],
+  [
+    "O problema das enchentes urbanas está relacionado ao ciclo da água, pois a impermeabilização do solo dificulta a:",
+    "Evaporação",
+    "Condensação",
+    "Infiltração",
+    "Precipitação",
+    "c",
+    "geografia"
+  ],
+  [
+    "Qual o nome do fenômeno climático caracterizado pelo resfriamento anormal das águas do Oceano Pacífico Equatorial?",
+    "El Niño",
+    "La Niña",
+    "Monções",
+    "Inversão térmica",
+    "b",
+    "geografia"
+  ],
+  [
+    "A agricultura de jardinagem, praticada principalmente no Sudeste Asiático com uso intensivo de mão de obra, é voltada para o cultivo de:",
+    "Soja",
+    "Trigo",
+    "Arroz",
+    "Milho",
+    "c",
+    "geografia"
+  ],
+  [
+    "A Bacia do Rio Paraná é de grande importância para o Brasil, principalmente por seu potencial:",
+    "Para a pesca artesanal.",
+    "Para a navegação de grandes navios.",
+    "Hidrelétrico, com usinas como Itaipu.",
+    "Turístico, devido às suas praias fluviais.",
+    "c",
+    "geografia"
+  ],
+  [
+    "O tipo de vegetação que se adapta a ambientes secos, como a Caatinga, é chamado de:",
+    "Hidrófila",
+    "Higrófila",
+    "Xerófita",
+    "Latifoliada",
+    "c",
+    "geografia"
+  ],
+  [
+    "O Círculo de Fogo do Pacífico é uma área conhecida pela intensa atividade:",
+    "Industrial e comercial",
+    "Agrícola e pesqueira",
+    "Sísmica e vulcânica",
+    "Turística e cultural",
+    "c",
+    "geografia"
+  ],
+  [
+    "A passagem de uma sociedade rural para uma sociedade urbana, com a maioria da população vivendo em cidades, caracteriza o processo de:",
+    "Metropolização",
+    "Industrialização",
+    "Urbanização",
+    "Globalização",
+    "c",
+    "geografia"
+  ],
+  [
+    "O relevo brasileiro é caracterizado por ser geologicamente antigo e, portanto, predominam:",
+    "Altas montanhas e dobramentos modernos.",
+    "Planaltos e planícies de baixa e média altitude.",
+    "Vulcões ativos e fossas abissais.",
+    "Geleiras e fiordes.",
+    "b",
+    "geografia"
+  ],
+  [
+    "Qual país não faz fronteira com o Brasil?",
+    "Uruguai",
+    "Colômbia",
+    "Chile",
+    "Bolívia",
+    "c",
+    "geografia"
+  ],
+  [
+    "As massas de ar que atuam no território brasileiro influenciam diretamente:",
+    "As correntes marítimas.",
+    "As condições do tempo e do clima.",
+    "A formação do relevo.",
+    "A composição do solo.",
+    "b",
+    "geografia"
+  ],
+  [
+    "A Mata Atlântica é um dos biomas mais devastados do Brasil. Sua localização original acompanhava principalmente:",
+    "O curso do Rio Amazonas.",
+    "A faixa litorânea do país.",
+    "O planalto central.",
+    "A fronteira com a Argentina.",
+    "b",
+    "geografia"
+  ],
+  [
+    "A pirâmide etária de um país desenvolvido tipicamente apresenta:",
+    "Base larga e topo estreito.",
+    "Base estreita e topo largo.",
+    "Formato de losango.",
+    "Base e topo com larguras semelhantes.",
+    "b",
+    "geografia"
+  ],
+  [
+    "Os fusos horários foram criados com base no movimento de:",
+    "Translação da Terra.",
+    "Rotação da Terra.",
+    "Inclinação do eixo terrestre.",
+    "Precessão dos equinócios.",
+    "b",
+    "geografia"
+  ],
+  [
+    "O agronegócio no Brasil é voltado principalmente para:",
+    "O mercado interno e a subsistência.",
+    "A produção de orgânicos.",
+    "A exportação de commodities como soja, carne e milho.",
+    "A reforma agrária.",
+    "c",
+    "geografia"
+  ],
+  [
+    "O que são as Zonas de Processamento de Exportação (ZPEs)?",
+    "Áreas de proteção ambiental.",
+    "Áreas de livre comércio com incentivos fiscais para empresas que produzem para exportação.",
+    "Regiões de conflitos agrários.",
+    "Centros de pesquisa agropecuária.",
+    "b",
+    "geografia"
+  ],
+  [
+    "O Rio Nilo, um dos mais extensos do mundo, é fundamental para qual país africano?",
+    "África do Sul",
+    "Nigéria",
+    "Egito",
+    "Congo",
+    "c",
+    "geografia"
+  ],
+  [
+    "As coordenadas geográficas (latitude e longitude) servem para:",
+    "Medir a temperatura de um lugar.",
+    "Indicar a altitude do relevo.",
+    "Localizar qualquer ponto na superfície terrestre.",
+    "Prever as condições do tempo.",
+    "c",
+    "geografia"
+  ],
+  [
+    "A Região Centro-Oeste do Brasil teve seu povoamento e desenvolvimento impulsionado, a partir de 1960, pela:",
+    "Exploração da borracha.",
+    "Construção de Brasília e expansão da fronteira agrícola.",
+    "Produção de café.",
+    "Industrialização pesada.",
+    "b",
+    "geografia"
+  ],
+  [
+    "O que é um 'enclave' territorial?",
+    "Um território totalmente cercado por outro país.",
+    "Uma ilha fluvial.",
+    "Uma península.",
+    "Um país sem saída para o mar.",
+    "a",
+    "geografia"
+  ],
+  [
+    "O BRICS é um agrupamento de países de economia emergente. Qual dos seguintes países NÃO faz parte do grupo original?",
+    "Brasil",
+    "Rússia",
+    "Índia",
+    "Japão",
+    "d",
+    "geografia"
+  ],
+  [
+    "A Mata de Araucárias é uma formação florestal típica de qual unidade da federação?",
+    "Amazonas",
+    "Bahia",
+    "Mato Grosso",
+    "Paraná",
+    "d",
+
+    "geografia"
+  ],
+  [
+    "O processo de terraceamento, ou cultivo em degraus, é uma técnica agrícola utilizada para:",
+    "Aumentar a fertilidade do solo em áreas planas.",
+    "Facilitar a irrigação em desertos.",
+    "Controlar a erosão e permitir o cultivo em encostas de morros.",
+    "Drenar solos muito úmidos.",
+    "c",
+    "geografia"
+  ],
+  [
+    "A população absoluta de um país se refere:",
+    "Ao número de habitantes por km².",
+    "À taxa de crescimento populacional.",
+    "Ao número total de habitantes.",
+    "À porcentagem de idosos na população.",
+    "c",
+    "geografia"
+  ],
+  [
+    "Qual oceano está localizado entre a América e a Ásia/Oceania?",
+    "Atlântico",
+    "Índico",
+    "Pacífico",
+    "Glacial Ártico",
+    "c",
+    "geografia"
+  ],
+  [
+    "O encontro das águas escuras do Rio Negro com as águas barrentas do Rio Solimões, que não se misturam por um longo trecho, ocorre próximo a qual cidade brasileira?",
+    "Belém",
+    "Santarém",
+    "Manaus",
+    "Porto Velho",
+    "c",
+    "geografia"
+  ],
+  [
+    "A principal atividade econômica do Sertão Nordestino durante o período colonial foi:",
+    "O cultivo da cana-de-açúcar.",
+    "A mineração de ouro.",
+    "A pecuária extensiva.",
+    "A extração do látex.",
+    "c",
+    "geografia"
   ],
   [
     "A região Sul do Brasil é composta por quais estados?",
@@ -1079,6 +2142,357 @@
     "Rio Madeira",
     "b",
     "geografia"
+  ],
+  [
+    "Leia o Art. 1º da Lei Áurea (13 de maio de 1888): 'É declarada extinta desde a data desta lei a escravidão no Brasil.' A assinatura desta lei pela Princesa Isabel foi o resultado de um longo processo que incluiu:",
+    "Apenas a vontade da família imperial.",
+    "A pressão da Inglaterra e a crescente resistência dos próprios escravizados (fugas, quilombos, revoltas).",
+    "Um acordo financeiro com os cafeicultores para indenizá-los.",
+    "A descoberta de que o trabalho assalariado era menos lucrativo.",
+    "b",
+    "historia"
+  ],
+  [
+    "A Lei Áurea resolveu a questão da escravidão, mas não promoveu a integração do ex-escravizado na sociedade. Isso resultou em:",
+    "Uma rápida ascensão social da população negra.",
+    "A marginalização social e econômica dos libertos, que ficaram sem terra, trabalho ou assistência.",
+    "O retorno da maioria dos libertos para a África.",
+    "A criação de um grande programa de reforma agrária.",
+    "b",
+    "historia"
+  ],
+  [
+    "O evento que marca o início da Revolução Francesa em 1789 foi:",
+    "A coroação de Napoleão Bonaparte.",
+    "A convocação dos Estados Gerais.",
+    "A Queda da Bastilha.",
+    "A decapitação do rei Luís XVI.",
+    "c",
+    "historia"
+  ],
+  [
+    "A 'Política dos Governadores', durante a República Velha no Brasil, era um acordo que garantia:",
+    "O apoio dos governadores estaduais ao presidente da República em troca de liberdade de ação nos estados.",
+    "A eleição direta para governadores.",
+    "A intervenção federal constante nos estados.",
+    "O fim do poder das oligarquias locais.",
+    "a",
+    "historia"
+  ],
+  [
+    "Leia o trecho de um discurso de Getúlio Vargas: 'Trabalhadores do Brasil! (...) O governo que vela pelos vossos interesses, que ampara os vossos lares, que organiza as vossas associações de classe...'. Essa retórica de Vargas é característica do:",
+    "Liberalismo",
+    "Socialismo",
+    "Populismo",
+    "Anarquismo",
+    "c",
+    "historia"
+  ],
+  [
+    "As Leis Trabalhistas (CLT) foram criadas durante qual governo?",
+    "República Velha",
+    "Era Vargas",
+    "Governo de Juscelino Kubitschek",
+    "Ditadura Militar",
+    "b",
+    "historia"
+  ],
+  [
+    "A Guerra de Canudos (1896-1897), no sertão da Bahia, foi um conflito entre:",
+    "Latifundiários e sem-terra.",
+    "O exército da recém-proclamada República e os seguidores de Antônio Conselheiro.",
+    "Monarquistas e republicanos no Rio de Janeiro.",
+    "O Brasil e a Bolívia pela posse do Acre.",
+    "b",
+    "historia"
+  ],
+  [
+    "O Renascimento Cultural europeu (séculos XIV-XVI) foi um movimento que valorizava:",
+    "O teocentrismo e a escolástica medieval.",
+    "O misticismo e a fé cega.",
+    "O antropocentrismo, o humanismo e a razão.",
+    "O poder absoluto da Igreja.",
+    "c",
+    "historia"
+  ],
+  [
+    "O 'Plano de Metas' de Juscelino Kubitschek (1956-1961), com o lema '50 anos em 5', priorizou:",
+    "A reforma agrária e a agricultura familiar.",
+    "A educação de base e a saúde pública.",
+    "O desenvolvimento da indústria de base, energia e transportes.",
+    "O pagamento da dívida externa.",
+    "c",
+    "historia"
+  ],
+  [
+    "A construção de Brasília durante o governo JK teve como um dos objetivos:",
+    "Aproximar o centro do poder do litoral.",
+    "Interiorizar o desenvolvimento e integrar o território nacional.",
+    "Criar uma capital com forte vocação agrícola.",
+    "Facilitar o contato com os países do Mercosul.",
+    "b",
+    "historia"
+  ],
+  [
+    "O sistema feudal na Idade Média tinha como base econômica a:",
+    "Indústria",
+    "Agricultura de subsistência",
+    "Comércio marítimo",
+    "Mineração",
+    "b",
+    "historia"
+  ],
+  [
+    "O Ato Institucional Nº 5 (AI-5), decretado em 1968 durante a Ditadura Militar no Brasil, é considerado o mais duro do regime porque:",
+    "Aboliu todos os partidos políticos.",
+    "Convocou uma nova Assembleia Constituinte.",
+    "Permitiu o fechamento do Congresso, a cassação de mandatos e suspendeu o habeas corpus para crimes políticos.",
+    "Anistiou todos os presos políticos.",
+    "c",
+    "historia"
+  ],
+  [
+    "As Cruzadas foram expedições militares e religiosas organizadas pela Igreja Católica na Idade Média com o objetivo oficial de:",
+    "Conquistar novas rotas comerciais para as Índias.",
+    "Libertar a Terra Santa (Jerusalém) do domínio muçulmano.",
+    "Combater as heresias na Europa.",
+    "Catequizar os povos nativos da América.",
+    "b",
+    "historia"
+  ],
+  [
+    "A 'Marcha para o Oeste' foi um processo de expansão territorial e colonização que marcou a história de qual país no século XIX?",
+    "Brasil",
+    "Rússia",
+    "Austrália",
+    "Estados Unidos",
+    "d",
+    "historia"
+  ],
+  [
+    "A Revolta da Vacina, ocorrida no Rio de Janeiro em 1904, foi uma rebelião popular contra:",
+    "O aumento dos impostos.",
+    "A vacinação obrigatória contra a varíola e as reformas urbanas autoritárias.",
+    "A monarquia.",
+    "A falta de escolas.",
+    "b",
+    "historia"
+  ],
+  [
+    "O Iluminismo, movimento de ideias do século XVIII, criticava duramente o Antigo Regime. Qual das opções abaixo NÃO é uma característica do Antigo Regime?",
+    "Absolutismo monárquico",
+    "Sociedade estamental (dividida por nascimento)",
+    "Mercantilismo",
+    "Liberdade de expressão e religiosa",
+    "d",
+    "historia"
+  ],
+  [
+    "A principal fonte de mão de obra utilizada na mineração no Brasil colonial (século XVIII) foi a:",
+    "Assalariada europeia",
+    "Indígena catequizada",
+    "Escravizada de origem africana",
+    "Servidão por contrato",
+    "c",
+    "historia"
+  ],
+  [
+    "A vinda da família real portuguesa para o Brasil em 1808 é um evento diretamente ligado:",
+    "Às Guerras Napoleônicas e ao bloqueio continental.",
+    "À descoberta de ouro em Minas Gerais.",
+    "À Revolução Pernambucana.",
+    "À Proclamação da República.",
+    "a",
+    "historia"
+  ],
+  [
+    "A Guerra dos Farrapos (1835-1845), no sul do Brasil, foi uma das mais longas revoltas do Período Regencial e tinha caráter:",
+    "Abolicionista e popular",
+    "Restaurador, querendo a volta de D. Pedro I",
+    "Federalista e republicano",
+    "Integralista e fascista",
+    "c",
+    "historia"
+  ],
+  [
+    "O Tratado de Versalhes, que pôs fim à Primeira Guerra Mundial, impôs duras sanções a qual país, sendo considerado uma das causas da Segunda Guerra?",
+    "Rússia",
+    "Áustria-Hungria",
+    "França",
+    "Alemanha",
+    "d",
+    "historia"
+  ],
+  [
+    "O movimento artístico e cultural que marcou o período da mineração no Brasil, com destaque para Aleijadinho na escultura e Mestre Ataíde na pintura, foi o:",
+    "Barroco Mineiro",
+    "Modernismo",
+    "Romantismo",
+    "Neoclassicismo",
+    "a",
+    "historia"
+  ],
+  [
+    "Qual das civilizações pré-colombianas se desenvolveu na região do atual México e era conhecida por seus conhecimentos em astronomia e matemática?",
+    "Incas",
+    "Tupis",
+    "Maias e Astecas",
+    "Sioux",
+    "c",
+    "historia"
+  ],
+  [
+    "A Unificação da Alemanha e da Itália, no século XIX, está associada ao desenvolvimento do sentimento:",
+    "Socialista",
+    "Nacionalista",
+    "Iluminista",
+    "Globalista",
+    "b",
+    "historia"
+  ],
+  [
+    "O 'coronelismo' foi um fenômeno político da República Velha caracterizado pelo:",
+    "Poder militar dos coronéis do exército.",
+    "Domínio político local de grandes fazendeiros (coronéis) através do voto de cabresto.",
+    "Governo exclusivo de militares.",
+    "Sistema de eleições diretas e transparentes.",
+    "b",
+    "historia"
+  ],
+  [
+    "A 'Noite de São Bartolomeu' foi um massacre de protestantes (huguenotes) por católicos, ocorrido em 1572, em qual país?",
+    "Inglaterra",
+    "Espanha",
+    "França",
+    "Alemanha",
+    "c",
+    "historia"
+  ],
+  [
+    "O movimento que pedia a anistia 'ampla, geral e irrestrita' no final da década de 1970 no Brasil lutava:",
+    "Pelo perdão da dívida externa.",
+    "Pelo retorno dos exilados e a libertação dos presos políticos da ditadura.",
+    "Pela anistia de impostos para empresas.",
+    "Pela punição severa a todos os torturadores.",
+    "b",
+    "historia"
+  ],
+  [
+    "Quem foi o líder da Revolução Cubana de 1959?",
+    "Ernesto Che Guevara",
+    "Fulgencio Batista",
+    "Fidel Castro",
+    "Augusto Pinochet",
+    "c",
+    "historia"
+  ],
+  [
+    "As 'entradas' e 'bandeiras' foram expedições que, durante o Brasil Colônia, adentraram o interior do território com o objetivo de:",
+    "Catequizar indígenas e fundar novas cidades.",
+    "Mapear o território para o rei de Portugal.",
+    "Procurar metais preciosos e aprisionar indígenas.",
+    "Combater invasores estrangeiros no litoral.",
+    "c",
+    "historia"
+  ],
+  [
+    "A Contrarreforma foi a resposta da Igreja Católica à Reforma Protestante. Uma de suas principais ferramentas foi:",
+    "A tradução da Bíblia para as línguas locais.",
+    "O fim do celibato clerical.",
+    "A reativação do Tribunal da Santa Inquisição e a criação da Companhia de Jesus.",
+    "A aceitação da livre interpretação da Bíblia.",
+    "c",
+    "historia"
+  ],
+  [
+    "O que foi a 'Crise dos Mísseis' de 1962, um dos momentos mais tensos da Guerra Fria?",
+    "Um ataque com mísseis da China ao Japão.",
+    "A descoberta de mísseis nucleares soviéticos instalados em Cuba, apontados para os EUA.",
+    "O desenvolvimento do programa espacial Apollo.",
+    "Um conflito entre Israel e Egito por mísseis.",
+    "b",
+    "historia"
+  ],
+  [
+    "A Lei de Terras de 1850, no Brasil, estabeleceu que o acesso à terra só poderia ocorrer por meio da:",
+    "Herança",
+    "Posse (ocupação)",
+    "Doação do governo",
+    "Compra",
+    "d",
+    "historia"
+  ],
+  [
+    "A Revolução dos Cravos, em 1974, derrubou uma longa ditadura em qual país?",
+    "Espanha",
+    "Grécia",
+    "Portugal",
+    "Chile",
+    "c",
+    "historia"
+  ],
+  [
+    "O Imperialismo do século XIX foi a política de expansão e domínio de potências europeias sobre continentes como a Ásia e a África. O principal objetivo era:",
+    "Levar a democracia e os direitos humanos para esses continentes.",
+    "Buscar mercados consumidores, mão de obra barata e matérias-primas.",
+    "Promover a industrialização dos países dominados.",
+    "Aprender com as culturas locais.",
+    "b",
+    "historia"
+  ],
+  [
+    "O personagem histórico que ficou conhecido como 'O Libertador' por sua liderança nos processos de independência de vários países da América do Sul foi:",
+    "José de San Martín",
+    "Simón Bolívar",
+    "Toussaint Louverture",
+    "Bernardo O'Higgins",
+    "b",
+    "historia"
+  ],
+  [
+    "O que foi o 'Período Entreguerras' (1919-1939)?",
+    "O período de paz e prosperidade global entre as duas guerras mundiais.",
+    "O período de ascensão de regimes totalitários como o Nazismo e o Fascismo na Europa.",
+    "O período em que a Liga das Nações conseguiu evitar todos os conflitos.",
+    "O auge do liberalismo econômico no mundo.",
+    "b",
+    "historia"
+  ],
+  [
+    "A Inconfidência Mineira (1789) foi um movimento da elite de Minas Gerais que, influenciado pelo Iluminismo, pretendia:",
+    "Abolir a escravidão em todo o Brasil.",
+    "Coroar um novo rei no Brasil.",
+    "Proclamar uma república independente na região das Minas.",
+    "Expulsar os holandeses do Nordeste.",
+    "c",
+    "historia"
+  ],
+  [
+    "A chegada dos portugueses ao Brasil em 1500 faz parte do contexto histórico da(s):",
+    "Cruzadas",
+    "Expansão Marítima Europeia",
+    "Reforma Protestante",
+    "Revolução Industrial",
+    "b",
+    "historia"
+  ],
+  [
+    "O 'apartheid', que significa 'vidas separadas', foi um regime de segregação racial implementado oficialmente em 1948 em qual país?",
+    "Estados Unidos",
+    "África do Sul",
+    "Austrália",
+    "Índia",
+    "b",
+    "historia"
+  ],
+  [
+    "A Guerra do Vietnã foi um longo conflito no contexto da Guerra Fria que opôs:",
+    "Vietnã do Norte (comunista) e Vietnã do Sul (capitalista, apoiado pelos EUA).",
+    "Vietnã e China.",
+    "Vietnã e França.",
+    "Coreia do Norte e Coreia do Sul.",
+    "a",
+    "historia"
   ],
   [
     "Qual foi o principal produto da economia colonial brasileira no século XVI?",
@@ -1797,6 +3211,366 @@
     "Metálica",
     "Iônica",
     "Ponte de hidrogênio",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A organela presente em células vegetais, responsável pela fotossíntese, é o:",
+    "Mitocôndria",
+    "Cloroplasto",
+    "Vacúolo",
+    "Lisossomo",
+    "b",
+    "ciencias"
+  ],
+  [
+    "O pâncreas é uma glândula que participa do sistema digestório e do sistema endócrino. Sua função endócrina é produzir hormônios como a:",
+    "Adrenalina",
+    "Tiroxina",
+    "Insulina",
+    "Testosterona",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A transmissão de calor que ocorre através de ondas eletromagnéticas, como o calor do Sol que chega à Terra, é a:",
+    "Condução",
+    "Convecção",
+    "Irradiação",
+    "Evaporação",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual das seguintes substâncias é um ácido?",
+    "Água sanitária (hipoclorito de sódio)",
+    "Leite de magnésia (hidróxido de magnésio)",
+    "Suco de limão (ácido cítrico)",
+    "Sabão",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A relação ecológica entre o cupim e os protozoários que vivem em seu intestino e digerem a celulose é um exemplo de:",
+    "Parasitismo",
+    "Predatismo",
+    "Competição",
+    "Mutualismo",
+    "d",
+    "ciencias"
+  ],
+  [
+    "A unidade de medida de energia no Sistema Internacional é:",
+    "Newton (N)",
+    "Watt (W)",
+    "Joule (J)",
+    "Pascal (Pa)",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A Teoria da Seleção Natural, proposta por Darwin, afirma que o ambiente seleciona os indivíduos:",
+    "Mais fortes",
+    "Maiores",
+    "Mais bem adaptados",
+    "Mais complexos",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Uma pessoa com tipo sanguíneo O (doador universal) pode doar sangue para pessoas de quais tipos?",
+    "Apenas para O",
+    "Para A e B",
+    "Apenas para AB",
+    "Para A, B, AB e O",
+    "d",
+    "ciencias"
+  ],
+  [
+    "O átomo de um elemento químico é caracterizado pelo seu número de:",
+    "Elétrons",
+    "Nêutrons",
+    "Prótons",
+    "Camadas de valência",
+    "c",
+    "ciencias"
+  ],
+  [
+    "As artérias são vasos sanguíneos que, em geral:",
+    "Levam sangue do corpo para o coração.",
+    "Levam sangue do coração para o corpo.",
+    "Realizam as trocas gasosas.",
+    "Possuem válvulas para impedir o refluxo.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Qual das seguintes alternativas é um exemplo de fenômeno físico?",
+    "Queima de papel",
+    "Cozimento de um ovo",
+    "Fotossíntese",
+    "Congelamento da água",
+    "d",
+    "ciencias"
+  ],
+  [
+    "O som se propaga com maior velocidade em qual meio?",
+    "Vácuo",
+    "Ar",
+    "Água",
+    "Sólidos (como o ferro)",
+    "d",
+    "ciencias"
+  ],
+  [
+    "Os rins fazem parte do sistema urinário (excretor) e sua principal função é:",
+    "Produzir hormônios digestivos.",
+    "Filtrar o sangue e formar a urina.",
+    "Absorver nutrientes dos alimentos.",
+    "Armazenar a bile.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "A dengue é uma doença transmitida pela picada do mosquito Aedes aegypti. Seu agente causador é um:",
+    "Vírus",
+    "Bactéria",
+    "Protozoário",
+    "Fungo",
+    "a",
+    "ciencias"
+  ],
+  [
+    "O DNA (ácido desoxirribonucleico) tem a forma de uma:",
+    "Fita simples",
+    "Esfera",
+    "Dupla hélice",
+    "Folha dobrada",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Um objeto com massa de 10 kg está na superfície da Terra (g ≈ 10 m/s²). Qual é o seu peso?",
+    "10 N",
+    "1 kg",
+    "100 N",
+    "100 kg",
+    "c",
+    "ciencias"
+  ],
+  [
+    "As células procarióticas, como as bactérias, se diferenciam das eucarióticas principalmente por:",
+    "Possuírem parede celular.",
+    "Não possuírem núcleo organizado nem organelas membranosas.",
+    "Serem maiores e mais complexas.",
+    "Realizarem fotossíntese.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "O movimento da seiva bruta (água e sais minerais) nas plantas ocorre das raízes para as folhas através do:",
+    "Floema",
+    "Xilema",
+    "Parênquima",
+    "Esclerênquima",
+    "b",
+    "ciencias"
+  ],
+  [
+    "A camada de ozônio é importante para a vida na Terra porque ela:",
+    "Controla a temperatura do planeta.",
+    "Filtra a radiação ultravioleta (UV) do Sol.",
+    "Participa do ciclo da água.",
+    "Produz o oxigênio que respiramos.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Qual das seguintes é uma característica dos anfíbios (sapos, rãs)?",
+    "Respiração exclusivamente pulmonar durante toda a vida.",
+    "Pele seca e coberta por escamas.",
+    "Dependência da água para a reprodução.",
+    "Sangue quente (endotermia).",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Na reação química '2H₂ + O₂ → 2H₂O', H₂ e O₂ são os:",
+    "Produtos",
+    "Catalisadores",
+    "Reagentes",
+    "Solventes",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A aceleração é a grandeza física que mede a variação da:",
+    "Distância em função do tempo.",
+    "Velocidade em função do tempo.",
+    "Massa em função da velocidade.",
+    "Força em função da massa.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "As enzimas são proteínas que atuam no organismo como:",
+    "Reservas de energia.",
+    "Componentes estruturais dos músculos.",
+    "Catalisadores biológicos, acelerando reações químicas.",
+    "Hormônios do crescimento.",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual dos planetas do Sistema Solar é conhecido como 'Planeta Vermelho'?",
+    "Vênus",
+    "Júpiter",
+    "Saturno",
+    "Marte",
+    "d",
+    "ciencias"
+  ],
+  [
+    "A mitose é um tipo de divisão celular que resulta em:",
+    "Quatro células-filhas com metade do número de cromossomos.",
+    "Duas células-filhas com o mesmo número de cromossomos da célula-mãe.",
+    "Quatro células-filhas idênticas à célula-mãe.",
+    "Duas células-filhas com o dobro do número de cromossomos.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "O sal de cozinha (cloreto de sódio - NaCl) é um composto formado por uma ligação:",
+    "Iônica",
+    "Covalente polar",
+    "Covalente apolar",
+    "Metálica",
+    "a",
+    "ciencias"
+  ],
+  [
+    "Qual parte do sistema nervoso central é responsável pela coordenação motora e pelo equilíbrio?",
+    "Cérebro",
+    "Cerebelo",
+    "Bulbo",
+    "Medula espinhal",
+    "b",
+    "ciencias"
+  ],
+  [
+    "A resistência elétrica é uma grandeza medida em:",
+    "Ampere (A)",
+    "Volt (V)",
+    "Ohm (Ω)",
+    "Watt (W)",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Em uma cadeia alimentar, os organismos que se alimentam dos produtores são chamados de:",
+    "Decompositores",
+    "Consumidores primários",
+    "Consumidores secundários",
+    "Consumidores terciários",
+    "b",
+    "ciencias"
+  ],
+  [
+    "A Lei da Gravitação Universal foi formulada por:",
+    "Galileu Galilei",
+    "Albert Einstein",
+    "Isaac Newton",
+    "Johannes Kepler",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A digestão das gorduras é facilitada pela bile, uma substância produzida no:",
+    "Estômago",
+    "Pâncreas",
+    "Fígado",
+    "Intestino delgado",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual dos seguintes materiais é um bom condutor de eletricidade?",
+    "Borracha",
+    "Madeira seca",
+    "Plástico",
+    "Cobre",
+    "d",
+    "ciencias"
+  ],
+  [
+    "O alelo recessivo só expressa sua característica quando está em:",
+    "Homozigose dominante",
+    "Heterozigose",
+    "Homozigose recessiva",
+    "Polialelia",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A mudança de estado físico do gasoso diretamente para o sólido é chamada de:",
+    "Vaporização",
+    "Solidificação",
+    "Sublimação",
+    "Ressublimação (ou deposição)",
+    "d",
+    "ciencias"
+  ],
+  [
+    "As vacinas são um método de imunização:",
+    "Ativa, pois estimulam o corpo a produzir seus próprios anticorpos.",
+    "Passiva, pois introduzem anticorpos prontos no organismo.",
+    "Natural, pois são adquiridas no nascimento.",
+    "Temporária, com duração de poucas horas.",
+    "a",
+    "ciencias"
+  ],
+  [
+    "A força de atrito é sempre:",
+    "No mesmo sentido do movimento.",
+    "Contrária à tendência do movimento.",
+    "Perpendicular à superfície de contato.",
+    "Proporcional à velocidade do objeto.",
+    "b",
+    "ciencias"
+  ],
+  [
+    "Os fungos são organismos que se caracterizam por serem:",
+    "Autótrofos e fotossintetizantes.",
+    "Heterótrofos por ingestão.",
+    "Heterótrofos por absorção (decompositores ou parasitas).",
+    "Procariotos e unicelulares.",
+    "c",
+    "ciencias"
+  ],
+  [
+    "O pH de uma solução neutra, como a água pura, é igual a:",
+    "0",
+    "5",
+    "7",
+    "14",
+    "c",
+    "ciencias"
+  ],
+  [
+    "Qual estrutura do olho humano é responsável por focar a luz na retina?",
+    "Íris",
+    "Pupila",
+    "Cristalino",
+    "Córnea",
+    "c",
+    "ciencias"
+  ],
+  [
+    "A energia cinética está associada:",
+    "À altura de um corpo em relação a um referencial.",
+    "À temperatura de um corpo.",
+    "Ao movimento de um corpo.",
+    "Às ligações químicas de uma substância.",
     "c",
     "ciencias"
   ]
