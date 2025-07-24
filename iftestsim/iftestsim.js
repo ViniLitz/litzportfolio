@@ -78,7 +78,7 @@ function GenerateTest() {
 //Confirmar a resposta e calcular os resultados
 
     SubmitAnswersBtn.addEventListener("click", () => {
-        for (let FormsIndex = 0; FormsIndex < NumOfQuestionsInput.value; FormsIndex++) {
+        for (let FormsIndex = 0; FormsIndex < Answers.length; FormsIndex++) {
             const QuestionForm = document.querySelector(".form" + (FormsIndex + 1))
             const FormsData = new FormData(QuestionForm);
             for (const entry of FormsData) {
@@ -110,7 +110,7 @@ function GenerateTest() {
 //Mostrar os resultados
 
             ResultsPara = document.createElement("p")
-            ResultsPara.innerHTML = "Seu resultado : " + NumberOfRightResults + "/" + NumOfQuestionsInput.value
+            ResultsPara.innerHTML = "Seu resultado : " + NumberOfRightResults + "/" + Answers.length
             TestArea.appendChild(ResultsPara)
             
             const WrongResultsPara = document.createElement("p")
