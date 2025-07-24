@@ -169,10 +169,10 @@ function GenerateTest() {
             ReiniciePara.innerHTML = "Reinicie a página para poder gerar mais uma prova."
             TestArea.appendChild(ReiniciePara)
             const ScrollToTopBtn = document.createElement("button")
-            ScrollToTopBtn.innerHTML = "Voltar ao topo"
+            ScrollToTopBtn.innerHTML = "Clique aqui para reiniciar a página"
             TestArea.appendChild(ScrollToTopBtn)
             ScrollToTopBtn.addEventListener("click", () => {
-                window.scrollTo({ top: 0, left: 0, behavior: 'smooth'});
+                window.location.reload();
             })
         }
     });
