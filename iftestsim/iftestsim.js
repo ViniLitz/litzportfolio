@@ -27,6 +27,11 @@ function GenerateTest() {
     }
     if (NumOfQuestionsInput.value > 100) {
         alert("Foram geradas apenas 100 questões, que é o maior número possível.")
+        NumOfQuestionsInput.value = 100;
+    }
+    if (NumOfQuestionsInput.value < 1) {
+        alert("Como o número de questões desejadas é um número inválido, foram geradas 40 questões, que é o número padrão.")
+        NumOfQuestionsInput.value = 40;
     }
     TestArea.style.display = "block"
 
