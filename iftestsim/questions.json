@@ -711,6 +711,15 @@
     "matematica"
   ],
   [
+    "Qual é o resultado da expressão '-15 . 3 - 135 + 80 / 5'?",
+    "21",
+    "-164",
+    "-2",
+    "-21",
+    "b",
+    "matematica"
+  ],
+  [
     "A região Sul do Brasil é composta por quais estados?",
     "São Paulo, Rio de Janeiro e Espírito Santo",
     "Paraná, Santa Catarina e Rio Grande do Sul",
@@ -1063,6 +1072,15 @@
     "geografia"
   ],
   [
+    "Qual é o maior rio do Brasil?",
+    "Rio Paraná",
+    "Rio Amazonas",
+    "Rio São Francisco",
+    "Rio Madeira",
+    "b",
+    "geografia"
+  ],
+  [
     "Qual foi o principal produto da economia colonial brasileira no século XVI?",
     "Ouro",
     "Café",
@@ -1411,6 +1429,15 @@
     "Harry Truman",
     "Theodore Roosevelt",
     "b",
+    "historia"
+  ],
+  [
+    "Em que estado brasileiro ocorreu a Balaiada?",
+    "Bahia",
+    "Rio Grande do Sul",
+    "Maranhão",
+    "Pará",
+    "c",
     "historia"
   ],
   [
