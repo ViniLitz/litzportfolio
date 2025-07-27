@@ -75,23 +75,25 @@ function GenerateTest() {
 
 //Embaralhar as questões de cada matéria
 
+    let NumeroDeQuestoesDeCadaMateria = NumOfQuestionsInput.value / 5
+
     let QuestoesPortuguesEmbaralhadas = [...QuestoesPortugues]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumOfQuestionsInput.value);
+        .slice(0, NumeroDeQuestoesDeCadaMateria);
     let QuestoesMatematicaEmbaralhadas = [...QuestoesMatematica]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumOfQuestionsInput.value);
+        .slice(0, NumeroDeQuestoesDeCadaMateria);
     let QuestoesGeografiaEmbaralhadas = [...QuestoesGeografia]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumOfQuestionsInput.value);
+        .slice(0, NumeroDeQuestoesDeCadaMateria);
     let QuestoesHistoriaEmbaralhadas = [...QuestoesHistoria]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumOfQuestionsInput.value);
+        .slice(0, NumeroDeQuestoesDeCadaMateria);
     let QuestoesCienciasEmbaralhadas = [...QuestoesCiencias]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumOfQuestionsInput.value);
+        .slice(0, NumeroDeQuestoesDeCadaMateria);
     
-    TestQuestions = ShuffledQuestions;  
+    TestQuestions = [...QuestoesPortuguesEmbaralhadas, ...QuestoesMatematicaEmbaralhadas, ...QuestoesGeografiaEmbaralhadas, ...QuestoesHistoriaEmbaralhadas, ...QuestoesCienciasEmbaralhadas]
 
 /*Criar uma cópia embaralhada do array
     let ShuffledQuestions = [...QuestionsAndAnswers]
