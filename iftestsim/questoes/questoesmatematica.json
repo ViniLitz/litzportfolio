@@ -1,0 +1,722 @@
+[
+    [
+    "A soma do dobro de um número com 15 é igual a 45. Que número é esse?",
+    "10",
+    "15",
+    "20",
+    "30",
+    "b",
+    "matematica"
+  ],
+  [
+    "Uma pizza foi dividida em 8 fatias iguais. Se João comeu 3 fatias, que fração da pizza ele comeu?",
+    "1/8",
+    "3/5",
+    "3/8",
+    "8/3",
+    "c",
+    "matematica"
+  ],
+  [
+    "Se 5 cadernos custam R$ 30,00, quanto custarão 8 cadernos?",
+    "R$ 40,00",
+    "R$ 45,00",
+    "R$ 48,00",
+    "R$ 56,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual é o valor de x na equação 3(x - 2) = 18?",
+    "4",
+    "6",
+    "8",
+    "10",
+    "c",
+    "matematica"
+  ],
+  [
+    "A área de um triângulo com base 10 cm e altura 6 cm é:",
+    "16 cm²",
+    "30 cm²",
+    "60 cm²",
+    "100 cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "Em um concurso, 300 candidatos disputam 15 vagas. Qual a relação candidato/vaga?",
+    "15 candidatos/vaga",
+    "20 candidatos/vaga",
+    "25 candidatos/vaga",
+    "30 candidatos/vaga",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o valor da expressão numérica [10 + (2 x 5) - 8] / 4?",
+    "3",
+    "4",
+    "5",
+    "6",
+    "a",
+    "matematica"
+  ],
+  [
+    "As raízes da equação x² - 8x + 12 = 0 são:",
+    "{2, 6}",
+    "{-2, -6}",
+    "{3, 4}",
+    "{-3, -4}",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um capital de R$ 2.000,00 foi aplicado a juros simples de 2% ao mês. Qual o valor dos juros após 5 meses?",
+    "R$ 100,00",
+    "R$ 150,00",
+    "R$ 200,00",
+    "R$ 250,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um ciclista percorre uma distância em 2 horas a uma velocidade média de 20 km/h. Se ele fizesse o mesmo percurso a 40 km/h, quanto tempo levaria?",
+    "30 minutos",
+    "1 hora",
+    "1 hora e 30 minutos",
+    "4 horas",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o volume de um paralelepípedo com dimensões 3 cm, 4 cm e 5 cm?",
+    "12 cm³",
+    "20 cm³",
+    "47 cm³",
+    "60 cm³",
+    "d",
+    "matematica"
+  ],
+  [
+    "Numa eleição com dois candidatos, o vencedor obteve 65% dos votos. Se o total de votos foi de 4.000, quantos votos teve o vencedor?",
+    "1400",
+    "2000",
+    "2600",
+    "3500",
+    "c",
+    "matematica"
+  ],
+  [
+    "Aplicando o Teorema de Pitágoras em um triângulo retângulo com catetos medindo 9 cm e 12 cm, qual o valor da hipotenusa?",
+    "13 cm",
+    "14 cm",
+    "15 cm",
+    "21 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "O resultado de 2⁵ - 4² é:",
+    "2",
+    "8",
+    "16",
+    "24",
+    "c",
+    "matematica"
+  ],
+  [
+    "A soma dos ângulos internos de um pentágono é:",
+    "180°",
+    "360°",
+    "540°",
+    "720°",
+    "c",
+    "matematica"
+  ],
+  [
+    "Uma TV que custava R$ 1.500,00 foi vendida com 12% de desconto. Qual foi o preço de venda?",
+    "R$ 1.320,00",
+    "R$ 1.350,00",
+    "R$ 1.380,00",
+    "R$ 180,00",
+    "a",
+    "matematica"
+  ],
+  [
+    "A média de um aluno em 4 provas foi 7,5. As notas das três primeiras foram 6, 8 e 9. Qual foi a nota da quarta prova?",
+    "7",
+    "7,5",
+    "8",
+    "9",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o valor de x no sistema de equações {2x + y = 8; x - y = 1}?",
+    "2",
+    "3",
+    "4",
+    "5",
+    "b",
+    "matematica"
+  ],
+  [
+    "O perímetro de um hexágono regular de lado 7 cm é:",
+    "35 cm",
+    "42 cm",
+    "49 cm",
+    "56 cm",
+    "b",
+    "matematica"
+  ],
+  [
+    "Fatorando o polinômio 5x + 10y, obtemos:",
+    "5(x + 2y)",
+    "5(x + 10y)",
+    "10(5x + y)",
+    "x(5 + 10y)",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o MDC (Máximo Divisor Comum) entre 20 e 28?",
+    "2",
+    "4",
+    "5",
+    "7",
+    "b",
+    "matematica"
+  ],
+  [
+    "A área de um quadrado é 81 cm². Quanto mede seu lado?",
+    "7 cm",
+    "8 cm",
+    "9 cm",
+    "10 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual a probabilidade de, ao lançar um dado comum de 6 faces, obter um número maior que 4?",
+    "1/6",
+    "2/6 (ou 1/3)",
+    "3/6 (ou 1/2)",
+    "4/6 (ou 2/3)",
+    "b",
+    "matematica"
+  ],
+  [
+    "Convertendo 2,5 quilômetros em metros, temos:",
+    "25 metros",
+    "250 metros",
+    "2500 metros",
+    "25000 metros",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um ângulo mede 40°. Qual a medida de seu ângulo suplementar?",
+    "50°",
+    "90°",
+    "140°",
+    "320°",
+    "c",
+    "matematica"
+  ],
+  [
+    "Simplificando a expressão (x+y)² - (x-y)², obtemos:",
+    "0",
+    "2y²",
+    "2x² + 2y²",
+    "4xy",
+    "d",
+    "matematica"
+  ],
+  [
+    "Se 1 polegada equivale a 2,54 cm, quantas polegadas há em 25,4 cm?",
+    "1 polegada",
+    "10 polegadas",
+    "100 polegadas",
+    "254 polegadas",
+    "b",
+    "matematica"
+  ],
+  [
+    "A representação percentual da fração 2/5 é:",
+    "20%",
+    "25%",
+    "40%",
+    "50%",
+    "c",
+    "matematica"
+  ],
+  [
+    "A soma dos 10 primeiros números inteiros positivos (1+2+3+...+10) é:",
+    "45",
+    "50",
+    "55",
+    "100",
+    "c",
+    "matematica"
+  ],
+  [
+    "O raio de uma praça circular mede 20 metros. Qual o comprimento da sua circunferência? (Use π = 3,14)",
+    "62,8 m",
+    "125,6 m",
+    "200 m",
+    "1256 m",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é o resultado de (-5) x (-3) + (-20) / 4?",
+    "10",
+    "-10",
+    "20",
+    "-20",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um triângulo que possui todos os lados com medidas diferentes é chamado de:",
+    "Equilátero",
+    "Isósceles",
+    "Escaleno",
+    "Retângulo",
+    "c",
+    "matematica"
+  ],
+  [
+    "O valor numérico do polinômio P(x) = x³ - 2x + 1 para x = 2 é:",
+    "1",
+    "3",
+    "5",
+    "8",
+    "c",
+    "matematica"
+  ],
+  [
+    "Em um mapa com escala 1:500.000, uma estrada de 10 cm no mapa corresponde a qual distância real?",
+    "5 km",
+    "50 km",
+    "500 km",
+    "5.000 km",
+    "b",
+    "matematica"
+  ],
+  [
+    "O número 0,00045 em notação científica é escrito como:",
+    "4,5 x 10⁻³",
+    "4,5 x 10⁻⁴",
+    "4,5 x 10⁻⁵",
+    "45 x 10⁻⁵",
+    "b",
+    "matematica"
+  ],
+  [
+    "Uma torneira despeja 50 litros de água em 20 minutos. Para encher um tanque de 200 litros, quanto tempo será necessário?",
+    "40 minutos",
+    "1 hora",
+    "1 hora e 10 minutos",
+    "1 hora e 20 minutos",
+    "d",
+    "matematica"
+  ],
+  [
+    "O resultado da potenciação (2/3)³ é:",
+    "6/9",
+    "8/27",
+    "6/27",
+    "8/9",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o juro simples produzido por um capital de R$ 800,00, à taxa de 10% ao ano, durante 3 anos?",
+    "R$ 80,00",
+    "R$ 160,00",
+    "R$ 240,00",
+    "R$ 320,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "Quantas diagonais possui um octógono?",
+    "14",
+    "20",
+    "27",
+    "44",
+    "b",
+    "matematica"
+  ],
+  [
+    "A solução da equação 2x - 10 = 4 é:",
+    "x = 5",
+    "x = 7",
+    "x = 3",
+    "x = -3",
+    "b",
+    "matematica"
+  ],
+  [
+    "Um terreno retangular tem 15 metros de largura e 30 metros de comprimento. Qual é a sua área?",
+    "45 m²",
+    "90 m²",
+    "450 m²",
+    "225 m²",
+    "c",
+    "matematica"
+  ],
+  [
+    "Em uma turma de 30 alunos, 40% são meninas. Quantos meninos há na turma?",
+    "12",
+    "15",
+    "18",
+    "20",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual é o valor da expressão (-2)³ + 5²?",
+    "17",
+    "19",
+    "33",
+    "-33",
+    "a",
+    "matematica"
+  ],
+  [
+    "As raízes da equação x² - 5x + 6 = 0 são:",
+    "1 e 4",
+    "2 e 3",
+    "-2 e -3",
+    "-1 e -4",
+    "b",
+    "matematica"
+  ],
+  [
+    "Um carro percorre 240 km com 20 litros de gasolina. Qual o consumo médio (km/l) desse carro?",
+    "10 km/l",
+    "12 km/l",
+    "15 km/l",
+    "20 km/l",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se o lado de um quadrado mede 8 cm, qual é o seu perímetro?",
+    "16 cm",
+    "24 cm",
+    "32 cm",
+    "64 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o resultado de (x + 4)²?",
+    "x² + 16",
+    "x² + 8x + 16",
+    "x² + 4x + 16",
+    "2x + 8",
+    "b",
+    "matematica"
+  ],
+  [
+    "Aplicando um capital de R$ 500,00 a juros simples de 3% ao mês, qual será o montante após 4 meses?",
+    "R$ 530,00",
+    "R$ 560,00",
+    "R$ 620,00",
+    "R$ 550,00",
+    "b",
+    "matematica"
+  ],
+  [
+    "A soma dos ângulos internos de um triângulo é sempre:",
+    "90°",
+    "180°",
+    "270°",
+    "360°",
+    "b",
+    "matematica"
+  ],
+  [
+    "Numa caixa há 5 bolas azuis, 3 vermelhas e 2 amarelas. Qual a probabilidade de se retirar uma bola azul?",
+    "1/2",
+    "1/3",
+    "1/4",
+    "1/5",
+    "a",
+    "matematica"
+  ],
+  [
+    "O valor de y no sistema de equações {x + y = 10; x - y = 4} é:",
+    "3",
+    "4",
+    "5",
+    "7",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um produto que custava R$ 80,00 teve um desconto de 15%. Qual o novo preço?",
+    "R$ 65,00",
+    "R$ 68,00",
+    "R$ 70,00",
+    "R$ 72,00",
+    "b",
+    "matematica"
+  ],
+  [
+    "A hipotenusa de um triângulo retângulo mede 10 cm e um dos catetos mede 6 cm. Quanto mede o outro cateto?",
+    "5 cm",
+    "7 cm",
+    "8 cm",
+    "9 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o volume de um cubo com aresta de 4 cm?",
+    "12 cm³",
+    "16 cm³",
+    "48 cm³",
+    "64 cm³",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual é a forma fatorada do polinômio x² - 9?",
+    "(x - 3)²",
+    "(x + 3)²",
+    "(x - 3)(x + 3)",
+    "x(x - 9)",
+    "c",
+    "matematica"
+  ],
+  [
+    "A média aritmética dos números 7, 10, 4 e 3 é:",
+    "5",
+    "6",
+    "7",
+    "8",
+    "b",
+    "matematica"
+  ],
+  [
+    "Convertendo 3,5 horas para minutos, obtemos:",
+    "180 minutos",
+    "200 minutos",
+    "210 minutos",
+    "240 minutos",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o juro produzido por um capital de R$ 1.200,00 aplicado a uma taxa de 5% ao mês durante um semestre, no regime de juros simples?",
+    "R$ 300,00",
+    "R$ 360,00",
+    "R$ 400,00",
+    "R$ 420,00",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se 3 torneiras enchem um tanque em 9 horas, em quanto tempo 9 torneiras encheriam o mesmo tanque?",
+    "1 hora",
+    "2 horas",
+    "3 horas",
+    "27 horas",
+    "c",
+    "matematica"
+  ],
+  [
+    "O resultado da operação (√49 + √16) é:",
+    "√65",
+    "11",
+    "13",
+    "25",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é o sucessor do triplo de 15?",
+    "44",
+    "45",
+    "46",
+    "47",
+    "c",
+    "matematica"
+  ],
+  [
+    "A área de um círculo com raio de 5 cm é (considere π = 3,14):",
+    "15,7 cm²",
+    "31,4 cm²",
+    "78,5 cm²",
+    "157 cm²",
+    "c",
+    "matematica"
+  ],
+  [
+    "Uma loja oferece um desconto de 20% em todos os seus produtos. Se uma camisa custa R$ 120,00, qual será o valor pago com o desconto?",
+    "R$ 96,00",
+    "R$ 100,00",
+    "R$ 108,00",
+    "R$ 24,00",
+    "a",
+    "matematica"
+  ],
+  [
+    "A soma das idades de pai e filho é 45 anos. A idade do pai é 4 vezes a idade do filho. Qual a idade do filho?",
+    "5 anos",
+    "9 anos",
+    "10 anos",
+    "15 anos",
+    "b",
+    "matematica"
+  ],
+  [
+    "Simplificando a fração 36/48, obtemos:",
+    "2/3",
+    "3/4",
+    "4/5",
+    "5/6",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual a medida do ângulo complementar a um ângulo de 35°?",
+    "45°",
+    "55°",
+    "65°",
+    "145°",
+    "b",
+    "matematica"
+  ],
+  [
+    "O perímetro de uma circunferência de raio 10 cm é (considere π = 3,14):",
+    "31,4 cm",
+    "62,8 cm",
+    "100 cm",
+    "314 cm",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é a representação decimal da fração 3/4?",
+    "0,25",
+    "0,50",
+    "0,75",
+    "1,33",
+    "c",
+    "matematica"
+  ],
+  [
+    "O número 1.500.000 em notação científica é:",
+    "1,5 x 10⁶",
+    "1,5 x 10⁵",
+    "15 x 10⁵",
+    "0,15 x 10⁷",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o valor de x na proporção 4/6 = x/9?",
+    "3",
+    "5",
+    "6",
+    "8",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um ângulo de 1/4 de volta mede:",
+    "45°",
+    "90°",
+    "180°",
+    "270°",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se um triângulo tem lados medindo 5 cm, 12 cm e 13 cm, ele é classificado como:",
+    "Equilátero",
+    "Isósceles",
+    "Retângulo",
+    "Acutângulo",
+    "c",
+    "matematica"
+  ],
+  [
+    "O dobro de um número, mais 5, é igual a 25. Qual é esse número?",
+    "5",
+    "10",
+    "15",
+    "20",
+    "b",
+    "matematica"
+  ],
+  [
+    "Quantos vértices tem uma pirâmide de base quadrada?",
+    "4",
+    "5",
+    "6",
+    "8",
+    "b",
+    "matematica"
+  ],
+  [
+    "Em um mapa, 1 cm representa 50 km. Qual a distância real entre duas cidades que no mapa estão a 3,5 cm uma da outra?",
+    "150 km",
+    "175 km",
+    "200 km",
+    "250 km",
+    "b",
+    "matematica"
+  ],
+  [
+    "A raiz quadrada de 144 é:",
+    "10",
+    "11",
+    "12",
+    "14",
+    "c",
+    "matematica"
+  ],
+  [
+    "O MMC (Mínimo Múltiplo Comum) entre 12 e 18 é:",
+    "12",
+    "18",
+    "24",
+    "36",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual o volume de uma esfera de raio 3 cm? (Use V = 4/3 πr³ e π = 3)",
+    "36 cm³",
+    "54 cm³",
+    "108 cm³",
+    "216 cm³",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual é o resultado da expressão '-15 . 3 - 135 + 80 / 5'?",
+    "21",
+    "-164",
+    "-2",
+    "-21",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é o tamanho de um lado de um quadrado de área 169 cm²?",
+    "16 cm",
+    "10 cm",
+    "13 cm",
+    "19 cm",
+    "c",
+    "matematica"
+  ]
+]

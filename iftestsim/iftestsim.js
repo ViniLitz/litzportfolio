@@ -1,6 +1,44 @@
 let QuestionsAndAnswers = []
 
-fetch('questions/questions.json')
+let questoesportugues = []
+let questoesmatematica = []
+let questoesgeografia = []
+let questoeshistoria = []
+let questoesciencias = []
+
+//Atribui a cada array as questões de suas respectivas matérias, presentes em um arquivo JSON
+
+fetch('questoes/questoesportugues.json')
+  .then(response => response.json())
+  .then(data => {
+    questoesportugues = data;
+  })
+
+fetch('questoes/questoesmatematica.json')
+  .then(response => response.json())
+  .then(data => {
+    questoesmatematica = data;
+  })
+
+fetch('questoes/questoesgeografia.json')
+  .then(response => response.json())
+  .then(data => {
+    questoesgeografia = data;
+  })
+
+fetch('questions/questoeshistoria.json')
+  .then(response => response.json())
+  .then(data => {
+    questoeshistoria = data;
+  })
+
+fetch('questoes/questoesciencias.json')
+  .then(response => response.json())
+  .then(data => {
+    questoesciencias = data;
+  })
+
+fetch('questoes/questions.json')
   .then(response => response.json())
   .then(data => {
     QuestionsAndAnswers = data;
@@ -46,27 +84,27 @@ function GenerateTest() {
         switch (QuestionsIndex) {
             case 0:
                 const inicioportugues = document.createElement("p");
-                QuestionText.innerHTML = "Língua Portuguesa";
+                inicioportugues.innerHTML = "Língua Portuguesa";
                 TestArea.appendChild(inicioportugues);
                 break;
             case 7:
                 const iniciomatematica = document.createElement("p");
-                QuestionText.innerHTML = "Matemática";
+                iniciomatematica.innerHTML = "Matemática";
                 TestArea.appendChild(iniciomatematica);
                 break;
             case 15:
                 const iniciogeografia = document.createElement("p");
-                QuestionText.innerHTML = "Geografia";
+                iniciogeografia.innerHTML = "Geografia";
                 TestArea.appendChild(iniciogeografia);
                 break;
             case 23:
                 const iniciohistoria = document.createElement("p");
-                QuestionText.innerHTML = "História";
+                iniciohistoria.innerHTML = "História";
                 TestArea.appendChild(iniciohistoria);
                 break;
             case 31:
                 const iniciociencias = document.createElement("p");
-                QuestionText.innerHTML = "Ciências";
+                iniciociencias.innerHTML = "Ciências";
                 TestArea.appendChild(iniciociencias);
                 break;
         }
