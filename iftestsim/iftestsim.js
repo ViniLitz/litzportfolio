@@ -1,41 +1,41 @@
 let QuestionsAndAnswers = []
 
-let questoesportugues = []
-let questoesmatematica = []
-let questoesgeografia = []
-let questoeshistoria = []
-let questoesciencias = []
+let QuestoesPortugues = []
+let QuestoesMatematica = []
+let QuestoesGeografia = []
+let QuestoesHistoria = []
+let QuestoesCiencias = []
 
 //Atribui a cada array as questões de suas respectivas matérias, presentes em um arquivo JSON
 
 fetch('questoes/questoesportugues.json')
   .then(response => response.json())
   .then(data => {
-    questoesportugues = data;
+    QuestoesPortugues = data;
   })
 
 fetch('questoes/questoesmatematica.json')
   .then(response => response.json())
   .then(data => {
-    questoesmatematica = data;
+    QuestoesMatematica = data;
   })
 
 fetch('questoes/questoesgeografia.json')
   .then(response => response.json())
   .then(data => {
-    questoesgeografia = data;
+    QuestoesGeografia = data;
   })
 
 fetch('questions/questoeshistoria.json')
   .then(response => response.json())
   .then(data => {
-    questoeshistoria = data;
+    QuestoesHistoria = data;
   })
 
 fetch('questoes/questoesciencias.json')
   .then(response => response.json())
   .then(data => {
-    questoesciencias = data;
+    QuestoesCiencias = data;
   })
 
 fetch('questoes/questions.json')
@@ -73,36 +73,54 @@ function GenerateTest() {
     }
     TestArea.style.display = "block"
 
-// Criar uma cópia embaralhada do array
+//Embaralhar as questões de cada matéria
+
+    let QuestoesPortuguesEmbaralhadas = [...QuestoesPortugues]
+        .sort(() => Math.random() - 0.5)
+        .slice(0, NumOfQuestionsInput.value);
+    let QuestoesMatematicaEmbaralhadas = [...QuestoesMatematica]
+        .sort(() => Math.random() - 0.5)
+        .slice(0, NumOfQuestionsInput.value);
+    let QuestoesGeografiaEmbaralhadas = [...QuestoesGeografia]
+        .sort(() => Math.random() - 0.5)
+        .slice(0, NumOfQuestionsInput.value);
+    let QuestoesHistoriaEmbaralhadas = [...QuestoesHistoria]
+        .sort(() => Math.random() - 0.5)
+        .slice(0, NumOfQuestionsInput.value);
+    let QuestoesCienciasEmbaralhadas = [...QuestoesCiencias]
+        .sort(() => Math.random() - 0.5)
+        .slice(0, NumOfQuestionsInput.value);
+    
+    TestQuestions = ShuffledQuestions;  
+
+/*Criar uma cópia embaralhada do array
     let ShuffledQuestions = [...QuestionsAndAnswers]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumOfQuestionsInput.value); // Pegue só a quantidade pedida
+        .slice(0, NumOfQuestionsInput.value);*/
 
-    TestQuestions = ShuffledQuestions;
-
-    for (let QuestionsIndex = 0; QuestionsIndex < ShuffledQuestions.length; QuestionsIndex++) {
+    for (let QuestionsIndex = 0; QuestionsIndex < TestQuestions.length; QuestionsIndex++) {
         switch (QuestionsIndex) {
             case 0:
                 const inicioportugues = document.createElement("p");
                 inicioportugues.innerHTML = "Língua Portuguesa";
                 TestArea.appendChild(inicioportugues);
                 break;
-            case 7:
+            case 8:
                 const iniciomatematica = document.createElement("p");
                 iniciomatematica.innerHTML = "Matemática";
                 TestArea.appendChild(iniciomatematica);
                 break;
-            case 15:
+            case 16:
                 const iniciogeografia = document.createElement("p");
                 iniciogeografia.innerHTML = "Geografia";
                 TestArea.appendChild(iniciogeografia);
                 break;
-            case 23:
+            case 24:
                 const iniciohistoria = document.createElement("p");
                 iniciohistoria.innerHTML = "História";
                 TestArea.appendChild(iniciohistoria);
                 break;
-            case 31:
+            case 32:
                 const iniciociencias = document.createElement("p");
                 iniciociencias.innerHTML = "Ciências";
                 TestArea.appendChild(iniciociencias);
