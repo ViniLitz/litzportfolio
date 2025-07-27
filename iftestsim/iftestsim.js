@@ -1,6 +1,6 @@
 let QuestionsAndAnswers = []
 
-fetch('questions.json')
+fetch('questions/questions.json')
   .then(response => response.json())
   .then(data => {
     QuestionsAndAnswers = data;
@@ -43,6 +43,33 @@ function GenerateTest() {
     TestQuestions = ShuffledQuestions;
 
     for (let QuestionsIndex = 0; QuestionsIndex < ShuffledQuestions.length; QuestionsIndex++) {
+        switch (QuestionsIndex) {
+            case 0:
+                const inicioportugues = document.createElement("p");
+                QuestionText.innerHTML = "Língua Portuguesa";
+                TestArea.appendChild(inicioportugues);
+                break;
+            case 7:
+                const iniciomatematica = document.createElement("p");
+                QuestionText.innerHTML = "Matemática";
+                TestArea.appendChild(iniciomatematica);
+                break;
+            case 15:
+                const iniciogeografia = document.createElement("p");
+                QuestionText.innerHTML = "Geografia";
+                TestArea.appendChild(iniciogeografia);
+                break;
+            case 23:
+                const iniciohistoria = document.createElement("p");
+                QuestionText.innerHTML = "História";
+                TestArea.appendChild(iniciohistoria);
+                break;
+            case 31:
+                const iniciociencias = document.createElement("p");
+                QuestionText.innerHTML = "Ciências";
+                TestArea.appendChild(iniciociencias);
+                break;
+        }
         const Question = ShuffledQuestions[QuestionsIndex];
         const OptionLetter = ["a", "b", "c", "d"];
 
