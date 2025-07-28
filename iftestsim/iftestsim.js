@@ -107,22 +107,22 @@ function GenerateTest() {
                 inicioportugues.innerHTML = "Língua Portuguesa";
                 TestArea.appendChild(inicioportugues);
                 break;
-            case 8:
+            case NumeroDeQuestoesDeCadaMateria:
                 const iniciomatematica = document.createElement("p");
                 iniciomatematica.innerHTML = "Matemática";
                 TestArea.appendChild(iniciomatematica);
                 break;
-            case 16:
+            case NumeroDeQuestoesDeCadaMateria * 2:
                 const iniciogeografia = document.createElement("p");
                 iniciogeografia.innerHTML = "Geografia";
                 TestArea.appendChild(iniciogeografia);
                 break;
-            case 24:
+            case NumeroDeQuestoesDeCadaMateria * 3:
                 const iniciohistoria = document.createElement("p");
                 iniciohistoria.innerHTML = "História";
                 TestArea.appendChild(iniciohistoria);
                 break;
-            case 32:
+            case NumeroDeQuestoesDeCadaMateria * 4:
                 const iniciociencias = document.createElement("p");
                 iniciociencias.innerHTML = "Ciências";
                 TestArea.appendChild(iniciociencias);
