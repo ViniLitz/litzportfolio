@@ -93,38 +93,44 @@ function GenerateTest() {
         .sort(() => Math.random() - 0.5)
         .slice(0, NumeroDeQuestoesDeCadaMateria);
     
-    TestQuestions = [...QuestoesPortuguesEmbaralhadas, ...QuestoesMatematicaEmbaralhadas, ...QuestoesGeografiaEmbaralhadas, ...QuestoesHistoriaEmbaralhadas, ...QuestoesCienciasEmbaralhadas]
+    //TestQuestions = [...QuestoesPortuguesEmbaralhadas, ...QuestoesMatematicaEmbaralhadas, ...QuestoesGeografiaEmbaralhadas, ...QuestoesHistoriaEmbaralhadas, ...QuestoesCienciasEmbaralhadas]
 
-/*Criar uma cópia embaralhada do array
-    let ShuffledQuestions = [...QuestionsAndAnswers]
-        .sort(() => Math.random() - 0.5)
-        .slice(0, NumOfQuestionsInput.value);*/
+    TestQuestions.push(...QuestoesPortuguesEmbaralhadas)
+    TestQuestions.push(...QuestoesMatematicaEmbaralhadas)
+    TestQuestions.push(...QuestoesGeografiaEmbaralhadas)
+    TestQuestions.push(...QuestoesHistoriaEmbaralhadas)
+    TestQuestions.push(...QuestoesCienciasEmbaralhadas)
 
     for (let QuestionsIndex = 0; QuestionsIndex < TestQuestions.length; QuestionsIndex++) {
         switch (QuestionsIndex) {
             case 0:
                 const inicioportugues = document.createElement("p");
                 inicioportugues.innerHTML = "Língua Portuguesa";
+                inicioportugues.style.fontWeight = "bold"
                 TestArea.appendChild(inicioportugues);
                 break;
             case NumeroDeQuestoesDeCadaMateria:
                 const iniciomatematica = document.createElement("p");
                 iniciomatematica.innerHTML = "Matemática";
+                iniciomatematica.style.fontWeight = "bold"
                 TestArea.appendChild(iniciomatematica);
                 break;
             case NumeroDeQuestoesDeCadaMateria * 2:
                 const iniciogeografia = document.createElement("p");
                 iniciogeografia.innerHTML = "Geografia";
+                iniciogeografia.style.fontWeight = "bold"
                 TestArea.appendChild(iniciogeografia);
                 break;
             case NumeroDeQuestoesDeCadaMateria * 3:
                 const iniciohistoria = document.createElement("p");
                 iniciohistoria.innerHTML = "História";
+                iniciohistoria.style.fontWeight = "bold"
                 TestArea.appendChild(iniciohistoria);
                 break;
             case NumeroDeQuestoesDeCadaMateria * 4:
                 const iniciociencias = document.createElement("p");
                 iniciociencias.innerHTML = "Ciências";
+                iniciociencias.style.fontWeight = "bold"
                 TestArea.appendChild(iniciociencias);
                 break;
         }
