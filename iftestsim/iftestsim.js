@@ -67,7 +67,7 @@ function GenerateTest() {
         alert("Foram geradas apenas 100 questões, que é o maior número possível.")
         NumOfQuestionsInput.value = 100;
     }
-    if (NumOfQuestionsInput.value < 5) {
+    if (NumOfQuestionsInput.value < 1) {
         alert("Como o número de questões desejadas é um número inválido, foram geradas 40 questões, que é o número padrão.")
         NumOfQuestionsInput.value = 40;
     }
@@ -75,23 +75,51 @@ function GenerateTest() {
 
 //Embaralhar as questões de cada matéria
 
-    let NumeroDeQuestoesDeCadaMateria = parseInt(NumOfQuestionsInput.value / 5)
+    let NumeroDeQuestoesDeMatematica = 0
+    let NumeroDeQuestoesDeGeografia = 0
+    let NumeroDeQuestoesDeHistoria = 0
+    let NumeroDeQuestoesDeCiencias = 0
 
+    let SubjectsIndex = 0
+
+    while (SubjectsIndex < NumOfQuestionsInput.value) {
+        if (SubjectsIndex < NumOfQuestionsInput.value) {
+            NumeroDeQuestoesDePortugues++
+            SubjectsIndex++
+        }
+        if (SubjectsIndex < NumOfQuestionsInput.value) {
+            NumeroDeQuestoesDeMatematica++
+            SubjectsIndex++
+        }
+        if (SubjectsIndex < NumOfQuestionsInput.value) {
+            NumeroDeQuestoesDeGeografia++
+            SubjectsIndex++
+        }
+        if (SubjectsIndex < NumOfQuestionsInput.value) {
+            NumeroDeQuestoesDehistoria++
+            SubjectsIndex++
+        }
+        if (SubjectsIndex < NumOfQuestionsInput.value) {
+            NumeroDeQuestoesDeCiencias++
+            SubjectsIndex++
+        }
+    }
+    
     let QuestoesPortuguesEmbaralhadas = [...QuestoesPortugues]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumeroDeQuestoesDeCadaMateria);
+        .slice(0, NumeroDeQuestoesDePortugues);
     let QuestoesMatematicaEmbaralhadas = [...QuestoesMatematica]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumeroDeQuestoesDeCadaMateria);
+        .slice(0, NumeroDeQuestoesDeMatematica);
     let QuestoesGeografiaEmbaralhadas = [...QuestoesGeografia]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumeroDeQuestoesDeCadaMateria);
+        .slice(0, NumeroDeQuestoesDeGeografia);
     let QuestoesHistoriaEmbaralhadas = [...QuestoesHistoria]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumeroDeQuestoesDeCadaMateria);
+        .slice(0, NumeroDeQuestoesDeHistoria);
     let QuestoesCienciasEmbaralhadas = [...QuestoesCiencias]
         .sort(() => Math.random() - 0.5)
-        .slice(0, NumeroDeQuestoesDeCadaMateria);
+        .slice(0, NumeroDeQuestoesDeCiencias);
     
     TestQuestions.push(...QuestoesPortuguesEmbaralhadas, ...QuestoesMatematicaEmbaralhadas, ...QuestoesGeografiaEmbaralhadas, ...QuestoesHistoriaEmbaralhadas, ...QuestoesCienciasEmbaralhadas) 
 
