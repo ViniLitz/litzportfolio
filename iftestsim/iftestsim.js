@@ -75,6 +75,7 @@ function GenerateTest() {
 
 //Embaralhar as questões de cada matéria
 
+    let NumeroDeQuestoesDePortugues = 0
     let NumeroDeQuestoesDeMatematica = 0
     let NumeroDeQuestoesDeGeografia = 0
     let NumeroDeQuestoesDeHistoria = 0
