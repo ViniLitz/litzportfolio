@@ -26,7 +26,7 @@ fetch('questoes/questoesgeografia.json')
     QuestoesGeografia = data;
   })
 
-fetch('questions/questoeshistoria.json')
+fetch('questoes/questoeshistoria.json')
   .then(response => response.json())
   .then(data => {
     QuestoesHistoria = data;
@@ -36,12 +36,6 @@ fetch('questoes/questoesciencias.json')
   .then(response => response.json())
   .then(data => {
     QuestoesCiencias = data;
-  })
-
-fetch('questoes/questions.json')
-  .then(response => response.json())
-  .then(data => {
-    QuestionsAndAnswers = data;
   })
 
 let TestQuestions = [];
