@@ -139,7 +139,7 @@ input[type="radio"]:checked {
         display: block;
         margin: 30px auto;
         text-align: center;
-        width: 300px;
+        width: 320px;
         height: 65px;
         padding: 3px;
         font-size: 12px;
@@ -147,6 +147,10 @@ input[type="radio"]:checked {
 
     .generatetestbtn {
         margin: 0px auto;
-        width: 320px;
+        width: 340px;
+    }
+
+    .testarea button {
+        margin: 50px auto;
     }
 }

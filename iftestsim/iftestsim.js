@@ -93,13 +93,7 @@ function GenerateTest() {
         .sort(() => Math.random() - 0.5)
         .slice(0, NumeroDeQuestoesDeCadaMateria);
     
-    //TestQuestions = [...QuestoesPortuguesEmbaralhadas, ...QuestoesMatematicaEmbaralhadas, ...QuestoesGeografiaEmbaralhadas, ...QuestoesHistoriaEmbaralhadas, ...QuestoesCienciasEmbaralhadas]
-
-    TestQuestions.push(...QuestoesPortuguesEmbaralhadas)
-    TestQuestions.push(...QuestoesMatematicaEmbaralhadas)
-    TestQuestions.push(...QuestoesGeografiaEmbaralhadas)
-    TestQuestions.push(...QuestoesHistoriaEmbaralhadas)
-    TestQuestions.push(...QuestoesCienciasEmbaralhadas)
+    TestQuestions.push(...QuestoesPortuguesEmbaralhadas, ...QuestoesMatematicaEmbaralhadas, ...QuestoesGeografiaEmbaralhadas, ...QuestoesHistoriaEmbaralhadas, ...QuestoesCienciasEmbaralhadas) 
 
     for (let QuestionsIndex = 0; QuestionsIndex < TestQuestions.length; QuestionsIndex++) {
         switch (QuestionsIndex) {
