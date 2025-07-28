@@ -128,7 +128,7 @@ function GenerateTest() {
                 TestArea.appendChild(iniciociencias);
                 break;
         }
-        const Question = ShuffledQuestions[QuestionsIndex];
+        const Question = TestQuestions[QuestionsIndex];
         const OptionLetter = ["a", "b", "c", "d"];
 
         const QuestionText = document.createElement("p");
