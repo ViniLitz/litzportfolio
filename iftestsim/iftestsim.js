@@ -91,7 +91,7 @@ function GenerateTest() {
             SubjectsIndex++
         }
         if (SubjectsIndex < NumOfQuestionsInput.value) {
-            NumeroDeQuestoesDehistoria++
+            NumeroDeQuestoesDeHistoria++
             SubjectsIndex++
         }
         if (SubjectsIndex < NumOfQuestionsInput.value) {
@@ -126,25 +126,25 @@ function GenerateTest() {
                 inicioportugues.style.fontWeight = "bold"
                 TestArea.appendChild(inicioportugues);
                 break;
-            case NumeroDeQuestoesDeCadaMateria:
+            case NumeroDeQuestoesDePortugues:
                 const iniciomatematica = document.createElement("p");
                 iniciomatematica.innerHTML = "Matemática";
                 iniciomatematica.style.fontWeight = "bold"
                 TestArea.appendChild(iniciomatematica);
                 break;
-            case NumeroDeQuestoesDeCadaMateria * 2:
+            case NumeroDeQuestoesDePortugues + NumeroDeQuestoesDeMatematica:
                 const iniciogeografia = document.createElement("p");
                 iniciogeografia.innerHTML = "Geografia";
                 iniciogeografia.style.fontWeight = "bold"
                 TestArea.appendChild(iniciogeografia);
                 break;
-            case NumeroDeQuestoesDeCadaMateria * 3:
+            case NumeroDeQuestoesDePortugues + NumeroDeQuestoesDeMatematica + NumeroDeQuestoesDeGeografia:
                 const iniciohistoria = document.createElement("p");
                 iniciohistoria.innerHTML = "História";
                 iniciohistoria.style.fontWeight = "bold"
                 TestArea.appendChild(iniciohistoria);
                 break;
-            case NumeroDeQuestoesDeCadaMateria * 4:
+            case NumeroDeQuestoesDePortugues + NumeroDeQuestoesDeMatematica + NumeroDeQuestoesDeGeografia + NumeroDeQuestoesDeHistoria:
                 const iniciociencias = document.createElement("p");
                 iniciociencias.innerHTML = "Ciências";
                 iniciociencias.style.fontWeight = "bold"
