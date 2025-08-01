@@ -718,5 +718,1436 @@
     "19 cm",
     "c",
     "matematica"
+  ],
+  [
+    "A solução da equação 5x - 8 = 2x + 7 é:",
+    "x = 3",
+    "x = 4",
+    "x = 5",
+    "x = 1",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um produto custa R$ 120,00. Com um aumento de 15%, qual será o novo preço?",
+    "R$ 130,00",
+    "R$ 135,00",
+    "R$ 138,00",
+    "R$ 142,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual a área de um círculo com raio de 10 cm? (Considere π = 3,14)",
+    "31,4 cm²",
+    "62,8 cm²",
+    "314 cm²",
+    "100 cm²",
+    "c",
+    "matematica"
+  ],
+  [
+    "As raízes da equação x² - 7x + 10 = 0 são:",
+    "{2, 5}",
+    "{-2, -5}",
+    "{2, -5}",
+    "{-2, 5}",
+    "a",
+    "matematica"
+  ],
+  [
+    "Se 8 trabalhadores constroem um muro em 15 dias, quantos dias 6 trabalhadores levariam para construir o mesmo muro?",
+    "11,25 dias",
+    "18 dias",
+    "20 dias",
+    "22 dias",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual é o valor da expressão (3³ - √81) / (2²)?",
+    "4",
+    "4,5",
+    "5",
+    "9",
+    "b",
+    "matematica"
+  ],
+  [
+    "Um triângulo retângulo tem catetos medindo 8 cm e 15 cm. Qual é a medida da hipotenusa?",
+    "16 cm",
+    "17 cm",
+    "18 cm",
+    "23 cm",
+    "b",
+    "matematica"
+  ],
+  [
+    "O valor de y no sistema {x + 2y = 11; 3x - y = 5} é:",
+    "y = 2",
+    "y = 3",
+    "y = 4",
+    "y = 5",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o volume de um cilindro com raio da base 4 cm e altura 10 cm? (Considere π = 3)",
+    "120 cm³",
+    "240 cm³",
+    "480 cm³",
+    "160 cm³",
+    "c",
+    "matematica"
+  ],
+  [
+    "Fatorando o polinômio x² - 100, obtemos:",
+    "(x - 10)²",
+    "(x + 10)²",
+    "(x - 10)(x + 10)",
+    "x(x - 100)",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o juro simples produzido por um capital de R$ 3.000,00, aplicado a uma taxa de 2,5% ao mês, durante 6 meses?",
+    "R$ 300,00",
+    "R$ 375,00",
+    "R$ 450,00",
+    "R$ 500,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "A soma dos ângulos internos de um eneágono (9 lados) é:",
+    "900°",
+    "1080°",
+    "1260°",
+    "1440°",
+    "c",
+    "matematica"
+  ],
+  [
+    "Em uma urna com 10 bolas brancas, 8 vermelhas e 2 azuis, qual a probabilidade de se retirar uma bola que não seja branca?",
+    "1/2",
+    "1/3",
+    "1/4",
+    "1/5",
+    "a",
+    "matematica"
+  ],
+  [
+    "Desenvolvendo o produto notável (2x - 5y)², obtemos:",
+    "4x² - 25y²",
+    "4x² - 10xy + 25y²",
+    "4x² - 20xy + 25y²",
+    "2x² - 10xy + 5y²",
+    "c",
+    "matematica"
+  ],
+  [
+    "A média aritmética, a moda e a mediana do conjunto de dados {2, 3, 3, 5, 7, 10} são, respectivamente:",
+    "{5, 3, 4}",
+    "{5, 3, 3}",
+    "{4, 3, 5}",
+    "{5, 4, 3}",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual é a forma irredutível da fração 108/144?",
+    "2/3",
+    "3/4",
+    "4/5",
+    "9/12",
+    "b",
+    "matematica"
+  ],
+  [
+    "O resultado da expressão (√12 + √27) / √3 é:",
+    "√13",
+    "5",
+    "√39",
+    "3",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se o perímetro de um quadrado é 36 cm, qual é a sua área?",
+    "36 cm²",
+    "64 cm²",
+    "81 cm²",
+    "144 cm²",
+    "c",
+    "matematica"
+  ],
+  [
+    "O triplo de um número, diminuído de 25, é igual a 50. Qual é esse número?",
+    "15",
+    "20",
+    "25",
+    "30",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual a medida de cada ângulo interno de um hexágono regular?",
+    "60°",
+    "90°",
+    "108°",
+    "120°",
+    "d",
+    "matematica"
+  ],
+  [
+    "A solução da inequação 3x + 9 > 2x + 15 é:",
+    "x > 6",
+    "x < 6",
+    "x > 24",
+    "x < 24",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um mapa está na escala 1:2.000.000. Se a distância entre duas cidades no mapa é de 5,5 cm, qual a distância real em quilômetros?",
+    "11 km",
+    "55 km",
+    "110 km",
+    "1.100 km",
+    "c",
+    "matematica"
+  ],
+  [
+    "O valor de x que torna a proporção 7/x = 21/33 verdadeira é:",
+    "9",
+    "10",
+    "11",
+    "12",
+    "c",
+    "matematica"
+  ],
+  [
+    "A área de um losango com diagonais medindo 12 cm e 16 cm é:",
+    "48 cm²",
+    "96 cm²",
+    "192 cm²",
+    "28 cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "Um capital de R$ 1.000,00 é aplicado a juros compostos de 10% ao ano. Qual será o montante após 2 anos?",
+    "R$ 1.200,00",
+    "R$ 1.210,00",
+    "R$ 1.220,00",
+    "R$ 2.000,00",
+    "b",
+    "matematica"
+  ],
+  [
+    "Simplificando a expressão algébrica (x² - 9) / (x + 3), para x ≠ -3, obtemos:",
+    "x + 3",
+    "x - 3",
+    "x - 9",
+    "x + 9",
+    "b",
+    "matematica"
+  ],
+  [
+    "Quantos números de 3 algarismos distintos podemos formar com os dígitos 1, 2, 3, 4 e 5?",
+    "125",
+    "120",
+    "60",
+    "20",
+    "c",
+    "matematica"
+  ],
+  [
+    "O número 3.750.000 escrito em notação científica é:",
+    "3,75 x 10⁶",
+    "3,75 x 10⁵",
+    "37,5 x 10⁵",
+    "0,375 x 10⁷",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o valor de x na equação 2^(x+1) = 32?",
+    "x = 2",
+    "x = 3",
+    "x = 4",
+    "x = 5",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um ângulo mede 72°. Qual a medida de seu ângulo complementar?",
+    "18°",
+    "28°",
+    "108°",
+    "288°",
+    "a",
+    "matematica"
+  ],
+  [
+    "Uma pesquisa com 500 pessoas mostrou que 70% delas preferem a marca A. Quantas pessoas não preferem a marca A?",
+    "350",
+    "250",
+    "150",
+    "100",
+    "c",
+    "matematica"
+  ],
+  [
+    "A soma das raízes da equação 2x² - 8x - 10 = 0 é:",
+    "2",
+    "4",
+    "5",
+    "-4",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o volume de um cubo cuja área total é 54 cm²?",
+    "9 cm³",
+    "27 cm³",
+    "54 cm³",
+    "81 cm³",
+    "b",
+    "matematica"
+  ],
+  [
+    "Num triângulo isósceles, o ângulo do vértice mede 40°. Quanto mede cada ângulo da base?",
+    "40°",
+    "50°",
+    "60°",
+    "70°",
+    "d",
+    "matematica"
+  ],
+  [
+    "Uma função do 1º grau é dada por f(x) = 3x - 5. Qual o valor de f(7)?",
+    "15",
+    "16",
+    "21",
+    "26",
+    "b",
+    "matematica"
+  ],
+  [
+    "O produto das raízes da equação x² - 12x + 20 = 0 é:",
+    "-12",
+    "12",
+    "-20",
+    "20",
+    "d",
+    "matematica"
+  ],
+  [
+    "A área de um trapézio com bases de 10 cm e 18 cm e altura de 8 cm é:",
+    "112 cm²",
+    "144 cm²",
+    "224 cm²",
+    "280 cm²",
+    "a",
+    "matematica"
+  ],
+  [
+    "Se log₂x = 5, qual o valor de x?",
+    "x = 10",
+    "x = 25",
+    "x = 32",
+    "x = 7",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o próximo termo da Progressão Geométrica (3, 9, 27, ...)?",
+    "30",
+    "54",
+    "81",
+    "36",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual a diagonal de um retângulo com lados medindo 5 cm e 12 cm?",
+    "13 cm",
+    "15 cm",
+    "17 cm",
+    "10 cm",
+    "a",
+    "matematica"
+  ],
+  [
+    "A soma de dois números é 30 e a diferença entre eles é 6. Quais são esses números?",
+    "{10, 20}",
+    "{12, 18}",
+    "{14, 16}",
+    "{11, 19}",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o resultado de 15% de 300?",
+    "15",
+    "30",
+    "45",
+    "50",
+    "c",
+    "matematica"
+  ],
+  [
+    "O perímetro de uma circunferência é 18π cm. Qual o seu raio?",
+    "6 cm",
+    "9 cm",
+    "12 cm",
+    "18 cm",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se um evento tem probabilidade de 3/5 de ocorrer, qual a probabilidade de ele não ocorrer?",
+    "1/5",
+    "2/5",
+    "3/5",
+    "5/3",
+    "b",
+    "matematica"
+  ],
+  [
+    "O valor da expressão 5! - 4! é:",
+    "1",
+    "20",
+    "96",
+    "120",
+    "c",
+    "matematica"
+  ],
+  [
+    "A geratriz de um cone reto com raio da base 6 cm e altura 8 cm mede:",
+    "9 cm",
+    "10 cm",
+    "12 cm",
+    "14 cm",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o valor do discriminante (Δ) da equação 3x² - 7x + 2 = 0?",
+    "24",
+    "25",
+    "49",
+    "73",
+    "b",
+    "matematica"
+  ],
+  [
+    "O número 256 é uma potência de base 2. Qual é o expoente?",
+    "6",
+    "7",
+    "8",
+    "9",
+    "c",
+    "matematica"
+  ],
+  [
+    "Uma piscina tem 10 m de comprimento, 5 m de largura e 2 m de profundidade. Qual a sua capacidade em litros? (1 m³ = 1000 L)",
+    "10.000 L",
+    "50.000 L",
+    "100.000 L",
+    "200.000 L",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual das alternativas representa um número irracional?",
+    "√49",
+    "3/5",
+    "0,333...",
+    "√10",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual o resultado da operação (x - 7)(x + 7)?",
+    "x² - 14",
+    "x² + 14",
+    "x² - 49",
+    "x² + 49",
+    "c",
+    "matematica"
+  ],
+  [
+    "Se A = {1, 2, 3, 4} e B = {3, 4, 5, 6}, o conjunto A ∩ B (intersecção) é:",
+    "{1, 2}",
+    "{5, 6}",
+    "{3, 4}",
+    "{1, 2, 3, 4, 5, 6}",
+    "c",
+    "matematica"
+  ],
+  [
+    "O comprimento de um arco de 60° em uma circunferência de raio 12 cm é:",
+    "2π cm",
+    "3π cm",
+    "4π cm",
+    "6π cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um avião levanta voo sob um ângulo de 30° em relação ao solo. Após percorrer 1000 metros, a que altura ele estará do solo? (Use sen 30° = 0,5)",
+    "250 m",
+    "500 m",
+    "750 m",
+    "1000 m",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual a raiz da função f(x) = -4x + 28?",
+    "x = -7",
+    "x = 4",
+    "x = 7",
+    "x = 28",
+    "c",
+    "matematica"
+  ],
+  [
+    "O valor de | -5 + 2 | - | -8 | é:",
+    "-5",
+    "-11",
+    "5",
+    "11",
+    "a",
+    "matematica"
+  ],
+  [
+    "Quantos anagramas tem a palavra 'ESCOLA'?",
+    "120",
+    "240",
+    "360",
+    "720",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual o valor de cos(60°)?",
+    "1/2",
+    "√2/2",
+    "√3/2",
+    "1",
+    "a",
+    "matematica"
+  ],
+  [
+    "O termo geral de uma Progressão Aritmética é an = 5 + (n-1)3. Qual é o 10º termo?",
+    "30",
+    "32",
+    "35",
+    "38",
+    "b",
+    "matematica"
+  ],
+  [
+    "O MMC (Mínimo Múltiplo Comum) entre 15, 20 e 30 é:",
+    "30",
+    "60",
+    "90",
+    "120",
+    "b",
+    "matematica"
+  ],
+  [
+    "Em um triângulo, os lados medem 6 cm, 8 cm e 10 cm. Qual a sua área?",
+    "24 cm²",
+    "30 cm²",
+    "40 cm²",
+    "48 cm²",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o valor de 2⁻³?",
+    "-6",
+    "-8",
+    "1/6",
+    "1/8",
+    "d",
+    "matematica"
+  ],
+  [
+    "A soma dos ângulos externos de qualquer polígono convexo é sempre:",
+    "180°",
+    "360°",
+    "540°",
+    "Depende do número de lados",
+    "b",
+    "matematica"
+  ],
+  [
+    "Um carro custa R$ 50.000,00 e sofre uma desvalorização de 20% no primeiro ano. Qual o seu valor após um ano?",
+    "R$ 48.000,00",
+    "R$ 45.000,00",
+    "R$ 42.000,00",
+    "R$ 40.000,00",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual o vértice da parábola da equação y = x² - 6x + 5?",
+    "(3, -4)",
+    "(-3, 4)",
+    "(6, 5)",
+    "(-6, -5)",
+    "a",
+    "matematica"
+  ],
+  [
+    "Se 3/4 de um número é 36, qual é o número?",
+    "27",
+    "40",
+    "48",
+    "52",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o volume de uma pirâmide de base quadrada com lado 6 cm e altura 10 cm?",
+    "60 cm³",
+    "120 cm³",
+    "180 cm³",
+    "360 cm³",
+    "b",
+    "matematica"
+  ],
+  [
+    "O número 0,000081 em notação científica é:",
+    "8,1 x 10⁻⁴",
+    "8,1 x 10⁻⁵",
+    "8,1 x 10⁻⁶",
+    "81 x 10⁻⁶",
+    "b",
+    "matematica"
+  ],
+  [
+    "A área lateral de um cubo de aresta 5 cm é:",
+    "25 cm²",
+    "100 cm²",
+    "125 cm²",
+    "150 cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual a solução do sistema {x = 3y; x + y = 20}?",
+    "{x=10, y=10}",
+    "{x=12, y=8}",
+    "{x=15, y=5}",
+    "{x=18, y=2}",
+    "c",
+    "matematica"
+  ],
+  [
+    "Simplificando √72, obtemos:",
+    "2√18",
+    "3√8",
+    "6√2",
+    "36",
+    "c",
+    "matematica"
+  ],
+  [
+    "Uma jaqueta de R$ 250,00 foi vendida por R$ 200,00. Qual foi o percentual de desconto?",
+    "10%",
+    "15%",
+    "20%",
+    "25%",
+    "c",
+    "matematica"
+  ],
+  [
+    "A equação (x-3)² = 25 tem como soluções:",
+    "{-8, 2}",
+    "{8, -2}",
+    "{8, 2}",
+    "{-8, -2}",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o número de diagonais de um decágono (10 lados)?",
+    "27",
+    "35",
+    "44",
+    "90",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se A e B são eventos independentes com P(A) = 0,4 e P(B) = 0,5, qual a P(A ∩ B)?",
+    "0,1",
+    "0,2",
+    "0,9",
+    "0,4",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual a distância entre os pontos A(2, 3) e B(5, 7)?",
+    "3",
+    "4",
+    "5",
+    "7",
+    "c",
+    "matematica"
+  ],
+  [
+    "O MDC (Máximo Divisor Comum) entre 48, 60 e 72 é:",
+    "6",
+    "8",
+    "12",
+    "24",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um terreno retangular tem 80 metros de perímetro. Se o comprimento é o triplo da largura, quais são as dimensões?",
+    "10 m e 30 m",
+    "15 m e 25 m",
+    "5 m e 35 m",
+    "12 m e 28 m",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o valor de sen(30°) + cos(60°)?",
+    "√3/2",
+    "√2",
+    "1",
+    "1/2",
+    "c",
+    "matematica"
+  ],
+  [
+    "A soma dos infinitos termos da PG (1/2, 1/4, 1/8, ...) é:",
+    "1/2",
+    "3/4",
+    "1",
+    "2",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o valor do ângulo x na figura, sabendo que as retas r e s são paralelas?",
+    "40°",
+    "50°",
+    "60°",
+    "130°",
+    "a",
+    "matematica"
+  ],
+  [
+    "A equação da reta que passa pelos pontos (1, 2) e (3, 6) é:",
+    "y = x + 1",
+    "y = 2x",
+    "y = 3x - 1",
+    "y = x + 3",
+    "b",
+    "matematica"
+  ],
+  [
+    "O resultado de 2,5 x 10⁵ multiplicado por 4 x 10⁻³ é:",
+    "1 x 10³",
+    "1 x 10²",
+    "10 x 10⁸",
+    "1 x 10⁻²",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um poliedro convexo tem 8 faces e 12 arestas. Quantos vértices ele possui? (Use a Relação de Euler: V - A + F = 2)",
+    "4",
+    "6",
+    "8",
+    "10",
+    "b",
+    "matematica"
+  ],
+  [
+    "A função f(x) = x² - 4 é positiva para quais valores de x?",
+    "x > 2 ou x < -2",
+    "-2 < x < 2",
+    "x > 2",
+    "x < -2",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual a área de um setor circular de 90° e raio 8 cm?",
+    "8π cm²",
+    "16π cm²",
+    "32π cm²",
+    "64π cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "O 5º termo da expansão do binômio (x + 2)⁶ é:",
+    "60x²",
+    "120x³",
+    "240x²",
+    "160x³",
+    "c",
+    "matematica"
+  ],
+  [
+    "A razão entre as áreas de dois quadrados, sabendo que o lado do segundo é o dobro do lado do primeiro, é:",
+    "1/2",
+    "2",
+    "1/4",
+    "4",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual o juro composto produzido por R$ 500,00 a 20% ao ano, capitalizados semestralmente, durante 1 ano?",
+    "R$ 100,00",
+    "R$ 102,50",
+    "R$ 105,00",
+    "R$ 200,00",
+    "b",
+    "matematica"
+  ],
+  [
+    "Racionalizando o denominador de 12/√3, obtemos:",
+    "4√3",
+    "6√3",
+    "12√3",
+    "3√12",
+    "a",
+    "matematica"
+  ],
+  [
+    "A altura de um triângulo equilátero de lado 12 cm é:",
+    "6 cm",
+    "12√3 cm",
+    "6√3 cm",
+    "12 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "O ponto médio do segmento de reta com extremidades A(1, 8) e B(7, 2) é:",
+    "(3, 5)",
+    "(4, 5)",
+    "(8, 10)",
+    "(6, 6)",
+    "b",
+    "matematica"
+  ],
+  [
+    "Quantos grupos de 4 pessoas podemos formar a partir de um total de 10 pessoas?",
+    "40",
+    "210",
+    "5040",
+    "10000",
+    "b",
+    "matematica"
+  ],
+  [
+    "A soma dos 20 primeiros termos da PA (2, 5, 8, ...) é:",
+    "590",
+    "610",
+    "630",
+    "1180",
+    "b",
+    "matematica"
+  ],
+  [
+    "Se tan(x) = 1, com x no primeiro quadrante, qual o valor de x?",
+    "30°",
+    "45°",
+    "60°",
+    "90°",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o valor de log₅(125)?",
+    "2",
+    "3",
+    "5",
+    "25",
+    "b",
+    "matematica"
+  ],
+  [
+    "A área de um triângulo pode ser calculada pelo semiperímetro usando a fórmula de Herão. Se os lados são 5, 12 e 13, qual a área?",
+    "25",
+    "30",
+    "60",
+    "65",
+    "b",
+    "matematica"
+  ],
+  [
+    "A equação modular |2x - 1| = 7 tem como conjunto solução:",
+    "{4}",
+    "{-3}",
+    "{4, -3}",
+    "{4, 3}",
+    "c",
+    "matematica"
+  ],
+  [
+    "O volume de uma esfera de raio 3 cm é: (Use V = 4/3 πr³)",
+    "12π cm³",
+    "18π cm³",
+    "27π cm³",
+    "36π cm³",
+    "d",
+    "matematica"
+  ],
+  [
+    "Qual o resto da divisão do polinômio P(x) = x³ - 2x² + x + 5 por (x - 2)?",
+    "5",
+    "7",
+    "9",
+    "11",
+    "b",
+    "matematica"
+  ],
+  [
+    "A matriz inversa de A = [[2, 1], [5, 3]] é:",
+    "[[3, -1], [-5, 2]]",
+    "[[2, -1], [-5, 3]]",
+    "[[-3, 1], [5, -2]]",
+    "[[3, 1], [5, 2]]",
+    "a",
+    "matematica"
+  ],
+  [
+    "O determinante da matriz [[4, 6], [2, 5]] é:",
+    "8",
+    "12",
+    "20",
+    "32",
+    "a",
+    "matematica"
+  ],
+  [
+    "A equação 9^x = 243 pode ser resolvida transformando para a base 3. Qual o valor de x?",
+    "2",
+    "2,5",
+    "3",
+    "3,5",
+    "b",
+    "matematica"
+  ],
+  [
+    "O gráfico da função f(x) = -x² + 4x - 3 é uma parábola com concavidade:",
+    "Para cima e intercepta y em -3",
+    "Para baixo e intercepta y em -3",
+    "Para cima e intercepta y em 4",
+    "Para baixo e intercepta y em 4",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual a área da coroa circular formada por duas circunferências de raios 5 cm e 7 cm?",
+    "12π cm²",
+    "24π cm²",
+    "35π cm²",
+    "49π cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "O valor de x na equação 5(x + 2) - 3(x - 1) = 21 é:",
+    "2",
+    "3",
+    "4",
+    "5",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um celular foi comprado por R$ 1.800,00 e vendido com um lucro de 25%. Qual foi o preço de venda?",
+    "R$ 2.000,00",
+    "R$ 2.150,00",
+    "R$ 2.250,00",
+    "R$ 2.400,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "A área de um quadrado inscrito em um círculo de raio 5 cm é:",
+    "25 cm²",
+    "50 cm²",
+    "75 cm²",
+    "100 cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "A solução da equação x/2 + x/3 = 10 é:",
+    "x = 6",
+    "x = 10",
+    "x = 12",
+    "x = 30",
+    "c",
+    "matematica"
+  ],
+  [
+    "Seis torneiras enchem um tanque em 10 horas. Quantas horas levarão 4 dessas torneiras para encher o mesmo tanque?",
+    "12 horas",
+    "15 horas",
+    "18 horas",
+    "20 horas",
+    "b",
+    "matematica"
+  ],
+  [
+    "O resultado de (√50 - √18) é:",
+    "√32",
+    "2√2",
+    "√2",
+    "8",
+    "b",
+    "matematica"
+  ],
+  [
+    "A soma dos 10 primeiros múltiplos positivos de 7 é:",
+    "350",
+    "385",
+    "420",
+    "70",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual o valor de x na equação 3^(x) + 3^(x+1) = 36?",
+    "x = 1",
+    "x = 2",
+    "x = 3",
+    "x = 9",
+    "b",
+    "matematica"
+  ],
+  [
+    "A altura de um cone é o triplo do raio da base. Se o volume do cone é 27π cm³, qual o raio?",
+    "3 cm",
+    "6 cm",
+    "9 cm",
+    "27 cm",
+    "a",
+    "matematica"
+  ],
+  [
+    "Lançando dois dados, qual a probabilidade de a soma dos pontos ser igual a 7?",
+    "1/36",
+    "5/36",
+    "6/36 (ou 1/6)",
+    "7/36",
+    "c",
+    "matematica"
+  ],
+  [
+    "O coeficiente angular da reta que passa pelos pontos A(-1, 4) e B(3, -4) é:",
+    "1/2",
+    "-1/2",
+    "2",
+    "-2",
+    "d",
+    "matematica"
+  ],
+  [
+    "O conjunto imagem da função f(x) = x² - 8x + 15 é:",
+    "y ≥ -1",
+    "y ≤ -1",
+    "y ≥ 15",
+    "y ≤ 15",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um carro percorre 420 km em 5 horas. Qual sua velocidade média?",
+    "80 km/h",
+    "82 km/h",
+    "84 km/h",
+    "90 km/h",
+    "c",
+    "matematica"
+  ],
+  [
+    "Fatorando completamente o polinômio 3x² - 75, obtemos:",
+    "3(x² - 25)",
+    "3(x - 5)(x + 5)",
+    "3(x - 5)²",
+    "(3x - 25)(x + 3)",
+    "b",
+    "matematica"
+  ],
+  [
+    "A raiz quadrada de 0,0009 é:",
+    "0,3",
+    "0,03",
+    "0,003",
+    "0,0003",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual a área de um triângulo equilátero cujo perímetro é 24 cm?",
+    "8√3 cm²",
+    "16√3 cm²",
+    "24√3 cm²",
+    "64 cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "O valor de x que satisfaz a equação (x!) / ((x-2)!) = 30 é:",
+    "4",
+    "5",
+    "6",
+    "7",
+    "c",
+    "matematica"
+  ],
+  [
+    "Se sec(x) = 2, qual o valor de cos(x)?",
+    "2",
+    "-2",
+    "1/2",
+    "-1/2",
+    "c",
+    "matematica"
+  ],
+  [
+    "Em um grupo de 100 estudantes, 60 jogam futebol, 40 jogam vôlei e 10 não jogam nenhum dos dois. Quantos jogam ambos?",
+    "5",
+    "10",
+    "15",
+    "20",
+    "a",
+    "matematica"
+  ],
+  [
+    "A diagonal de um cubo de aresta 4 cm mede:",
+    "4√2 cm",
+    "4√3 cm",
+    "8 cm",
+    "12 cm",
+    "b",
+    "matematica"
+  ],
+  [
+    "A inequação |x - 3| < 2 tem como solução o intervalo:",
+    "]1, 5[",
+    "]-5, -1[",
+    "]-1, 5[",
+    "]-∞, 1[ U ]5, +∞[",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o valor de (0,2)³?",
+    "0,6",
+    "0,06",
+    "0,008",
+    "0,0008",
+    "c",
+    "matematica"
+  ],
+  [
+    "A soma dos coeficientes do polinômio P(x) = (2x - 1)³ é obtida fazendo x=1. Qual é o valor?",
+    "0",
+    "1",
+    "3",
+    "8",
+    "b",
+    "matematica"
+  ],
+  [
+    "O raio da circunferência de equação x² + y² - 6x + 8y - 11 = 0 é:",
+    "5",
+    "6",
+    "11",
+    "36",
+    "b",
+    "matematica"
+  ],
+  [
+    "Um investidor aplica R$ 10.000,00 a juros simples de 1,5% ao mês. Qual será o montante após um ano?",
+    "R$ 1.800,00",
+    "R$ 11.200,00",
+    "R$ 11.800,00",
+    "R$ 12.000,00",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o valor da tangente de 45°?",
+    "1/2",
+    "√3/3",
+    "1",
+    "√3",
+    "c",
+    "matematica"
+  ],
+  [
+    "Em uma PA, o primeiro termo é 4 e o décimo termo é 31. Qual é a razão?",
+    "2",
+    "2,5",
+    "3",
+    "3,5",
+    "c",
+    "matematica"
+  ],
+  [
+    "A área de um hexágono regular de lado 6 cm é:",
+    "36√3 cm²",
+    "54√3 cm²",
+    "72√3 cm²",
+    "108 cm²",
+    "b",
+    "matematica"
+  ],
+  [
+    "Quantos números de 4 algarismos podem ser formados usando os dígitos 0, 1, 2, 3, 4 e 5?",
+    "1296",
+    "1080",
+    "1000",
+    "625",
+    "b",
+    "matematica"
+  ],
+  [
+    "O preço de um item aumentou de R$ 40,00 para R$ 50,00. Qual foi o percentual de aumento?",
+    "10%",
+    "20%",
+    "25%",
+    "30%",
+    "c",
+    "matematica"
+  ],
+  [
+    "O resultado de 16^(3/4) é:",
+    "4",
+    "6",
+    "8",
+    "12",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual a distância do ponto P(3, 4) à reta de equação 3x + 4y - 10 = 0?",
+    "2",
+    "3",
+    "4",
+    "5",
+    "b",
+    "matematica"
+  ],
+  [
+    "A soma das soluções da equação 2x² - 5x + 3 = 0 é:",
+    "5/2",
+    "-5/2",
+    "3/2",
+    "-3/2",
+    "a",
+    "matematica"
+  ],
+  [
+    "O volume de um tetraedro regular de aresta 6 cm é:",
+    "12√2 cm³",
+    "18√2 cm³",
+    "36√2 cm³",
+    "72 cm³",
+    "b",
+    "matematica"
+  ],
+  [
+    "A média geométrica entre 4 e 9 é:",
+    "5",
+    "6",
+    "6,5",
+    "13",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual a área de um segmento circular de um círculo de raio 4 cm, determinado por um ângulo central de 90°?",
+    "4π - 8",
+    "4π - 4",
+    "16π - 8",
+    "16π - 4",
+    "a",
+    "matematica"
+  ],
+  [
+    "Se o logaritmo de um número na base 10 é 3, que número é esse?",
+    "30",
+    "100",
+    "300",
+    "1000",
+    "d",
+    "matematica"
+  ],
+  [
+    "A razão de uma PG em que a₃ = 12 e a₅ = 48 é:",
+    "2",
+    "3",
+    "4",
+    "6",
+    "a",
+    "matematica"
+  ],
+  [
+    "Um triângulo ABC é retângulo em A. Se AB = 20 e AC = 21, qual o valor de BC?",
+    "25",
+    "27",
+    "29",
+    "31",
+    "c",
+    "matematica"
+  ],
+  [
+    "O dobro da idade de João mais 5 é igual a 35. Qual a idade de João?",
+    "10 anos",
+    "15 anos",
+    "20 anos",
+    "30 anos",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é a forma fatorada de x³ - 8?",
+    "(x-2)(x²+2x+4)",
+    "(x-2)(x²+4)",
+    "(x-2)³",
+    "(x+2)(x²-2x+4)",
+    "a",
+    "matematica"
+  ],
+  [
+    "A soma dos ângulos de um polígono é 1800°. Quantos lados ele tem?",
+    "10",
+    "11",
+    "12",
+    "13",
+    "c",
+    "matematica"
+  ],
+  [
+    "O valor de sen(150°) é:",
+    "1/2",
+    "-1/2",
+    "√3/2",
+    "-√3/2",
+    "a",
+    "matematica"
+  ],
+  [
+    "Qual o termo independente de x no desenvolvimento de (x + 1/x)⁶?",
+    "6",
+    "15",
+    "20",
+    "30",
+    "c",
+    "matematica"
+  ],
+  [
+    "Em uma cidade, 35% da população lê o jornal A, 45% lê o jornal B e 10% lê ambos. Qual a porcentagem da população que não lê nenhum dos jornais?",
+    "10%",
+    "20%",
+    "30%",
+    "40%",
+    "c",
+    "matematica"
+  ],
+  [
+    "A área total de um cilindro equilátero (altura = diâmetro) com raio da base 3 cm é:",
+    "27π cm²",
+    "36π cm²",
+    "54π cm²",
+    "72π cm²",
+    "c",
+    "matematica"
+  ],
+  [
+    "A equação 2x⁴ - 7x² + 5 = 0 tem como uma de suas soluções:",
+    "√5",
+    "√2",
+    "1",
+    "2",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual o valor de 20! / 18!?",
+    "20",
+    "190",
+    "380",
+    "400",
+    "c",
+    "matematica"
+  ],
+  [
+    "Um ângulo inscrito em uma circunferência mede 40°. Qual a medida do arco correspondente?",
+    "20°",
+    "40°",
+    "60°",
+    "80°",
+    "d",
+    "matematica"
+  ],
+  [
+    "O apótema de um hexágono regular de lado 8 cm mede:",
+    "4 cm",
+    "8√3 cm",
+    "4√3 cm",
+    "8 cm",
+    "c",
+    "matematica"
+  ],
+  [
+    "Qual a mediana do conjunto {10, 2, 8, 4, 9}?",
+    "10",
+    "8",
+    "4",
+    "6,6",
+    "b",
+    "matematica"
+  ],
+  [
+    "Qual é a negação da proposição 'Todos os alunos são estudiosos'?",
+    "Nenhum aluno é estudioso.",
+    "Alguns alunos não são estudiosos.",
+    "Todos os alunos não são estudiosos.",
+    "Existe pelo menos um aluno que não é estudioso.",
+    "d",
+    "matematica"
+  ],
+  [
+    "A solução da inequação (x-3)(x-5) < 0 é:",
+    "x < 3",
+    "x > 5",
+    "3 < x < 5",
+    "x < 3 ou x > 5",
+    "c",
+    "matematica"
+  ],
+  [
+    "O ponto de intersecção da função f(x) = 2x - 6 com o eixo das abscissas (eixo x) é:",
+    "(0, -6)",
+    "(-6, 0)",
+    "(3, 0)",
+    "(0, 3)",
+    "c",
+    "matematica"
   ]
 ]
