@@ -1,4 +1,4 @@
-const board = document.getElementById("board");
+const board = document.querySelector(".board");
 const ctx = board.getContext("2d");
 
 for (let index = 0; index < 8; index++) {
