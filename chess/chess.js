@@ -12,22 +12,62 @@ for (let index = 1; index < 64; index++) {
             ctx.fillRect(100 * index, 100 * index, 100, 100);
             break;
         case index < 16:
+            if (ctx.fillStyle === "white") {
+                ctx.fillStyle = "black"
+            } else {
+                ctx.fillStyle = "white"
+            }       
             ctx.fillRect(100 * index, 200 * index, 100, 100);
+            if (ctx.fillStyle === "white") {
+                ctx.fillStyle = "black"
+            } else {
+                ctx.fillStyle = "white"
+            }       
         case index < 24:
             ctx.fillRect(100 * index, 300 * index, 100, 100);
             break;
         case index < 32:
+            if (ctx.fillStyle === "white") {
+                ctx.fillStyle = "black"
+            } else {
+                ctx.fillStyle = "white"
+            }       
             ctx.fillRect(100 * index, 400 * index, 100, 100);
+            if (ctx.fillStyle === "white") {
+                ctx.fillStyle = "black"
+            } else {
+                ctx.fillStyle = "white"
+            }       
         case index < 40:
             ctx.fillRect(100 * index, 500 * index, 100, 100);
             break;
         case index < 48:
+            if (ctx.fillStyle === "white") {
+                ctx.fillStyle = "black"
+            } else {
+                ctx.fillStyle = "white"
+            }       
             ctx.fillRect(100 * index, 600 * index, 100, 100);
+            if (ctx.fillStyle === "white") {
+                ctx.fillStyle = "black"
+            } else {
+                ctx.fillStyle = "white"
+            }       
         case index < 56:
             ctx.fillRect(100 * index, 700 * index, 100, 100);
             break;
         case index < 64:
+            if (ctx.fillStyle === "white") {
+                ctx.fillStyle = "black"
+            } else {
+                ctx.fillStyle = "white"
+            }       
             ctx.fillRect(100 * index, 800 * index, 100, 100);
+            if (ctx.fillStyle === "white") {
+                ctx.fillStyle = "black"
+            } else {
+                ctx.fillStyle = "white"
+            }       
         default: console.log("Erro na formação do tabuleiro")
             break;
     }
