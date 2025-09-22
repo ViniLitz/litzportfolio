@@ -1,3 +1,7 @@
 body {
     background-color: rgb(92, 92, 92);
 }
+
+canvas {
+    border: grey 4px sollid;
+}
