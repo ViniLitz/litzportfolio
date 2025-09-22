@@ -1,68 +1,70 @@
 const board = document.querySelector(".board");
 const ctx = board.getContext("2d");
 
-for (let index = 1; index < 64; index++) {
+let BoardIndex = 1
+
+for (BoardIndex = 1;BoardIndex  < 64; BoardIndex++) {
     if (ctx.fillStyle === "white") {
         ctx.fillStyle = "black"
     } else {
         ctx.fillStyle = "white"
     }
-    switch (index) {
-        case index < 8:
-            ctx.fillRect(100 * index, 100 * index, 100, 100);
+    switch (BoardIndex) {
+        case BoardIndex < 8:
+            ctx.fillRect(100 * BoardIndex, 100 * BoardIndex, 100, 100);
             break;
-        case index < 16:
+        case BoardIndex < 16:
             if (ctx.fillStyle === "white") {
                 ctx.fillStyle = "black"
             } else {
                 ctx.fillStyle = "white"
             }       
-            ctx.fillRect(100 * index, 200 * index, 100, 100);
+            ctx.fillRect(100 * BoardIndex, 200 * BoardIndex, 100, 100);
             if (ctx.fillStyle === "white") {
                 ctx.fillStyle = "black"
             } else {
                 ctx.fillStyle = "white"
             }       
-        case index < 24:
-            ctx.fillRect(100 * index, 300 * index, 100, 100);
+        case BoardIndex < 24:
+            ctx.fillRect(100 * BoardIndex, 300 * BoardIndex, 100, 100);
             break;
-        case index < 32:
+        case BoardIndex < 32:
             if (ctx.fillStyle === "white") {
                 ctx.fillStyle = "black"
             } else {
                 ctx.fillStyle = "white"
             }       
-            ctx.fillRect(100 * index, 400 * index, 100, 100);
+            ctx.fillRect(100 * BoardIndex, 400 * BoardIndex, 100, 100);
             if (ctx.fillStyle === "white") {
                 ctx.fillStyle = "black"
             } else {
                 ctx.fillStyle = "white"
             }       
-        case index < 40:
-            ctx.fillRect(100 * index, 500 * index, 100, 100);
+        case BoardIndex < 40:
+            ctx.fillRect(100 * BoardIndex, 500 * BoardIndex, 100, 100);
             break;
-        case index < 48:
+        case BoardIndex < 48:
             if (ctx.fillStyle === "white") {
                 ctx.fillStyle = "black"
             } else {
                 ctx.fillStyle = "white"
             }       
-            ctx.fillRect(100 * index, 600 * index, 100, 100);
+            ctx.fillRect(100 * BoardIndex, 600 * BoardIndex, 100, 100);
             if (ctx.fillStyle === "white") {
                 ctx.fillStyle = "black"
             } else {
                 ctx.fillStyle = "white"
             }       
-        case index < 56:
-            ctx.fillRect(100 * index, 700 * index, 100, 100);
+        case BoardIndex < 56:
+            ctx.fillRect(100 * BoardIndex, 700 * BoardIndex, 100, 100);
             break;
-        case index < 64:
+        case BoardIndex < 64:
             if (ctx.fillStyle === "white") {
                 ctx.fillStyle = "black"
             } else {
                 ctx.fillStyle = "white"
             }       
-            ctx.fillRect(100 * index, 800 * index, 100, 100);
+            ctx.fillRect(100 * BoardIndex, 800 * BoardIndex, 100, 100);
             if (ctx.fillStyle === "white") {
                 ctx.fillStyle = "black"
             } else {
