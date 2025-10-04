@@ -1,7 +1,19 @@
 body {
     background-color: rgb(92, 92, 92);
+    margin: 0;
+    padding: 0;
 }
 
-canvas {
-    border: grey 4px sollid;
+button {
+  border: none;
+  width: 50px;
+  height: 50px;
+}
+
+.WhiteSquare {
+  background-color: white;
+}
+
+.BlackSquare {
+  background-color: black;
 }
