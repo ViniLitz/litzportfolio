@@ -13,8 +13,6 @@ for (let BoardIndex = 0; BoardIndex < 8; BoardIndex++) {
 }
 
 ColorOfSquare = "Black"
-const br1 = document.createElement("br")
-document.body.appendChild(br1)
 
 for (let BoardIndex = 0; BoardIndex < 8; BoardIndex++) {
   const square = document.createElement("button")
@@ -29,9 +27,6 @@ for (let BoardIndex = 0; BoardIndex < 8; BoardIndex++) {
 }
 
 ColorOfSquare = "White"
-const br2 = document.createElement("br")
-document.body.appendChild(br2)
-
 
 for (let BoardIndex = 0; BoardIndex < 8; BoardIndex++) {
   const square = document.createElement("button")
@@ -46,9 +41,6 @@ for (let BoardIndex = 0; BoardIndex < 8; BoardIndex++) {
 }
 
 ColorOfSquare = "Black"
-const br3 = document.createElement("br")
-document.body.appendChild(br3)
-
 
 for (let BoardIndex = 0; BoardIndex < 8; BoardIndex++) {
   const square = document.createElement("button")
@@ -63,9 +55,6 @@ for (let BoardIndex = 0; BoardIndex < 8; BoardIndex++) {
 }
 
 ColorOfSquare = "White"
-const br4 = document.createElement("br")
-document.body.appendChild(br4)
-
 
 for (let BoardIndex = 0; BoardIndex < 8; BoardIndex++) {
   const square = document.createElement("button")
