@@ -1,0 +1,60 @@
+body {
+    background-color: #6a994e;
+    font-family: "Lato", sans-serif;
+}
+
+.MusicalNoteArea {
+    background-color: #f2e8cf;
+    width: 360px;
+    height: 520px;
+    border-radius: 35px;
+    text-align: center;
+    margin: 50px auto;
+    user-select: none;
+}
+
+.MusicalNoteArea h2 {
+    padding-top: 25px;
+    font-size: 30px;
+    cursor: default;
+}
+
+.MusicalNoteArea img {
+    width: 260px;
+    height: 280px;
+}
+
+.NoteChoice {
+    width: 85px;
+    height: 50px;
+    border-radius: 10px;
+    border: 4px solid #386641;
+    font-size: 20px;
+    background-color: #f2e8cf;
+    margin-top: 40px;
+}
+
+.NoteChoice:hover {
+    background-color: #ccc2a7;
+    cursor: pointer;
+}
+
+.NextLevelButton {
+    width: 255px;
+    height: 50px;
+    border-radius: 10px;
+    border: 4px solid #386641;
+    font-size: 20px;
+    background-color: #f2e8cf;
+    margin-top: 36px;
+}
+
+.NextLevelButton:hover {
+    background-color: #ccc2a7;
+    cursor: pointer;
+}
+
+.NextLevelButton:active {
+    background-color: #386641;
+    color: #f2e8cf;
+}
